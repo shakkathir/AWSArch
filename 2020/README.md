@@ -7,4 +7,4 @@
 
 ![ALT-TXT](diag-0002.png)
 ---
-[embed](https://d1.awsstatic.com/whitepapers/building-a-scalable-and-secure-multi-vpc-aws-network-infrastructure.pdf)[/embed]
+[embed](https://github.com/shakkathir/AWSArch/tree/master/2020/2019.feb.gartner.ML.AI.DS.2020.REPORT.pdf)[/embed]
