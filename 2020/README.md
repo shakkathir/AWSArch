@@ -7,4 +7,4 @@
 
 ![ALT-TXT](diag-0002.png)
 ---
-[embed](https://github.com/shakkathir/AWSArch/tree/master/2020/2019.feb.gartner.ML.AI.DS.2020.REPORT.pdf)[/embed]
+[Gartner 2019 ML Report](https://github.com/shakkathir/AWSArch/tree/master/2020/2019.feb.gartner.ML.AI.DS.2020.REPORT.pdf)[/embed]
