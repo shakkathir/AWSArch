@@ -7,4 +7,4 @@
 
 ![ALT-TXT](diag-0002.png)
 ---
-[Multi account Arch](https://d1.awsstatic.com/whitepapers/building-a-scalable-and-secure-multi-vpc-aws-network-infrastructure.pdf?did=wp_card&trk=wp_card)
+[embed](https://d1.awsstatic.com/whitepapers/building-a-scalable-and-secure-multi-vpc-aws-network-infrastructure.pdf)[/embed]
