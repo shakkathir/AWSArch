@@ -5,5 +5,4 @@
 ---
 [diag-0002](http://www.netdesignarena.com/index.php/2020/04/15/new-blog-series-aws-cloud-networking-zero-to-hero/)
 
-![ALT-TXT](diag-0002.png)
 
