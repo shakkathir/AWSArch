@@ -9,6 +9,8 @@
 ---
 <details>
     <summary>Gartner 2019 ML report</summary>
-    [Gartner 2019 ML Report](https://github.com/shakkathir/AWSArch/tree/master/2020/2019.feb.gartner.ML.AI.DS.2020.REPORT.pdf)
 </details>
+[Gartner 2019 ML Report](https://github.com/shakkathir/AWSArch/tree/master/2020/2019.feb.gartner.ML.AI.DS.2020.REPORT.pdf)
+
+https://docs.google.com/viewer?url=${https://github.com/shakkathir/AWSArch/tree/master/2020/2019.feb.gartner.ML.AI.DS.2020.REPORT.pdf}
 
