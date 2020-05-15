@@ -4,7 +4,7 @@
 
 [Gartner 2019 ML Report](2019.feb.gartner.ML.AI.DS.2020.REPORT.pdf)
 ___
-[MULTI-VPC AWS NETWORK INFRASTRUCUTRE](2019.feb.gartner.ML.AI.DS.2020.REPORT.pdf)
+[MULTI-VPC AWS NETWORK INFRASTRUCUTRE](building-a-scalable-and-secure-multi-vpc-aws-network-infrastructure.pdf)
 ___
 [Tagging Best Prac](aws-tagging-best-practices.pdf)
 ___
