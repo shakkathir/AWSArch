@@ -1,9 +1,9 @@
-June 2020  
+### June 2020  
 
-   [the-journey-to-cloud-networking](https://aws.amazon.com/blogs/architecture/the-journey-to-cloud-networking/)
+   [The-journey-to-cloud-networking](https://aws.amazon.com/blogs/architecture/the-journey-to-cloud-networking/)
    ![ALT-TXT](diag-0001.jfif) 
    ---
-   [new-blog-series-aws-cloud-networking-zero-to-hero](http://www.netdesignarena.com/index.php/2020/04/15/new-blog-series-aws-cloud-networking-zero-to-hero/)
+   [New-blog-series-aws-cloud-networking-zero-to-hero](http://www.netdesignarena.com/index.php/2020/04/15/new-blog-series-aws-cloud-networking-zero-to-hero/)
    ![ALT-TXT](diag-0002.png)
    ___
 ### July 2020
