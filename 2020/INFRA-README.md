@@ -1,10 +1,11 @@
-June 2020
-[the-journey-to-cloud-networking](https://aws.amazon.com/blogs/architecture/the-journey-to-cloud-networking/)
-![ALT-TXT](diag-0001.jfif) 
----
-[new-blog-series-aws-cloud-networking-zero-to-hero](http://www.netdesignarena.com/index.php/2020/04/15/new-blog-series-aws-cloud-networking-zero-to-hero/)
-![ALT-TXT](diag-0002.png)
-___
+June 2020  
+
+   [the-journey-to-cloud-networking](https://aws.amazon.com/blogs/architecture/the-journey-to-cloud-networking/)
+   ![ALT-TXT](diag-0001.jfif) 
+   ---
+   [new-blog-series-aws-cloud-networking-zero-to-hero](http://www.netdesignarena.com/index.php/2020/04/15/new-blog-series-aws-cloud-networking-zero-to-hero/)
+   ![ALT-TXT](diag-0002.png)
+   ___
 ### July 2020
   * [Control Tower Networking](https://controltower.aws-management.tools/networking/)
   * [Control Tower Workship](https://controltower.aws-management.tools/networking/)
