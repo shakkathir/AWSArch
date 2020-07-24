@@ -1,7 +1,10 @@
-### July 2020 
+June 2020
+ * [the-journey-to-cloud-networking](https://aws.amazon.com/blogs/architecture/the-journey-to-cloud-networking/)
+
+### July 2020
   * [Control Tower Networking](https://controltower.aws-management.tools/networking/)
   * [Control Tower Workship](https://controltower.aws-management.tools/networking/)
-___
+
   * [Reddit Thread Landing Zone vs Control Tower Vs Terraform LZ](https://www.reddit.com/r/aws/comments/hwwy1u/managing_aws_accounts_for_an_organization_aws/)
 
      ```
@@ -17,4 +20,4 @@ ___
   * [Guard Duty Enabler](https://github.com/aws-samples/aws-control-tower-guardduty-enabler)
   * [Security Hub Enabler](https://github.com/aws-samples/aws-control-tower-guardduty-enabler)
   * [Control Tower Automatic Account Creation](https://github.com/aws-samples/aws-control-tower-automate-account-creation)
-___
+
