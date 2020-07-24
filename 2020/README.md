@@ -1,4 +1,7 @@
 
+[Application Arch Notes](App-Arch-README.md)
+[Infrastructure Arch Notes](INFRA-README.md)
+
 <details>
     <summary>Gartner 2019 ML report</summary>
 </details>
