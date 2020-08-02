@@ -28,10 +28,18 @@ Movie | Release Year
 [Soodhu_Kavvum](https://en.wikipedia.org/wiki/Soodhu_Kavvum)| 2013
 [Moodar_Koodam](https://en.wikipedia.org/wiki/Moodar_Koodam) | 2013
 
+### Cerebral Movies
+Movie | Release Year 
+------------ | -------------
+[Sathuranga_Vettai](https://en.wikipedia.org/wiki/Sathuranga_Vettai) | 2014
+
 
 ### Movies Watched by Date
 Date | Movie | Lang | Channel 
 ------------ | -------------| -------------| -------------
+May 2020 | [Vikramadithyan](https://en.wikipedia.org/wiki/Vikramadithyan) | Malayalam | einthusan.ca
+Jun 2020 | [Ramaleela](https://en.wikipedia.org/wiki/Ramaleela) | Malayalam | einthusan.ca
+Jun 2020 | [Super_Deluxe](https://en.wikipedia.org/wiki/Super_Deluxe_(film)) | Tamil | einthusan.ca
 Jul 2020 | [Sangili_Bungili_Kadhava_Thorae](https://en.wikipedia.org/wiki/Sangili_Bungili_Kadhava_Thorae) | Tamil | einthusan.ca
 Jul 2020 | [Vaayai_Moodi_Pesavum](https://en.wikipedia.org/wiki/Vaayai_Moodi_Pesavum) | Tamil | einthusan.ca
 Aug 2020 | [The_Banker (2020)](https://en.wikipedia.org/wiki/The_Banker_(2020_film)) | English | Appletv+
