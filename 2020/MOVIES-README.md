@@ -17,8 +17,12 @@ Movie | Release Year
 [Kadhalikka_Neramillai](https://en.wikipedia.org/wiki/Kadhalikka_Neramillai) | 1964
 [Bama_Vijayam](https://en.wikipedia.org/wiki/Bama_Vijayam_(1967_film)) | 1967
 [Anubavi_Raja_Anubavi](https://en.wikipedia.org/wiki/Anubavi_Raja_Anubavi) | 1967
+[Muhammad_bin_Tughluq](https://https://en.wikipedia.org/wiki/Muhammad_bin_Tughluq_(film)) | 1971
 [Indru_Poi_Naalai_Vaa](https://en.wikipedia.org/wiki/Indru_Poi_Naalai_Vaa) | 1981
 [Thillu_Mullu](https://en.wikipedia.org/wiki/Thillu_Mullu) | 1981
+[Magalir_Mattum](https://en.wikipedia.org/wiki/Magalir_Mattum) | 1994
+[Sathi_Leelavathi](https://en.wikipedia.org/wiki/Sathi_Leelavathi_(1995_film)) | 1995
+[Imsai_Arasan_23rd_Pulikecei](https://en.wikipedia.org/wiki/Imsai_Arasan_23rd_Pulikecei) | 2006
 
 
 ### Movies Watched by Date
