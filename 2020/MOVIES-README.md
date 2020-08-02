@@ -18,11 +18,15 @@ Movie | Release Year
 [Bama_Vijayam](https://en.wikipedia.org/wiki/Bama_Vijayam_(1967_film)) | 1967
 [Anubavi_Raja_Anubavi](https://en.wikipedia.org/wiki/Anubavi_Raja_Anubavi) | 1967
 [Muhammad_bin_Tughluq](https://https://en.wikipedia.org/wiki/Muhammad_bin_Tughluq_(film)) | 1971
+[Manmadha_Leelai](https://en.wikipedia.org/wiki/Manmadha_Leelai) | 1976
 [Indru_Poi_Naalai_Vaa](https://en.wikipedia.org/wiki/Indru_Poi_Naalai_Vaa) | 1981
 [Thillu_Mullu](https://en.wikipedia.org/wiki/Thillu_Mullu) | 1981
 [Magalir_Mattum](https://en.wikipedia.org/wiki/Magalir_Mattum) | 1994
 [Sathi_Leelavathi](https://en.wikipedia.org/wiki/Sathi_Leelavathi_(1995_film)) | 1995
 [Imsai_Arasan_23rd_Pulikecei](https://en.wikipedia.org/wiki/Imsai_Arasan_23rd_Pulikecei) | 2006
+[Naduvula_Konjam_Pakkatha_Kaanom](https://en.wikipedia.org/wiki/Naduvula_Konjam_Pakkatha_Kaanom) | 2012
+[Soodhu_Kavvum](https://en.wikipedia.org/wiki/Soodhu_Kavvum)| 2013
+[Moodar_Koodam](https://en.wikipedia.org/wiki/Moodar_Koodam) | 2013
 
 
 ### Movies Watched by Date
