@@ -10,7 +10,16 @@
   * [Green_Book](https://en.wikipedia.org/wiki/Green_Book_(film))
   * [Confirmation](https://en.wikipedia.org/wiki/Confirmation_(film))
   * [The_Banker (2020)](https://en.wikipedia.org/wiki/The_Banker_(2020_film))
-  
+
+### Tamil Full Length Comedy 
+Movie | Release Year 
+------------ | -------------
+[Kadhalikka_Neramillai](https://en.wikipedia.org/wiki/Kadhalikka_Neramillai) | 1964
+[Bama_Vijayam](https://en.wikipedia.org/wiki/Bama_Vijayam_(1967_film)) | 1967
+[Anubavi_Raja_Anubavi](https://en.wikipedia.org/wiki/Anubavi_Raja_Anubavi) | 1967
+[Indru_Poi_Naalai_Vaa](https://en.wikipedia.org/wiki/Indru_Poi_Naalai_Vaa) | 1981
+[Thillu_Mullu](https://en.wikipedia.org/wiki/Thillu_Mullu) | 1981
+
 
 ### Movies Watched by Date
 Date | Movie | Lang | Channel 
