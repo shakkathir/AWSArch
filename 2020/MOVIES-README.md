@@ -35,15 +35,15 @@ Movie | Release Year
 [The_Body](https://en.wikipedia.org/wiki/The_Body_(2019_film)) | 2019 
 
 ### Movies Watched by Date
-Date | Movie | Year | Lang | Channel  
+Watch Date | Movie | Release Year | Lang | Channel  
 ------------ | -------------| -------------| -------------| -------------
-May 2020 | [The_Body](https://en.wikipedia.org/wiki/The_Body_(2019_film)) | Hindi | einthusan.ca
-May 2020 | [Joker_2016](https://en.wikipedia.org/wiki/Joker_(2016_film)) | English | Netflix
-May 2020 | [Vikramadithyan](https://en.wikipedia.org/wiki/Vikramadithyan) | Malayalam | einthusan.ca
-Jun 2020 | [Ramaleela](https://en.wikipedia.org/wiki/Ramaleela) | Malayalam | einthusan.ca
-Jun 2020 | [Super_Deluxe](https://en.wikipedia.org/wiki/Super_Deluxe_(film)) | Tamil | einthusan.ca
-Jul 2020 | [Sangili_Bungili_Kadhava_Thorae](https://en.wikipedia.org/wiki/Sangili_Bungili_Kadhava_Thorae) | Tamil | einthusan.ca
-Jul 2020 | [Vaayai_Moodi_Pesavum](https://en.wikipedia.org/wiki/Vaayai_Moodi_Pesavum) | Tamil | einthusan.ca
+May 2020 | [The_Body](https://en.wikipedia.org/wiki/The_Body_(2019_film)) || Hindi | einthusan.ca
+May 2020 | [Joker_2016](https://en.wikipedia.org/wiki/Joker_(2016_film)) || English | Netflix
+May 2020 | [Vikramadithyan](https://en.wikipedia.org/wiki/Vikramadithyan) || Malayalam | einthusan.ca
+Jun 2020 | [Ramaleela](https://en.wikipedia.org/wiki/Ramaleela) | Malayalam || einthusan.ca
+Jun 2020 | [Super_Deluxe](https://en.wikipedia.org/wiki/Super_Deluxe_(film)) || Tamil | einthusan.ca
+Jul 2020 | [Sangili_Bungili_Kadhava_Thorae](https://en.wikipedia.org/wiki/Sangili_Bungili_Kadhava_Thorae) || Tamil | einthusan.ca
+Jul 2020 | [Vaayai_Moodi_Pesavum](https://en.wikipedia.org/wiki/Vaayai_Moodi_Pesavum) | |Tamil | einthusan.ca
 Aug 2020 | [The_Banker (2020)](https://en.wikipedia.org/wiki/The_Banker_(2020_film)) | 2019 |  English | Appletv+ 
 Aug 2020 | [Raja_Rani](https://en.wikipedia.org/wiki/Raja_Rani_(2013_film)) | 2013 | Tamil | einthusan.ca 
 
