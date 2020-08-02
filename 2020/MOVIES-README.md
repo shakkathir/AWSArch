@@ -12,7 +12,7 @@
   * [The_Banker (2020)](https://en.wikipedia.org/wiki/The_Banker_(2020_film))
   
 
-### Tamil Movies 
+### Movies Watched by Date
 Date | Movie | Lang | Channel 
 ------------ | -------------| -------------| -------------
 Jul 2020 | [Sangili_Bungili_Kadhava_Thorae](https://en.wikipedia.org/wiki/Sangili_Bungili_Kadhava_Thorae) | Tamil | einthusan.ca
