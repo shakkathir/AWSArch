@@ -6,3 +6,4 @@
   * [The_Help](https://en.wikipedia.org/wiki/The_Help_(film))
   * [The_Butler](https://en.wikipedia.org/wiki/The_Butler)
   * [Green_Book](https://en.wikipedia.org/wiki/Green_Book_(film))
+  * [The_Banker (2020)](https://en.wikipedia.org/wiki/The_Banker_(2020_film))
