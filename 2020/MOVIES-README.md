@@ -10,3 +10,13 @@
   * [Green_Book](https://en.wikipedia.org/wiki/Green_Book_(film))
   * [Confirmation](https://en.wikipedia.org/wiki/Confirmation_(film))
   * [The_Banker (2020)](https://en.wikipedia.org/wiki/The_Banker_(2020_film))
+  
+
+### Tamil Movies 
+Date | Movie | Lang | Channel 
+------------ | -------------| -------------| -------------
+Jul 2020 | [Sangili_Bungili_Kadhava_Thorae](https://en.wikipedia.org/wiki/Sangili_Bungili_Kadhava_Thorae) | Tamil | einthusan.ca
+Jul 2020 | [Vaayai_Moodi_Pesavum](https://en.wikipedia.org/wiki/Vaayai_Moodi_Pesavum) | Tamil | einthusan.ca
+Aug 2020 | [The_Banker (2020)](https://en.wikipedia.org/wiki/The_Banker_(2020_film)) | English | Appletv+
+Aug 2020 | [Raja_Rani](https://en.wikipedia.org/wiki/Raja_Rani_(2013_film)) | Tamil | einthusan.ca 
+
