@@ -33,6 +33,17 @@ Movie | Release Year
 ------------ | -------------
 [Sathuranga_Vettai](https://en.wikipedia.org/wiki/Sathuranga_Vettai) | 2014
 [The_Body](https://en.wikipedia.org/wiki/The_Body_(2019_film)) | 2019 
+[Forensic](https://en.wikipedia.org/wiki/Forensic_(film)) | 2020
+
+### Nazriya Nazim Movies
+Movie | Release Year 
+------------ | -------------
+[Raja_Rani](https://en.wikipedia.org/wiki/Raja_Rani_(2013_film)) | 2013
+[Neram](https://en.wikipedia.org/wiki/Neram) | 2013
+[Thirumanam_Enum_Nikkah ](https://en.wikipedia.org/wiki/Thirumanam_Enum_Nikkah) | 
+[Vaayai_Moodi_Pesavum](https://en.wikipedia.org/wiki/Vaayai_Moodi_Pesavum) | 
+[Neram](https://en.wikipedia.org/wiki/Neram) | 2013
+
 
 ### Movies Watched by Date
 Watch Date | Movie | Release Year | Lang | Channel  
@@ -40,7 +51,8 @@ Watch Date | Movie | Release Year | Lang | Channel
 May 2020 | [The_Body](https://en.wikipedia.org/wiki/The_Body_(2019_film)) || Hindi | einthusan.ca
 May 2020 | [Joker_2016](https://en.wikipedia.org/wiki/Joker_(2016_film)) || English | Netflix
 May 2020 | [Vikramadithyan](https://en.wikipedia.org/wiki/Vikramadithyan) || Malayalam | einthusan.ca
-Jun 2020 | [Ramaleela](https://en.wikipedia.org/wiki/Ramaleela) | Malayalam || einthusan.ca
+Jun 2020 | [Forensic](https://en.wikipedia.org/wiki/Forensic_(film)) | 2020 | Malayalam | einthusan.ca
+Jun 2020 | [Ramaleela](https://en.wikipedia.org/wiki/Ramaleela) || Malayalam || einthusan.ca
 Jun 2020 | [Super_Deluxe](https://en.wikipedia.org/wiki/Super_Deluxe_(film)) || Tamil | einthusan.ca
 Jul 2020 | [Sangili_Bungili_Kadhava_Thorae](https://en.wikipedia.org/wiki/Sangili_Bungili_Kadhava_Thorae) || Tamil | einthusan.ca
 Jul 2020 | [Vaayai_Moodi_Pesavum](https://en.wikipedia.org/wiki/Vaayai_Moodi_Pesavum) | |Tamil | einthusan.ca
