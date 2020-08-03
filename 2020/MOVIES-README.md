@@ -49,6 +49,7 @@ Movie | Release Year
 ### Movies Watched by Date
 Watch Date | Movie | Release Year | Lang | Channel  
 ------------ | -------------| -------------| -------------| -------------
+Apr 2020 | [Forensic](https://en.wikipedia.org/wiki/Forensic_(film)) | 2020| Malayalam | einthusan.ca
 Apr 2020 | [Jomonte_Suvisheshangal](https://en.wikipedia.org/wiki/Jomonte_Suvisheshangal) | 2017 | Malayalam | einthusan.ca
 May 2020 | [The_Body](https://en.wikipedia.org/wiki/The_Body_(2019_film)) || Hindi | einthusan.ca
 May 2020 | [Joker_2016](https://en.wikipedia.org/wiki/Joker_(2016_film)) || English | Netflix
