@@ -4,8 +4,8 @@
 
 ### On the client side 
 #### Work Item #1: Globally uniq trace id (GUTID)
- -[] Establish of globally uniq trace id  with the **namespace tenenet.sub tenent**
- -[] Enable the client apps to embed the globally uniq trace id  in every client request
+ - [] Establish of globally uniq trace id  with the **namespace tenenet.sub tenent**
+ - [] Enable the client apps to embed the globally uniq trace id  in every client request
 
 ### On the server side 
 
