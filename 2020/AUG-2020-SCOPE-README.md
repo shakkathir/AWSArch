@@ -2,10 +2,22 @@
 
 ### Last Updated : 2020/Aug/18
 
+Work Item # | Work Item  | Component
+------------ | -------------|-------------
+1| Globally uniq trace id (GUTID) | Client App
+2| Extract, instrument, augment | Server App - API GW
+3| Message format Design & update life cycle  | Server App - Lambda based Data Extractor
+4| Ship the extracted & instrumented message package  | Server App - Lambda Data Shipper
+5| Centralized message aggregation   + loading | Server App - Data Store - DynamoDb
+6| Reporting (Non-real time )  | Server App - Athena Table, Glue Crawler, S3 Datasets, Athena Query 
+7| Globally uniq trace id (GUTID) | Server App - DynamoDB Streams, Kinesis Data Streams + AWS Lambda Trigger
+
+
+
 ### On the client side 
 #### Work Item #1: Globally uniq trace id (GUTID)
- - [] Establish of globally uniq trace id  with the **namespace tenenet.sub tenent**
- - [] Enable the client apps to embed the globally uniq trace id  in every client request
+ - Establish of globally uniq trace id  with the **namespace tenenet.sub tenent**
+ - Enable the client apps to embed the globally uniq trace id  in every client request
 
 ### On the server side 
 
