@@ -10,10 +10,8 @@
 ### On the server side 
 
 #### Work Item #2 :  Extract, instrument, augment:
-- for every application account = 1..n  
-do { 
-    - for every application gateway or extraction point = 1..m  
-      do {
+- for every application account = 1..n  : do {
+    - for every application gateway or extraction point = 1..m  : do {
         - intercept every inbound API call from any client
           - extract the GUTID
           - timestamp it. 
