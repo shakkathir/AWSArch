@@ -3,44 +3,42 @@
 ### Last Updated : 2020/Aug/18
 
 ### On the client side 
-#### Work Item #1: 
- * Establish of globally uniq trace id  with the **namespace tenenet.sub tenent**
- * Enable the client apps to embed the globally uniq trace id  in every client request
+#### Work Item #1: Globally uniq trace id (GUTID)
+ 1. Establish of globally uniq trace id  with the **namespace tenenet.sub tenent**
+ 1. Enable the client apps to embed the globally uniq trace id  in every client request
 
 ### On the server side 
 
 #### Work Item #2 :  Extract, instrument, augment:
-* for every application account = 1..n : do {
-  * for every application gateway or extraction point = 1..m : do {
-    * intercept every inbound API call from any client
-      * extract the global uniq trace id. (GUTID)
-      * timestamp it. 
-      * cull relevant attributes from client request from the inbound message that are needed for metrics calculation by the downstream systems
-        * package/create message payload containing 
-          * GUTID, 
-          * request attributes - app name, app id, tenet, sub tenent etc.,  
-          * w/ timestamp  
-          in a standardized message format (JSON or plain text)
-    * intercept every outbound API call
-      * extract the global uniq trace id. (GUTID) 
-        * timestamp it. 
-        * cull relevant attributes in client response from from the outbound message that are needed for metrics calculation by the downstream systems
-        * package/create message payload containing 
-          * GUTID, 
-          * request attributes - app name, app id, tenet, sub tenent etc., , 
-          * w/ timestamp 
-          in a standardized message format (JSON or plain text)    
-     }
-  }   
+1. for every application account = 1..n : do 
+  1. for every application gateway or extraction point = 1..m : do  
+    1. intercept every inbound API call from any client
+      1. extract the GUTID
+      1. timestamp it. 
+      1. cull relevant attributes from client request from the inbound message that are needed for metrics calculation by the downstream systems
+      1. package/create message payload containing 
+        1. GUTID, 
+        1. request attributes - app name, app id, tenet, sub tenent etc.,  
+        1. w/ timestamp  
+        in a standardized message format (JSON or plain text)
+  1. intercept every outbound API call from any client
+    1. extract the GUTID 
+      1. timestamp it. 
+      1. cull relevant attributes in client response from from the outbound message that are needed for metrics calculation by the downstream systems
+      1. package/create message payload containing 
+        1. GUTID, 
+        1. request attributes - app name, app id, tenet, sub tenent etc., , 
+        1. w/ timestamp 
+        in a standardized message format (JSON or plain text)    
 ___
 #### Work Item #3 :  Message format Design & update life cycle 
-            Design the message format with the attributes, types and nested structures if needed.
-            Version message format ( The format evolves over time  and backwards compatiblity )
-            when the message format changes {
-                update the message attributes, types 
-                Version the new format
-                Publish the message format to all down stream systems & components that consumes the message.
-            }            
+1. Design the message format with the attributes, types and nested structures if needed.
+1. Version message format ( The format evolves over time  and backwards compatiblity )
+1. when the message format changes {
+   1. update the message attributes, types 
+   1. Version the new format
+   1.  Publish the message format to all down stream systems & components that consumes the message.
+}            
 
 #### Work Item #4 : Ship the extracted & instrumented message package 
         for every application account = 1..n : do  {
