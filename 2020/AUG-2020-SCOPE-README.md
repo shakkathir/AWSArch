@@ -10,32 +10,28 @@
 ### On the server side 
 
 #### Work Item #2 :  Extract, instrument, augment:
-
 * for every application account = 1..n : do {
   * for every application gateway or extraction point = 1..m : do {
     * intercept every inbound API call from any client
+      * extract the global uniq trace id. (GUTID)
+      * timestamp it. 
+      * cull relevant attributes from client request from the inbound message that are needed for metrics calculation by the downstream systems
+        * package/create message payload containing 
+          * GUTID, 
+          * request attributes - app name, app id, tenet, sub tenent etc.,  
+          * w/ timestamp  
+          in a standardized message format (JSON or plain text)
+    * intercept every outbound API call
       * extract the global uniq trace id. (GUTID) 
-          * timestamp it. 
-          * cull relevant attributes from client request from the inbound message that are needed for metrics calculation by the downstream systems
-          * package/create message payload containing 
-            * GUTID, 
-            * request attributes - app name, app id, tenet, sub tenent etc.,  
-            * w/ timestamp 
-            
-           in a standardized message format (JSON or plain text)    
-    
-    * intercept every outbound API call 
-       * extract the global uniq trace id. (GUTID) 
-            * timestamp it. 
-            * cull relevant attributes in client response from from the outbound message that are needed for metrics calculation by the downstream systems
-            * package/create message payload containing 
-              * GUTID, 
-              * request attributes - app name, app id, tenet, sub tenent etc., , 
-              * w/ timestamp 
-            
-            in a standardized message format (JSON or plain text)    
-   }          
-}
+        * timestamp it. 
+        * cull relevant attributes in client response from from the outbound message that are needed for metrics calculation by the downstream systems
+        * package/create message payload containing 
+          * GUTID, 
+          * request attributes - app name, app id, tenet, sub tenent etc., , 
+          * w/ timestamp 
+          in a standardized message format (JSON or plain text)    
+     }
+  }   
 ___
 #### Work Item #3 :  Message format Design & update life cycle 
             Design the message format with the attributes, types and nested structures if needed.
