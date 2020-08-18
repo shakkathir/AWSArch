@@ -30,9 +30,10 @@
               - request attributes - app name, app id, tenet, sub tenent etc., , 
               - w/ timestamp 
             - in a standardized message format (JSON or plain text)    
-    }
-  
+ ```   
   }
+}
+```
   
 ___
 #### Work Item #3 :  Message format Design & update life cycle 
@@ -47,11 +48,13 @@ ___
 #### Work Item #4 : Ship the extracted & instrumented message package 
 for every application account = 1..n : do  {
   - for every every application gateway or extraction point = 1..m : do {
-  - set up required cross account permissions between application account & metering account. 
-  - establish a block non blocking channel between a) the application gateway or extraction point and b) centralized data aggregation component to the metering account
-  - publish the payload through a non-blocking channel from the application gateway or extraction point to the metering account 
+    - set up required cross account permissions between application account & metering account. 
+    - establish a block non blocking channel between a) the application gateway or extraction point and b) centralized data aggregation component to the metering account
+    - publish the payload through a non-blocking channel from the application gateway or extraction point to the metering account 
+```   
   }
 }
+```
 ___
 #### Work Item #5 :  Centralized message aggregation   + loading      
 - Create a DynamoDB datastore (a Key Value datastore)  to store inbound and outbound message payloads. 
