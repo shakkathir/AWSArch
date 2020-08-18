@@ -15,22 +15,22 @@ do {
     - for every application gateway or extraction point = 1..m  
       do {
         - intercept every inbound API call from any client
-        - extract the GUTID
-        - timestamp it. 
-        - cull relevant attributes from client request from the inbound message that are needed for metrics calculation by the downstream systems
-        - package/create message payload containing 
-          - GUTID
-          - request attributes - app name, app id, tenet, sub tenent etc.,  
-          - w/ timestamp  
-        in a standardized message format (JSON or plain text)
-       - intercept every outbound API call from any client
-         - extract the GUTID 
+          - extract the GUTID
           - timestamp it. 
-          - cull relevant attributes in client response from from the outbound message that are needed for metrics calculation by the downstream systems
+          - cull relevant attributes from client request from the inbound message that are needed for metrics calculation by the downstream systems
           - package/create message payload containing 
-            - GUTID, 
-            - request attributes - app name, app id, tenet, sub tenent etc., , 
-            - w/ timestamp 
+            - GUTID
+            - request attributes - app name, app id, tenet, sub tenent etc.,  
+            - w/ timestamp  
+          in a standardized message format (JSON or plain text)
+       - intercept every outbound API call from any client
+           - extract the GUTID 
+            - timestamp it. 
+            - cull relevant attributes in client response from from the outbound message that are needed for metrics calculation by the downstream systems
+            - package/create message payload containing 
+              - GUTID, 
+              - request attributes - app name, app id, tenet, sub tenent etc., , 
+              - w/ timestamp 
             - in a standardized message format (JSON or plain text)    
     }
   
