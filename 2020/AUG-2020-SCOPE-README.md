@@ -2,7 +2,8 @@
 
 ### Last Updated : 2020/Aug/18
 
-#### Work Item #1: On the client side 
+### On the client side 
+#### Work Item #1: 
  * Establish of globally uniq trace id  with the **namespace tenenet.sub tenent**
  * Enable the client apps to embed the globally uniq trace id  in every client request
 
