@@ -10,7 +10,7 @@ Work Item # | Work Item  | Component
 4| Ship the extracted & instrumented message package  | Server App - Lambda Data Shipper
 5| Centralized message aggregation   + loading | Server App - Data Store - DynamoDb
 6| Reporting (Non-real time )  | Server App - Athena Table, Glue Crawler, S3 Datasets, Athena Query 
-7| Globally uniq trace id (GUTID) | Server App - DynamoDB Streams, Kinesis Data Streams + AWS Lambda Trigger
+7| Dynamic API Throttling config  | Server App - DynamoDB Streams, Kinesis Data Streams + AWS Lambda Trigger
 
 
 
