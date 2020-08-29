@@ -13,6 +13,18 @@ Movie | Release Year
 [Confirmation](https://en.wikipedia.org/wiki/Confirmation_(film)) | 
 [The_Banker (2020)](https://en.wikipedia.org/wiki/The_Banker_(2020_film)) | 
 
+### Television Serials
+Serial |  Channel
+-----|------
+[Law and Order]() | NBC 
+[House of Cards]() | Netflix
+[Veep]() | HBO
+[Silicon Valley]() | HBO
+[Billions]() | Showtime
+[The Sopranos] | HBO
+
+
+
 ### Tamil Full Length Comedy 
 Movie | Release Year 
 ------------ | -------------
