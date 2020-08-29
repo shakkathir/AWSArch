@@ -51,6 +51,13 @@ Original Movie | Orignal Lang |  Remade Movie | Remade Lang
 [We are_No_Angels](https://en.wikipedia.org/wiki/We%27re_No_Angels_(1955_film))| English | [We are_No_Angels](https://en.wikipedia.org/wiki/We%27re_No_Angels_(1989_film))  | English 
 [We are_No_Angels](https://en.wikipedia.org/wiki/We%27re_No_Angels_(1989_film)) | English |  [Romans_](https://en.wikipedia.org/wiki/Romans_(2013_film)) | Malayalam 
 [Special_26](https://en.wikipedia.org/wiki/Special_26) |  Hindi | [Thaanaa_Serndha_Koottam](https://en.wikipedia.org/wiki/Thaanaa_Serndha_Koottam) | Tamil
+Coming to America | English ||
+Dail M for Murder | English || 
+9 to 5 | English | |
+Mrs. Doughtfire | English ||
+[Micki & Maude](https://en.wikipedia.org/wiki/Micki_%26_Maude) | English | [Rettai_Vaal_Kuruvi](https://en.wikipedia.org/wiki/Rettai_Vaal_Kuruvi) | Tamil 
+[Sleepless_Night](https://en.wikipedia.org/wiki/Sleepless_Night_(2011_film)) ||
+
 ### Movies Watched by Date
 Watch Date | Movie | Release Year | Lang | Channel  
 ------------ | -------------| -------------| -------------| -------------
