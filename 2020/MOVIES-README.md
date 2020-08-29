@@ -72,6 +72,7 @@ Aug 2020 | [Joseph_](https://en.wikipedia.org/wiki/Joseph_(2018_film)) | 2018 | 
 Aug 2020 | [Romans_](https://en.wikipedia.org/wiki/Romans_(2013_film)) | 2013 | Malayalam | einthusan.ca 
 Aug 2020 | [We are_No_Angels](https://en.wikipedia.org/wiki/We%27re_No_Angels_(1955_film)) | 1955 | English | [stream](https://pluto.tv/on-demand/movies/were-no-angels-1955-1954-1-1?utm_medium=textsearch&utm_source=google) 
 Aug 2020 | [We are_No_Angels](https://en.wikipedia.org/wiki/We%27re_No_Angels_(1989_film)) | 1989 | English | [stream](https://app.plex.tv/desktop#!/provider/tv.plex.provider.vod/details?key=%2Flibrary%2Fmetadata%2F5eec74fba6175a00429d3af7&origin=mediaverse&signUp=1&utm_source=mediaverse&utm_content=5eec74fba6175a00429d3af7) 
+Aug 2020 | [Jojo_Rabbit](https://en.wikipedia.org/wiki/Jojo_Rabbit) | 2019 | HBO Max
 
 
 
