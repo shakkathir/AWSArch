@@ -55,12 +55,17 @@ Coming to America | English ||
 Dail M for Murder | English || 
 9 to 5 | English | |
 Mrs. Doughtfire | English ||
+[Pink](https://en.wikipedia.org/wiki/Pink_(2016_film)) | Hindi | [Nerkonda_Paarvai](https://en.wikipedia.org/wiki/Nerkonda_Paarvai) | Tamil
 [Micki & Maude](https://en.wikipedia.org/wiki/Micki_%26_Maude) | English | [Rettai_Vaal_Kuruvi](https://en.wikipedia.org/wiki/Rettai_Vaal_Kuruvi) | Tamil 
-[Sleepless_Night](https://en.wikipedia.org/wiki/Sleepless_Night_(2011_film)) ||
+[Sleepless_Night](https://en.wikipedia.org/wiki/Sleepless_Night_(2011_film)) | French |[Thoongaa_Vanam](https://en.wikipedia.org/wiki/Thoongaa_Vanam)| | Tamil 
+[Point_Blank](https://en.wikipedia.org/wiki/Point_Blank_(2010_film)) | Frensh | [Kadaram_Kondan](https://en.wikipedia.org/wiki/Kadaram_Kondan) | Tamil 
 
 ### Movies Watched by Date
 Watch Date | Movie | Release Year | Lang | Channel  
 ------------ | -------------| -------------| -------------| -------------
+Dec 2018 | [Andhadhun](https://en.wikipedia.org/wiki/Andhadhun) | 2018 | Hindi | Amazon Prime
+Dec 2018 | [Kahaani](https://en.wikipedia.org/wiki/Kahaani) | 2018 | Hindi | Amazon Prime
+Dec 2018 | [Pink](https://en.wikipedia.org/wiki/Pink_(2016_film)) | 2016 | Hindi | Amazon Prime
 Apr 2020 | [Forensic](https://en.wikipedia.org/wiki/Forensic_(film)) | 2020| Malayalam | einthusan.ca
 Apr 2020 | [Jomonte_Suvisheshangal](https://en.wikipedia.org/wiki/Jomonte_Suvisheshangal) | 2017 | Malayalam | einthusan.ca
 May 2020 | [The_Body](https://en.wikipedia.org/wiki/The_Body_(2019_film)) || Hindi | einthusan.ca
