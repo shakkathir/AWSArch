@@ -50,7 +50,7 @@ Original Movie | Orignal Lang |  Remade Movie | Remade Lang
 ------------ | ------------ | ------------ | ------------ | 
 [We are_No_Angels](https://en.wikipedia.org/wiki/We%27re_No_Angels_(1955_film))| English | [We are_No_Angels](https://en.wikipedia.org/wiki/We%27re_No_Angels_(1989_film))  | English 
 [We are_No_Angels](https://en.wikipedia.org/wiki/We%27re_No_Angels_(1989_film)) | English |  [Romans_](https://en.wikipedia.org/wiki/Romans_(2013_film)) | Malayalam 
-[Special_26] (https://en.wikipedia.org/wiki/Special_26) |  Hindi | Thaanaa_Serndha_Koottam] (https://en.wikipedia.org/wiki/Thaanaa_Serndha_Koottam) | Tamil
+[Special_26](https://en.wikipedia.org/wiki/Special_26) |  Hindi | Thaanaa_Serndha_Koottam](https://en.wikipedia.org/wiki/Thaanaa_Serndha_Koottam) | Tamil
 ### Movies Watched by Date
 Watch Date | Movie | Release Year | Lang | Channel  
 ------------ | -------------| -------------| -------------| -------------
@@ -64,10 +64,10 @@ Jun 2020 | [Super_Deluxe](https://en.wikipedia.org/wiki/Super_Deluxe_(film)) || 
 Jul 2020 | [Sangili_Bungili_Kadhava_Thorae](https://en.wikipedia.org/wiki/Sangili_Bungili_Kadhava_Thorae) || Tamil | einthusan.ca
 Jul 2020 | [Vaayai_Moodi_Pesavum](https://en.wikipedia.org/wiki/Vaayai_Moodi_Pesavum) | |Tamil | einthusan.ca
 Aug 2020 | [The_Banker (2020)](https://en.wikipedia.org/wiki/The_Banker_(2020_film)) | 2019 |  English | Appletv+ 
-Aug 2020 | [Greyhound] (https://en.wikipedia.org/wiki/Greyhound_(film)) |  English | Appletv+ 
-Aug 2020 | [Special_26] (https://en.wikipedia.org/wiki/Special_26) |  Hindi | einthusan.ca
-Aug 2020 | [Thaanaa_Serndha_Koottam] (https://en.wikipedia.org/wiki/Thaanaa_Serndha_Koottam) | Tamil | einthusan.ca
-Aug 2020 | [Greyhound] (https://en.wikipedia.org/wiki/Thaanaa_Serndha_Koottam) |  Tamil | einthusan.ca
+Aug 2020 | [Greyhound](https://en.wikipedia.org/wiki/Greyhound_(film)) |  English | Appletv+ 
+Aug 2020 | [Special_26](https://en.wikipedia.org/wiki/Special_26) |  Hindi | einthusan.ca
+Aug 2020 | [Thaanaa_Serndha_Koottam](https://en.wikipedia.org/wiki/Thaanaa_Serndha_Koottam) | Tamil | einthusan.ca
+Aug 2020 | [Greyhound](https://en.wikipedia.org/wiki/Thaanaa_Serndha_Koottam) |  Tamil | einthusan.ca
 Aug 2020 | [Raja_Rani](https://en.wikipedia.org/wiki/Raja_Rani_(2013_film)) | 2013 | Tamil | einthusan.ca 
 Aug 2020 | [Joseph_](https://en.wikipedia.org/wiki/Joseph_(2018_film)) | 2018 | Malayalam | einthusan.ca 
 Aug 2020 | [Romans_](https://en.wikipedia.org/wiki/Romans_(2013_film)) | 2013 | Malayalam | einthusan.ca 
