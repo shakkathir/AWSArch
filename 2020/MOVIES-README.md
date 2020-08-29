@@ -21,7 +21,8 @@ Serial |  Channel
 [Veep]() | HBO
 [Silicon Valley]() | HBO
 [Billions]() | Showtime
-[The Sopranos] | HBO
+[The Sopranos]() | HBO
+[The Crown]() | Netflix
 
 
 
