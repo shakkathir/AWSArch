@@ -61,4 +61,12 @@ Jul 2020 | [Sangili_Bungili_Kadhava_Thorae](https://en.wikipedia.org/wiki/Sangil
 Jul 2020 | [Vaayai_Moodi_Pesavum](https://en.wikipedia.org/wiki/Vaayai_Moodi_Pesavum) | |Tamil | einthusan.ca
 Aug 2020 | [The_Banker (2020)](https://en.wikipedia.org/wiki/The_Banker_(2020_film)) | 2019 |  English | Appletv+ 
 Aug 2020 | [Raja_Rani](https://en.wikipedia.org/wiki/Raja_Rani_(2013_film)) | 2013 | Tamil | einthusan.ca 
+Aug 2020 | [Joseph_](https://en.wikipedia.org/wiki/Joseph_(2018_film)) | 2018 | Malayalam | einthusan.ca 
+Aug 2020 | [Romans_](https://en.wikipedia.org/wiki/Romans_(2013_film)) | 2013 | Malayalam | einthusan.ca 
+Aug 2020 | [Romans_](https://en.wikipedia.org/wiki/Romans_(2013_film)) | 2013 | Malayalam | einthusan.ca 
+Aug 2020 | [We are_No_Angels_](https://en.wikipedia.org/wiki/We%27re_No_Angels_(1955_film)) | 1955 | English | [stream](https://pluto.tv/on-demand/movies/were-no-angels-1955-1954-1-1?utm_medium=textsearch&utm_source=google) 
+Aug 2020 | [We are_No_Angels_](https://en.wikipedia.org/wiki/We%27re_No_Angels_(1989_film)) | 1989 | English | [stream](https://app.plex.tv/desktop#!/provider/tv.plex.provider.vod/details?key=%2Flibrary%2Fmetadata%2F5eec74fba6175a00429d3af7&origin=mediaverse&signUp=1&utm_source=mediaverse&utm_content=5eec74fba6175a00429d3af7) 
+
+
+
 
