@@ -59,7 +59,7 @@ Movie | Release Year
 [Vaayai_Moodi_Pesavum](https://en.wikipedia.org/wiki/Vaayai_Moodi_Pesavum) | 2014 
 
 ### Movies Remade from other languages
-Original Movie | Orignal Lang |  Remade Movie | Remade Lang
+Original Movie | Orignal Lang |  Remade Movie | Remade Lang 
 ------------ | ------------ | ------------ | ------------ | 
 [We are_No_Angels](https://en.wikipedia.org/wiki/We%27re_No_Angels_(1955_film))| English | [We are_No_Angels](https://en.wikipedia.org/wiki/We%27re_No_Angels_(1989_film))  | English 
 [We are_No_Angels](https://en.wikipedia.org/wiki/We%27re_No_Angels_(1989_film)) | English |  [Romans_](https://en.wikipedia.org/wiki/Romans_(2013_film)) | Malayalam 
@@ -74,8 +74,8 @@ Mrs. Doughtfire | English ||
 [Point_Blank](https://en.wikipedia.org/wiki/Point_Blank_(2010_film)) | Frensh | [Kadaram_Kondan](https://en.wikipedia.org/wiki/Kadaram_Kondan) | Tamil 
 
 ### Movies Watched by Date
-Watch Date | Movie | Release Year | Lang | Channel  
------------- | -------------| -------------| -------------| -------------
+Watch Date | Movie | Release Year | Lang | Channel | Type of Movie |  
+------------ | -------------| -------------| -------------|-------------|-------------
 Dec 2018 | [Andhadhun](https://en.wikipedia.org/wiki/Andhadhun) | 2018 | Hindi | Amazon Prime
 Dec 2018 | [Kahaani](https://en.wikipedia.org/wiki/Kahaani) | 2018 | Hindi | Amazon Prime
 Dec 2018 | [Pink](https://en.wikipedia.org/wiki/Pink_(2016_film)) | 2016 | Hindi | Amazon Prime
