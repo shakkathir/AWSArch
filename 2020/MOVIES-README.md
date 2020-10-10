@@ -99,8 +99,8 @@ Aug 2020 | [Romans_](https://en.wikipedia.org/wiki/Romans_(2013_film)) | 2013 | 
 Aug 2020 | [We are_No_Angels](https://en.wikipedia.org/wiki/We%27re_No_Angels_(1955_film)) | 1955 | English | [stream](https://pluto.tv/on-demand/movies/were-no-angels-1955-1954-1-1?utm_medium=textsearch&utm_source=google) 
 Aug 2020 | [We are_No_Angels](https://en.wikipedia.org/wiki/We%27re_No_Angels_(1989_film)) | 1989 | English | [stream](https://app.plex.tv/desktop#!/provider/tv.plex.provider.vod/details?key=%2Flibrary%2Fmetadata%2F5eec74fba6175a00429d3af7&origin=mediaverse&signUp=1&utm_source=mediaverse&utm_content=5eec74fba6175a00429d3af7) 
 Aug 2020 | [Jojo_Rabbit](https://en.wikipedia.org/wiki/Jojo_Rabbit) | 2019 | English | HBO Max
-Sep 2020 | The_Swamp_(documentary) | https://en.wikipedia.org/wiki/The_Swamp_(documentary) | English | HBO Max | Politics |
-Sep 2020 | House_of_Saddam | https://en.wikipedia.org/wiki/House_of_Saddam | English |  HBO Max | Politics |
+Sep 2020 | The_Swamp_(documentary) | https://en.wikipedia.org/wiki/The_Swamp_(documentary) | 2020 | English | HBO Max | Politics |
+Sep 2020 | House_of_Saddam | https://en.wikipedia.org/wiki/House_of_Saddam | English | 2008 |  HBO Max | Politics |
 Oct 2020 | [Varnyathil_Aashanka](https://en.wikipedia.org/wiki/Varnyathil_Aashanka) | 2017 | Malayalam | einthusan.ca | Heist | 
 Oct 2020 | [Miga_Miga_Avasaram](https://en.wikipedia.org/wiki/Miga_Miga_Avasaram) | 2019 | Tamil | einthusan.ca 
 
