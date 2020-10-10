@@ -101,6 +101,9 @@ Aug 2020 | [We are_No_Angels](https://en.wikipedia.org/wiki/We%27re_No_Angels_(1
 Aug 2020 | [Jojo_Rabbit](https://en.wikipedia.org/wiki/Jojo_Rabbit) | 2019 | English | HBO Max
 Sep 2020 | [The_Swamp_(documentary)](https://en.wikipedia.org/wiki/The_Swamp_(documentary)) | 2020 | English | HBO Max | Politics |
 Sep 2020 | [House_of_Saddam](https://en.wikipedia.org/wiki/House_of_Saddam) | 2008 | English |  HBO Max | Politics |
+Sep 2020 | [Toilet:_Ek_Prem_Katha](https://en.wikipedia.org/wiki/Toilet:_Ek_Prem_Katha) | 2017 | Hindi |  einthusan.ca | Social Message |
+Sep 2020 | [Kalyana_Samayal_Saadham](https://en.wikipedia.org/wiki/Kalyana_Samayal_Saadham) |  2013 | Tamil | einthusan.ca | erectile dysfunction
+Sep 2020 | [Shubh_Mangal_Saavdhan](https://en.wikipedia.org/wiki/Shubh_Mangal_Saavdhan) | 2017 | Hindi |  einthusan.ca | erectile dysfunction
 Oct 2020 | [Varnyathil_Aashanka](https://en.wikipedia.org/wiki/Varnyathil_Aashanka) | 2017 | Malayalam | einthusan.ca | Heist | 
 Oct 2020 | [Miga_Miga_Avasaram](https://en.wikipedia.org/wiki/Miga_Miga_Avasaram) | 2019 | Tamil | einthusan.ca 
 
