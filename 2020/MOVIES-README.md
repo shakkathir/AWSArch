@@ -107,6 +107,7 @@ Sep 2020 | [Kalyana_Samayal_Saadham](https://en.wikipedia.org/wiki/Kalyana_Samay
 Sep 2020 | [Shubh_Mangal_Saavdhan](https://en.wikipedia.org/wiki/Shubh_Mangal_Saavdhan) | 2017 | Hindi |  einthusan.ca | erectile dysfunction
 Sep 2020 | [Thondimuthalum_Driksakshiyum](https://en.wikipedia.org/wiki/Thondimuthalum_Driksakshiyum) | 2017 | Malayalam |  einthusan.ca | con artist
 Sep 2020 | [7th_Day_(film)](https://en.wikipedia.org/wiki/7th_Day_(film)) | 2017 | Malayalam |  einthusan.ca | crime ( Faking death )
+Oct 2020 | [Lock_Up_(2020_film)](https://en.wikipedia.org/wiki/Lock_Up_(2020_film)) | 2020 | Tamil |  einthusan.ca | police lockup, murder, crime | 
 Oct 2020 | [Lakshyam_(2017_film)](https://en.wikipedia.org/wiki/Lakshyam_(2017_film)) | 2014 | Malayalam |  einthusan.ca | escape from prision,police | 
 Oct 2020 | [Varnyathil_Aashanka](https://en.wikipedia.org/wiki/Varnyathil_Aashanka) | 2017 | Malayalam | einthusan.ca | Heist | 
 Oct 2020 | [Miga_Miga_Avasaram](https://en.wikipedia.org/wiki/Miga_Miga_Avasaram) | 2019 | Tamil | einthusan.ca 
