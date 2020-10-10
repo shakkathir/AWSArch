@@ -76,13 +76,13 @@ Mrs. Doughtfire | English ||
 ### Movies Watched by Date
 Watch Date | Movie | Release Year | Lang | Channel | Type of Movie |  
 ------------ | -------------| -------------| -------------|-------------|-------------
-Dec 2018 | [Andhadhun](https://en.wikipedia.org/wiki/Andhadhun) | 2018 | Hindi | Amazon Prime
-Dec 2018 | [Kahaani](https://en.wikipedia.org/wiki/Kahaani) | 2018 | Hindi | Amazon Prime
+Dec 2018 | [Andhadhun](https://en.wikipedia.org/wiki/Andhadhun) | 2018 | Hindi | Amazon Prime | crime
+Dec 2018 | [Kahaani](https://en.wikipedia.org/wiki/Kahaani) | 2018 | Hindi | Amazon Prime | crime 
 Dec 2018 | [Pink](https://en.wikipedia.org/wiki/Pink_(2016_film)) | 2016 | Hindi | Amazon Prime
 Apr 2020 | [Forensic](https://en.wikipedia.org/wiki/Forensic_(film)) | 2020| Malayalam | einthusan.ca
 Apr 2020 | [Jomonte_Suvisheshangal](https://en.wikipedia.org/wiki/Jomonte_Suvisheshangal) | 2017 | Malayalam | einthusan.ca
 Apr 2020 | [5_Sundarikal](https://en.wikipedia.org/wiki/5_Sundarikal) | 2013 | Malayalam | einthusan.ca
-May 2020 | [The_Body](https://en.wikipedia.org/wiki/The_Body_(2019_film)) || Hindi | einthusan.ca
+May 2020 | [The_Body](https://en.wikipedia.org/wiki/The_Body_(2019_film)) || Hindi | einthusan.ca | crime
 May 2020 | [Joker_2016](https://en.wikipedia.org/wiki/Joker_(2016_film)) || English | Netflix
 May 2020 | [Vikramadithyan](https://en.wikipedia.org/wiki/Vikramadithyan) || Malayalam | einthusan.ca
 Jun 2020 | [Ramaleela](https://en.wikipedia.org/wiki/Ramaleela) || Malayalam || einthusan.ca
