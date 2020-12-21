@@ -112,6 +112,9 @@ Oct 2020 | [Lakshyam_(2017_film)](https://en.wikipedia.org/wiki/Lakshyam_(2017_f
 Oct 2020 | [Varnyathil_Aashanka](https://en.wikipedia.org/wiki/Varnyathil_Aashanka) | 2017 | Malayalam | einthusan.ca | Heist | 
 Oct 2020 | [Miga_Miga_Avasaram](https://en.wikipedia.org/wiki/Miga_Miga_Avasaram) | 2019 | Tamil | einthusan.ca 
 
+Dec 2020 | [City_of_God](https://en.wikipedia.org/wiki/City_of_God_(2011_film)) | 2011 | Malayalam | einthusan.ca  |  Crime-Thriller | HyerlinkCinema 
+
+
 Date | link | Year | Lang | source 
 
 
