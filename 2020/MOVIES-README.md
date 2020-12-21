@@ -111,10 +111,13 @@ Oct 2020 | [Lock_Up_(2020_film)](https://en.wikipedia.org/wiki/Lock_Up_(2020_fil
 Oct 2020 | [Lakshyam_(2017_film)](https://en.wikipedia.org/wiki/Lakshyam_(2017_film)) | 2014 | Malayalam |  einthusan.ca | escape from prision,police | 
 Oct 2020 | [Varnyathil_Aashanka](https://en.wikipedia.org/wiki/Varnyathil_Aashanka) | 2017 | Malayalam | einthusan.ca | Heist | 
 Oct 2020 | [Miga_Miga_Avasaram](https://en.wikipedia.org/wiki/Miga_Miga_Avasaram) | 2019 | Tamil | einthusan.ca | Police Harassment | 
+Dec 2020 | [Jallikattu](https://en.wikipedia.org/wiki/Jallikattu_(2019_film)) | 2019 | Malayalam | Einthusan.ca | Chasing the bull | n/a |
+Dec 2020 | [link](https://en.wikipedia.org/wiki/Annayum_Rasoolum) | 2013 | Malayalam | einthusan.ca | Tragic Love Story | n/a |
 Dec 2020 | [Paava_Kadhaigal](https://en.wikipedia.org/wiki/Paava_Kadhaigal) | 2020 | Tamil | Netflix | Honor Killing || 
-Dec 2020 | [City_of_God](https://en.wikipedia.org/wiki/City_of_God_(2011_film)) | 2011 | Malayalam | einthusan.ca  |  Crime-Thriller | HyerlinkCinema 
+Dec 2020 | [City_of_God](https://en.wikipedia.org/wiki/City_of_God_(2011_film)) | 2011 | Malayalam | einthusan.ca  | Gangster,Crime-Thriller | HyerlinkCinema 
 Dec 2020 | [Raat_Akeli_Hai](https://en.wikipedia.org/wiki/Raat_Akeli_Hai) | 2020 | Hindi | Netflix | crime thriller,voyerism   | n/a |
-
+Dec 2020 | [Mookuthi_Amman](https://en.wikipedia.org/wiki/Mookuthi_Amman) | 2020 | Tamil | einthusan.ca | Religion,Social Satire | n/a |
+Date | link | Year | Lang | source | theme | style |
 Date | link | Year | Lang | source | theme | style |
 
 
