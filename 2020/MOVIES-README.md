@@ -94,8 +94,8 @@ Jul 2020 | [Sangili_Bungili_Kadhava_Thorae](https://en.wikipedia.org/wiki/Sangil
 Jul 2020 | [Vaayai_Moodi_Pesavum](https://en.wikipedia.org/wiki/Vaayai_Moodi_Pesavum) | |Tamil | einthusan.ca
 Aug 2020 | [The_Banker (2020)](https://en.wikipedia.org/wiki/The_Banker_(2020_film)) | 2019 |  English | Appletv+ 
 Aug 2020 | [Greyhound](https://en.wikipedia.org/wiki/Greyhound_(film)) | 2020  | English | Appletv+ 
-Aug 2020 | [Special_26](https://en.wikipedia.org/wiki/Special_26) | 2013 |  Hindi | einthusan.ca
-Aug 2020 | [Thaanaa_Serndha_Koottam](https://en.wikipedia.org/wiki/Thaanaa_Serndha_Koottam) | 2018 | Tamil | einthusan.ca
+Aug 2020 | [Special_26](https://en.wikipedia.org/wiki/Special_26) | 2013 |  Hindi | einthusan.ca | con artist | n/a 
+Aug 2020 | [Thaanaa_Serndha_Koottam](https://en.wikipedia.org/wiki/Thaanaa_Serndha_Koottam) | 2018 | Tamil | einthusan.ca | con artist | n/a 
 Aug 2020 | [Raja_Rani](https://en.wikipedia.org/wiki/Raja_Rani_(2013_film)) | 2013 | Tamil | einthusan.ca 
 Aug 2020 | [Joseph_](https://en.wikipedia.org/wiki/Joseph_(2018_film)) | 2018 | Malayalam | einthusan.ca 
 Aug 2020 | [Romans_](https://en.wikipedia.org/wiki/Romans_(2013_film)) | 2013 | Malayalam | einthusan.ca 
