@@ -80,10 +80,8 @@ Watch Date | Movie | Release Year | Lang | Channel | Type of Movie | Style |
 Dec 2018 | [Andhadhun](https://en.wikipedia.org/wiki/Andhadhun) | 2018 | Hindi | Amazon Prime | crime,homicide | n/a
 Dec 2018 | [Kahaani](https://en.wikipedia.org/wiki/Kahaani) | 2018 | Hindi | Amazon Prime | crime,homicide | n/a  
 Dec 2018 | [Pink](https://en.wikipedia.org/wiki/Pink_(2016_film)) | 2016 | Hindi | Amazon Prime | social injustice | n/a
-
 Mar 2020 | [Driving_Licence](https://en.wikipedia.org/wiki/Driving_Licence_(film)) | 2019 | Malayalam | Einthusan | Personal Ego Clash | n/a 
 Mar 2020 | [Ayyappanum_Koshiyum](https://en.wikipedia.org/wiki/Ayyappanum_Koshiyum) | 2020 | Malayalam | Einthusan | Personal Ego Clash | n/a 
-
 Apr 2020 | [Forensic](https://en.wikipedia.org/wiki/Forensic_(film)) | 2020| Malayalam | einthusan.ca
 Apr 2020 | [Jomonte_Suvisheshangal](https://en.wikipedia.org/wiki/Jomonte_Suvisheshangal) | 2017 | Malayalam | einthusan.ca
 Apr 2020 | [5_Sundarikal](https://en.wikipedia.org/wiki/5_Sundarikal) | 2013 | Malayalam | einthusan.ca | Anthology ||
