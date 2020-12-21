@@ -77,16 +77,20 @@ Mrs. Doughtfire | English ||
 ### Movies Watched by Date
 Watch Date | Movie | Release Year | Lang | Channel | Type of Movie | Style |
 ------------ | -------------| -------------| -------------|-------------|-------------|---------
-Dec 2018 | [Andhadhun](https://en.wikipedia.org/wiki/Andhadhun) | 2018 | Hindi | Amazon Prime | crime
-Dec 2018 | [Kahaani](https://en.wikipedia.org/wiki/Kahaani) | 2018 | Hindi | Amazon Prime | crime 
-Dec 2018 | [Pink](https://en.wikipedia.org/wiki/Pink_(2016_film)) | 2016 | Hindi | Amazon Prime
+Dec 2018 | [Andhadhun](https://en.wikipedia.org/wiki/Andhadhun) | 2018 | Hindi | Amazon Prime | crime,homicide | n/a
+Dec 2018 | [Kahaani](https://en.wikipedia.org/wiki/Kahaani) | 2018 | Hindi | Amazon Prime | crime,homicide | n/a  
+Dec 2018 | [Pink](https://en.wikipedia.org/wiki/Pink_(2016_film)) | 2016 | Hindi | Amazon Prime | social injustice | n/a
+
+Mar 2020 | [Driving_Licence](https://en.wikipedia.org/wiki/Driving_Licence_(film)) | 2019 | Malayalam | Einthusan | Personal Ego Clash | n/a |
+Mar 2020 | [Ayyappanum_Koshiyum](https://en.wikipedia.org/wiki/Ayyappanum_Koshiyum) | 2020 | Malayalam | Einthusan | Personal Ego Clash | n/a |
+
 Apr 2020 | [Forensic](https://en.wikipedia.org/wiki/Forensic_(film)) | 2020| Malayalam | einthusan.ca
 Apr 2020 | [Jomonte_Suvisheshangal](https://en.wikipedia.org/wiki/Jomonte_Suvisheshangal) | 2017 | Malayalam | einthusan.ca
-Apr 2020 | [5_Sundarikal](https://en.wikipedia.org/wiki/5_Sundarikal) | 2013 | Malayalam | einthusan.ca
+Apr 2020 | [5_Sundarikal](https://en.wikipedia.org/wiki/5_Sundarikal) | 2013 | Malayalam | einthusan.ca | Anthology ||
 May 2020 | [The_Body](https://en.wikipedia.org/wiki/The_Body_(2019_film)) || Hindi | einthusan.ca | crime
 May 2020 | [Joker_2016](https://en.wikipedia.org/wiki/Joker_(2016_film)) || English | Netflix
 May 2020 | [Vikramadithyan](https://en.wikipedia.org/wiki/Vikramadithyan) || Malayalam | einthusan.ca
-Jun 2020 | [Ramaleela](https://en.wikipedia.org/wiki/Ramaleela) || Malayalam || einthusan.ca
+Jun 2020 | [Ramaleela](https://en.wikipedia.org/wiki/Ramaleela) || Malayalam | einthusan.ca| Polictics, Corruption | n/a |
 Jun 2020 | [Super_Deluxe](https://en.wikipedia.org/wiki/Super_Deluxe_(film)) || Tamil | einthusan.ca
 Jul 2020 | [Sangili_Bungili_Kadhava_Thorae](https://en.wikipedia.org/wiki/Sangili_Bungili_Kadhava_Thorae) || Tamil | einthusan.ca
 Jul 2020 | [Vaayai_Moodi_Pesavum](https://en.wikipedia.org/wiki/Vaayai_Moodi_Pesavum) | |Tamil | einthusan.ca
@@ -112,7 +116,7 @@ Oct 2020 | [Lakshyam_(2017_film)](https://en.wikipedia.org/wiki/Lakshyam_(2017_f
 Oct 2020 | [Varnyathil_Aashanka](https://en.wikipedia.org/wiki/Varnyathil_Aashanka) | 2017 | Malayalam | einthusan.ca | Heist | 
 Oct 2020 | [Miga_Miga_Avasaram](https://en.wikipedia.org/wiki/Miga_Miga_Avasaram) | 2019 | Tamil | einthusan.ca | Police Harassment | 
 Dec 2020 | [Jallikattu](https://en.wikipedia.org/wiki/Jallikattu_(2019_film)) | 2019 | Malayalam | Einthusan.ca | Chasing the bull | n/a |
-Dec 2020 | [link](https://en.wikipedia.org/wiki/Annayum_Rasoolum) | 2013 | Malayalam | einthusan.ca | Tragic Love Story | n/a |
+Dec 2020 | [Annayum_Rasoolum](https://en.wikipedia.org/wiki/Annayum_Rasoolum) | 2013 | Malayalam | einthusan.ca | Tragic Love Story | n/a |
 Dec 2020 | [Paava_Kadhaigal](https://en.wikipedia.org/wiki/Paava_Kadhaigal) | 2020 | Tamil | Netflix | Honor Killing || 
 Dec 2020 | [City_of_God](https://en.wikipedia.org/wiki/City_of_God_(2011_film)) | 2011 | Malayalam | einthusan.ca  | Gangster,Crime-Thriller | HyerlinkCinema 
 Dec 2020 | [Raat_Akeli_Hai](https://en.wikipedia.org/wiki/Raat_Akeli_Hai) | 2020 | Hindi | Netflix | crime thriller,voyerism   | n/a |
