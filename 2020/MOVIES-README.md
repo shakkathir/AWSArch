@@ -75,7 +75,7 @@ Mrs. Doughtfire | English ||
 [Kalyana_Samayal_Saadham](https://en.wikipedia.org/wiki/Kalyana_Samayal_Saadham) | Tamil | [Shubh_Mangal_Saavdhan](https://en.wikipedia.org/wiki/Shubh_Mangal_Saavdhan) | Hindi
 
 ### Movies Watched by Date
-Watch Date | Movie | Release Year | Lang | Channel | Type of Movie |  
+Watch Date | Movie | Release Year | Lang | Channel | Type of Movie | Style |
 ------------ | -------------| -------------| -------------|-------------|-------------
 Dec 2018 | [Andhadhun](https://en.wikipedia.org/wiki/Andhadhun) | 2018 | Hindi | Amazon Prime | crime
 Dec 2018 | [Kahaani](https://en.wikipedia.org/wiki/Kahaani) | 2018 | Hindi | Amazon Prime | crime 
@@ -111,7 +111,7 @@ Oct 2020 | [Lock_Up_(2020_film)](https://en.wikipedia.org/wiki/Lock_Up_(2020_fil
 Oct 2020 | [Lakshyam_(2017_film)](https://en.wikipedia.org/wiki/Lakshyam_(2017_film)) | 2014 | Malayalam |  einthusan.ca | escape from prision,police | 
 Oct 2020 | [Varnyathil_Aashanka](https://en.wikipedia.org/wiki/Varnyathil_Aashanka) | 2017 | Malayalam | einthusan.ca | Heist | 
 Oct 2020 | [Miga_Miga_Avasaram](https://en.wikipedia.org/wiki/Miga_Miga_Avasaram) | 2019 | Tamil | einthusan.ca 
-
+Dec 2020 | [Paava_Kadhaigal](https://en.wikipedia.org/wiki/Paava_Kadhaigal) | 2020 | Tamil | Netflix | Honor Killing || 
 Dec 2020 | [City_of_God](https://en.wikipedia.org/wiki/City_of_God_(2011_film)) | 2011 | Malayalam | einthusan.ca  |  Crime-Thriller | HyerlinkCinema 
 
 
