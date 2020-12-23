@@ -125,6 +125,42 @@ Dec 2020 | [Maanagaram](https://en.wikipedia.org/wiki/Maanagaram) | 2017 | Tamil
 Date | link | Year | Lang | source | theme | style |
 Date | link | Year | Lang | source | theme | style |
 
+### Movies Watched by Date & Language 
+### Malaylam
+Watch Date | Movie | Release Year | Lang | Channel | Type of Movie | Style |
+------------ | -------------| -------------| -------------|-------------|-------------|---------
+Mar 2020 | [Driving_Licence](https://en.wikipedia.org/wiki/Driving_Licence_(film)) | 2019 | Malayalam | Einthusan | Personal Ego Clash | n/a 
+Mar 2020 | [Ayyappanum_Koshiyum](https://en.wikipedia.org/wiki/Ayyappanum_Koshiyum) | 2020 | Malayalam | Einthusan | Personal Ego Clash | n/a 
+Apr 2020 | [Forensic](https://en.wikipedia.org/wiki/Forensic_(film)) | 2020| Malayalam | einthusan.ca
+Apr 2020 | [Jomonte_Suvisheshangal](https://en.wikipedia.org/wiki/Jomonte_Suvisheshangal) | 2017 | Malayalam | einthusan.ca
+Apr 2020 | [5_Sundarikal](https://en.wikipedia.org/wiki/5_Sundarikal) | 2013 | Malayalam | einthusan.ca | Anthology ||
+May 2020 | [Vikramadithyan](https://en.wikipedia.org/wiki/Vikramadithyan) || Malayalam | einthusan.ca
+Jun 2020 | [Ramaleela](https://en.wikipedia.org/wiki/Ramaleela) || Malayalam | einthusan.ca| Polictics, Corruption | n/a |
+Aug 2020 | [Joseph_](https://en.wikipedia.org/wiki/Joseph_(2018_film)) | 2018 | Malayalam | einthusan.ca 
+Aug 2020 | [Romans_](https://en.wikipedia.org/wiki/Romans_(2013_film)) | 2013 | Malayalam | einthusan.ca 
+Sep 2020 | [Thondimuthalum_Driksakshiyum](https://en.wikipedia.org/wiki/Thondimuthalum_Driksakshiyum) | 2017 | Malayalam |  einthusan.ca | con artist
+Sep 2020 | [7th_Day_(film)](https://en.wikipedia.org/wiki/7th_Day_(film)) | 2017 | Malayalam |  einthusan.ca | crime ( Faking death )
+Oct 2020 | [Lakshyam_(2017_film)](https://en.wikipedia.org/wiki/Lakshyam_(2017_film)) | 2014 | Malayalam |  einthusan.ca | escape from prision,police | 
+Oct 2020 | [Varnyathil_Aashanka](https://en.wikipedia.org/wiki/Varnyathil_Aashanka) | 2017 | Malayalam | einthusan.ca | Heist | 
+Dec 2020 | [Jallikattu](https://en.wikipedia.org/wiki/Jallikattu_(2019_film)) | 2019 | Malayalam | Einthusan.ca | Chasing the bull | n/a |
+Dec 2020 | [Annayum_Rasoolum](https://en.wikipedia.org/wiki/Annayum_Rasoolum) | 2013 | Malayalam | einthusan.ca | Tragic Love Story | n/a |
+Dec 2020 | [City_of_God](https://en.wikipedia.org/wiki/City_of_God_(2011_film)) | 2011 | Malayalam | einthusan.ca  | Gangster,Crime-Thriller | HyerlinkCinema 
+Dec 2020 | [Premam](https://en.wikipedia.org/wiki/Premam) | 2015 | Malayalam | einthusan.ca | 3 attempt love story | n/a  
+### Tamil 
+Watch Date | Movie | Release Year | Lang | Channel | Type of Movie | Style |
+------------ | -------------| -------------| -------------|-------------|-------------|---------
+
+### Hindi
+Watch Date | Movie | Release Year | Lang | Channel | Type of Movie | Style |
+------------ | -------------| -------------| -------------|-------------|-------------|---------
+
+### English
+Watch Date | Movie | Release Year | Lang | Channel | Type of Movie | Style |
+------------ | -------------| -------------| -------------|-------------|-------------|---------
+
+### Other
+Watch Date | Movie | Release Year | Lang | Channel | Type of Movie | Style |
+------------ | -------------| -------------| -------------|-------------|-------------|---------
 
 
 
