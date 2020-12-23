@@ -76,7 +76,7 @@ Mrs. Doughtfire | English ||
 
 ### Movies Watched by Date
 Watch Date | Movie | Release Year | Lang | Channel | Type of Movie | Style |
----------------- | -------------| -------------| -------------|-------------|-----------------------|---------
+---------------- | -------------| -------------|-----------------|-------------|-----------------------|---------
 Dec 2018 | [Andhadhun](https://en.wikipedia.org/wiki/Andhadhun) | 2018 | Hindi | Amazon Prime | crime,homicide | n/a
 Dec 2018 | [Kahaani](https://en.wikipedia.org/wiki/Kahaani) | 2018 | Hindi | Amazon Prime | crime,homicide | n/a  
 Dec 2018 | [Pink](https://en.wikipedia.org/wiki/Pink_(2016_film)) | 2016 | Hindi | Amazon Prime | social injustice | n/a
