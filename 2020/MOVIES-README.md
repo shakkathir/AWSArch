@@ -146,6 +146,7 @@ Dec 2020 | [Jallikattu](https://en.wikipedia.org/wiki/Jallikattu_(2019_film)) | 
 Dec 2020 | [Annayum_Rasoolum](https://en.wikipedia.org/wiki/Annayum_Rasoolum) | 2013 | Malayalam | einthusan.ca | Tragic Love Story | n/a |
 Dec 2020 | [City_of_God](https://en.wikipedia.org/wiki/City_of_God_(2011_film)) | 2011 | Malayalam | einthusan.ca  | Gangster,Crime-Thriller | HyerlinkCinema 
 Dec 2020 | [Premam](https://en.wikipedia.org/wiki/Premam) | 2015 | Malayalam | einthusan.ca | 3 attempt love story | n/a  
+Dec 2020 | [Premam](https://en.wikipedia.org/wiki/Premam) | 2015 | Malayalam | einthusan.ca | 3 attempt love story | n/a  
 ### Tamil 
 Watch Date | Movie | Release Year | Lang | Channel | Type of Movie | Style |
 ------------ | -------------| -------------| -------------|-------------|-------------|---------
