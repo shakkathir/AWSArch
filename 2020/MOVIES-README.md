@@ -150,6 +150,8 @@ Dec 2020 | [Premam](https://en.wikipedia.org/wiki/Premam) | 2015 | Malayalam | e
 ### Tamil 
 Watch Date | Movie | Release Year | Lang | Channel | Type of Movie | Style |
 ------------ | -------------| -------------| -------------|-------------|-------------|---------
+Dec 2020 | [Aviyal](https://en.wikipedia.org/wiki/Aviyal_(film) ) | 2016 | Tamil | Einthusan.ca | 4 part Anthology, Social Dark | n/a |
+
 
 ### Hindi
 Watch Date | Movie | Release Year | Lang | Channel | Type of Movie | Style |
