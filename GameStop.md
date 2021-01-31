@@ -1,15 +1,5 @@
 # [The Real Force Driving the GameStop Revolution - WSJ](https://www.wsj.com/articles/the-real-force-driving-the-gamestop-amc-blackberry-revolution-11611965586?mod=itp_wsj&ru=yahoo)
 
-# Summary
-* This movement is the culmination of nearly five decades of the democratization of markets investors should regard it as the latest phase in a long evolution—and unlikely to disrupt markets overall.
-Still, this is a remarkable moment. It’s also the culmination of 45 years of relentless decline in the cost of investing that kicked off when the late Vanguard founder launched the first index mutual fund in 1975. Stock funds used to carry commissions of up to 8% and annual expenses as high as 2%; now you can buy index funds at zero commission and with expenses under 0.05% annually.
-Decades ago, small investors might pay as much as 5% to trade a stock.
-
-* Nowadays, your stockbroker is in your pocket, as apps on your phone let you trade stocks at zero commissions, anytime you want.
-
-* This market moment, with its surge in technology-fueled social speculation, is an echo of 1999 and early 2000
-
-___
 # Big Picture View.
 * __$42 trillion__ ocean of the U.S. stock market.
 
@@ -28,12 +18,21 @@ ___
 ____
 # [GameStop Mania Reveals Power Shift on Wall Street—and the Pros Are Reeling - WSJ](https://www.wsj.com/articles/gamestop-mania-reveals-power-shift-on-wall-streetand-the-pros-are-reeling-11611774663)
 
-## Yellow
+## Technology, Innovation, Trading Costs and Easy access to trading.
 * Reddit user noted at the time that Michael Burry, the investor who famously bet against mortgage securities before the late-2000s financial crisis, had built a stake in the company through his investment firm Scion Asset Management LLC.
+# Summary
+* This movement is the culmination of nearly five decades of the democratization of markets investors should regard it as the latest phase in a long evolution—and unlikely to disrupt markets overall.
+Still, this is a remarkable moment. It’s also the culmination of 45 years of relentless decline in the cost of investing that kicked off when the late Vanguard founder launched the first index mutual fund in 1975. Stock funds used to carry commissions of up to 8% and annual expenses as high as 2%; now you can buy index funds at zero commission and with expenses under 0.05% annually.
+Decades ago, small investors might pay as much as 5% to trade a stock.
+
+* Nowadays, your stockbroker is in your pocket, as apps on your phone let you trade stocks at zero commissions, anytime you want.
+
+* This market moment, with its surge in technology-fueled social speculation, is an echo of 1999 and early 2000
+
 
 * Maplelane has returned an average 29.4% a year since its inception, 
 
-* The median borrow cost for stocks in the S&P 500 is 0.3%
+* As of Wednesday, The median borrow cost for stocks in the S&P 500 is 0.3%
 
 * As of Wednesday afternoon, the borrow fee for GameStop stock was around 38% for existing shorts, according to S3 Partners. The borrow fee on new short sellers has climbed as high as between 150% to 200%.
 
