@@ -50,3 +50,23 @@ ____
 * In 2020 alone, it is estimated that more than 10 million new trading accounts were created, according to JMP Securities.
 
 * On Jan. 27, more than 39 million bullish calls changed hands, making it the most active day for such bets in history.
+___
+# [Wall Street Hedge Funds Stung by Market Turmoil - WSJ](https://www.wsj.com/articles/several-hedge-funds-stung-by-market-turmoil-11611842693?mod=article_inline)
+
+## A short Squeeze? Impacts few corners of Wall Street Elites and Goldman Sachs metrics.
+* Candlestick Capital Management, a roughly $3 billion Greenwich, Conn., hedge fund
+
+* was down in the low- to midteens for the year through Wednesday,
+
+*  It was up 26% in 2020, its first year.
+
+* D1 Capital Partners,
+
+* was down about 20% for the year through Wednesday
+
+* D1 managed $20 billion at the start of the year.
+
+* Maplelane, which started the year with about $3.5 billion and was down roughly 30% for the year through Tuesday, sustained additional losses that saw it down about 45% for the year through Wednesday, 
+
+* Goldman Sachs Group Inc.’s
+      basket of the 50 stocks with the highest short interest as a share of market capitalization was up a total 52.1% for the year through Wednesday, while the S&P 500 was down 0.14% for the period. Meanwhile, Goldman’s basket of 50 stocks that most frequently appear among the largest 10 holdings of hedge funds was down 3% for the period, with the basket starting to fall sharply this week.
