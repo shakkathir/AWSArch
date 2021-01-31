@@ -1,6 +1,6 @@
 # [The Real Force Driving the GameStop Revolution - WSJ](https://www.wsj.com/articles/the-real-force-driving-the-gamestop-amc-blackberry-revolution-11611965586?mod=itp_wsj&ru=yahoo)
 
-# Yellow
+# Summary
 * This movement is the culmination of nearly five decades of the democratization of markets investors should regard it as the latest phase in a long evolution—and unlikely to disrupt markets overall.
 Still, this is a remarkable moment. It’s also the culmination of 45 years of relentless decline in the cost of investing that kicked off when the late Vanguard founder launched the first index mutual fund in 1975. Stock funds used to carry commissions of up to 8% and annual expenses as high as 2%; now you can buy index funds at zero commission and with expenses under 0.05% annually.
 Decades ago, small investors might pay as much as 5% to trade a stock.
@@ -10,15 +10,16 @@ Decades ago, small investors might pay as much as 5% to trade a stock.
 * This market moment, with its surge in technology-fueled social speculation, is an echo of 1999 and early 2000
 
 ___
+# Big Picture View.
 * __$42 trillion__ ocean of the U.S. stock market.
 
-* As of Dec. 31, heavily shorted stocks like AMC Entertainment Holdings Inc.,BlackBerry Ltd.,iRobot Corp., and others lately favored by the flash mob made up only 0.13% of the S&P 500 and only 4% to 5% of leading indexes of small stocks
+* __As of Dec. 31__, heavily shorted stocks like AMC Entertainment Holdings Inc.,BlackBerry Ltd.,iRobot Corp., and others lately favored by the flash mob made up only 0.13% of the S&P 500 and only 4% to 5% of leading indexes of small stocks
 
-* By Jan. 27, the most-shorted stocks still accounted for only 0.17% of the S&P 500. They did roughly double to 8.6% of the S&P 600 Small-Cap index,which includes GameStop and several other flash-mob favorites, and 11% of the Russell Microcap index. But investors who are well diversified aren’t likely to feel a major impact.
+* __By Jan. 27__, the most-shorted stocks still accounted for only 0.17% of the S&P 500. They did roughly double to 8.6% of the S&P 600 Small-Cap index,which includes GameStop and several other flash-mob favorites, and 11% of the Russell Microcap index. But investors who are well diversified aren’t likely to feel a major impact.
 
-* Volatility for the S&P 500 so far in 2021 is up a bit but still ranks almost exactly in the middle of its levels recorded since 1928, according to Distillate Capital Partners LLC., a Chicago-based investment firm
+* __Volatility for the S&P 500 index__ so far in 2021 is up a bit but still ranks almost exactly in the middle of its levels recorded since 1928, according to Distillate Capital Partners LLC., a Chicago-based investment firm
 
-* Volatility of even the S&P 600 index of small stocks, which includes GameStop and several other flash-mob favorites, has fluctuated about one-third less sharply in 2021 than its long-run average.
+* __Volatility of even the S&P 600 index__ of small stocks, which includes GameStop and several other flash-mob favorites, has fluctuated about one-third less sharply in 2021 than its long-run average.
 
 * Taken together, these indicators suggest the flash mobs haven’t had significant effects outside the two- or three-dozen stocks they love to trade the most.
 * But it’s simplistic to think of this trading movement as a frontal assault on Wall Street’s elite
