@@ -155,6 +155,8 @@ Dec 2020 | [Premam](https://en.wikipedia.org/wiki/Premam) | 2015 | Malayalam | e
 12/25/2020 | [Rathinirvedam_1978](https://en.wikipedia.org/wiki/Rathinirvedam_(1978_film))|| Malay...|||
 12/25/2020 | [Rathinirvedam_2011](https://en.wikipedia.org/wiki/Rathinirvedam_(2011_film))|| Malay...|||
 12/25/2020 | [Rathinirvedam_einthusan.ca](https://einthusan.tv/movie/results/?lang=malayalam&query=Rathinirvedam) | | Malay...| lust | bharathan | |
+3/5/2021 | [Friday_(2012_film)](https://en.wikipedia.org/wiki/Friday_(2012_film)) | | Malaya.... |[Einthusan](https://einthusan.tv/movie/watch/1353/?lang=malayalam)||
+3/6/2021 | [Ee_Adutha_Kaalathu](https://en.wikipedia.org/wiki/Ee_Adutha_Kaalathu) | | Malaya.... |Einthusan.ca||
 Date | link | Year | Lang | source | theme | style |
 
 
