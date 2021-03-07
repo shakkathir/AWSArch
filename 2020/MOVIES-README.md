@@ -146,7 +146,11 @@ Dec 2020 | [Jallikattu](https://en.wikipedia.org/wiki/Jallikattu_(2019_film)) | 
 Dec 2020 | [Annayum_Rasoolum](https://en.wikipedia.org/wiki/Annayum_Rasoolum) | 2013 | Malayalam | einthusan.ca | Tragic Love Story | n/a |
 Dec 2020 | [City_of_God](https://en.wikipedia.org/wiki/City_of_God_(2011_film)) | 2011 | Malayalam | einthusan.ca  | Gangster,Crime-Thriller | HyerlinkCinema 
 Dec 2020 | [Premam](https://en.wikipedia.org/wiki/Premam) | 2015 | Malayalam | einthusan.ca | 3 attempt love story | n/a  
-Dec 2020 | [Premam](https://en.wikipedia.org/wiki/Premam) | 2015 | Malayalam | einthusan.ca | 3 attempt love story | n/a  
+Dec 2020 | [Premam](https://en.wikipedia.org/wiki/Premam) | 2015 | Malayalam | einthusan.ca | 3 attempt love story | n/a
+12/20/2020 | [Anveshanam] https://en.wikipedia.org/wiki/Anveshanam( Malayalam)  | | Mala...||| 
+Date | link | Year | Lang | source | theme | style |
+
+
 ### Tamil 
 Watch Date | Movie | Release Year | Lang | Channel | Type of Movie | Style |
 ------------ | -------------| -------------| -------------|-------------|-------------|---------
@@ -156,11 +160,11 @@ Dec 2020 | [Aviyal](https://en.wikipedia.org/wiki/Aviyal_(film) ) | 2016 | Tamil
 ### Hindi
 Watch Date | Movie | Release Year | Lang | Channel | Type of Movie | Style |
 ------------ | -------------| -------------| -------------|-------------|-------------|---------
-
+12/19/2020| https://en.wikipedia.org/wiki/Rakta_Charitra | |hindi |||
 ### English
-Watch Date | Movie | Release Year | Lang | Channel | Type of Movie | Style |
+Watch Date | Movie | Lang | 
 ------------ | -------------| -------------| -------------|-------------|-------------|---------
-
+12/18/2020| [Body_Double] https://en.wikipedia.org/wiki/Body_Double |  Eng...|
 ### Other
 Watch Date | Movie | Release Year | Lang | Channel | Type of Movie | Style |
 ------------ | -------------| -------------| -------------|-------------|-------------|---------
