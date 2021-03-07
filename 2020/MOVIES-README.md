@@ -160,7 +160,7 @@ Dec 2020 | [Aviyal](https://en.wikipedia.org/wiki/Aviyal_(film) ) | 2016 | Tamil
 ### Hindi
 Watch Date | Movie | Release Year | Lang | Channel | Type of Movie | Style |
 ------------ | -------------| -------------| -------------|-------------|-------------|---------
-12/19/2020| https://en.wikipedia.org/wiki/Rakta_Charitra | |hindi |||
+12/19/2020| [Rakta_Charitra](https://en.wikipedia.org/wiki/Rakta_Charitra) | |hindi |||
 ### English
 Watch Date | Movie | Lang | 
 ------------ | -------------| -------------| -------------|-------------|-------------|---------
