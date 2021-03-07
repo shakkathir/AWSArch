@@ -152,9 +152,9 @@ Dec 2020 | [Premam](https://en.wikipedia.org/wiki/Premam) | 2015 | Malayalam | e
 12/21/2020 | [City_of_God_(2011_film)](https://en.wikipedia.org/wiki/City_of_God_(2011_film))| | malayalam | crime | hyperlink format | Lijo Jose Pellisery
 12/24/2020 | [Amen](https://en.wikipedia.org/wiki/Amen_(2013_film)) | malayalam | | Malay...| love, comedy | Lijo Jose Pellisery |
 12/24/2020 | [Angamaly_Diaries ](https://en.wikipedia.org/wiki/Angamaly_Diaries) | | malayalam | crimal gang| Lijo Jose Pellisery |
-12/25/2020 | [Rathinirvedam](https://en.wikipedia.org/wiki/Rathinirvedam_(1978_film))|| Malay...|||
-12/25/2020 | [Rathinirvedam](https://en.wikipedia.org/wiki/Rathinirvedam_(2011_film))|| Malay...|||
-12/25/2020 | [Rathinirvedam](https://einthusan.tv/movie/results/?lang=malayalam&query=Rathinirvedam) | | Malay...| lust | bharathan | |
+12/25/2020 | [Rathinirvedam_1978](https://en.wikipedia.org/wiki/Rathinirvedam_(1978_film))|| Malay...|||
+12/25/2020 | [Rathinirvedam_2011](https://en.wikipedia.org/wiki/Rathinirvedam_(2011_film))|| Malay...|||
+12/25/2020 | [Rathinirvedam_einthusan.ca](https://einthusan.tv/movie/results/?lang=malayalam&query=Rathinirvedam) | | Malay...| lust | bharathan | |
 Date | link | Year | Lang | source | theme | style |
 
 
