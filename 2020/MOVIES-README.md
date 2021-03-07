@@ -146,13 +146,11 @@ Dec 2020 | [Jallikattu](https://en.wikipedia.org/wiki/Jallikattu_(2019_film)) | 
 Dec 2020 | [Annayum_Rasoolum](https://en.wikipedia.org/wiki/Annayum_Rasoolum) | 2013 | Malayalam | einthusan.ca | Tragic Love Story | n/a |
 Dec 2020 | [City_of_God](https://en.wikipedia.org/wiki/City_of_God_(2011_film)) | 2011 | Malayalam | einthusan.ca  | Gangster,Crime-Thriller | HyerlinkCinema 
 Dec 2020 | [Premam](https://en.wikipedia.org/wiki/Premam) | 2015 | Malayalam | einthusan.ca | 3 attempt love story | n/a  
-Dec 2020 | [Premam](https://en.wikipedia.org/wiki/Premam) | 2015 | Malayalam | einthusan.ca | 3 attempt love story | n/a
 12/20/2020 | [Anveshanam](https://en.wikipedia.org/wiki/Anveshanam(Malayalam))  | | Mala...||| 
 12/20/2020 | [unda (malayalam)](https://einthusan.tv/movie/watch/6g1O/?lang=malayalam)|| Mala...|||
 12/20/2020 | [Premam](https://en.wikipedia.org/wiki/Premam) | |malayalam  | ||
 12/21/2020 | [City_of_God_(2011_film)](https://en.wikipedia.org/wiki/City_of_God_(2011_film))| | malayalam | crime | hyperlink format | Lijo Jose Pellisery
-12/21/2020 | [Premam](https://en.wikipedia.org/wiki/Premam)| | malayalam | love story | |
-12/24/2020 | [Amen](https://en.wikipedia.org/wiki/Amen_(2013_film) | malayalam | | Malay...| love, comedy | Lijo Jose Pellisery |
+12/24/2020 | [Amen](https://en.wikipedia.org/wiki/Amen_(2013_film)) | malayalam | | Malay...| love, comedy | Lijo Jose Pellisery |
 12/24/2020 | [Angamaly_Diaries ](https://en.wikipedia.org/wiki/Angamaly_Diaries) | | malayalam | crimal gang| Lijo Jose Pellisery |
 12/25/2020 | [Rathinirvedam](https://en.wikipedia.org/wiki/Rathinirvedam_(1978_film))|| Malay...|||
 12/25/2020 | [Rathinirvedam](https://en.wikipedia.org/wiki/Rathinirvedam_(2011_film))|| Malay...|||
@@ -174,7 +172,7 @@ Watch Date | Movie | Release Year | Lang | Channel | Type of Movie | Style |
 ------------ | -------------| -------------| -------------|-------------|-------------|---------
 12/19/2020| [Rakta_Charitra](https://en.wikipedia.org/wiki/Rakta_Charitra) | |hindi |||
 12/21/2020 | [Raat_Akeli_Hai ](https://en.wikipedia.org/wiki/Raat_Akeli_Hai) || hindi | crime, murder mystry, perversion | |
-12/25/2020 | [Ek_Hasina_Thi_(film))](https://einthusan.tv/movie/results/?lang=hindi&query=Ek+Hasina+Thi | hindi | crime, murder plot | srinam raghavan 
+12/25/2020 | [Ek_Hasina_Thi_(film))](https://einthusan.tv/movie/results/?lang=hindi&query=Ek+Hasina+Thi) | hindi | crime, murder plot | srinam raghavan 
 ### English
 Watch Date | Movie | Release Year | Lang | Channel | Type of Movie | Style |
 ------------ | -------------| -------------| -------------|-------------|-------------|---------
