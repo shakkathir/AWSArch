@@ -152,7 +152,11 @@ Dec 2020 | [Premam](https://en.wikipedia.org/wiki/Premam) | 2015 | Malayalam | e
 12/20/2020 | [Premam](https://en.wikipedia.org/wiki/Premam) | |malayalam  | ||
 12/21/2020 | [City_of_God_(2011_film)](https://en.wikipedia.org/wiki/City_of_God_(2011_film))| | malayalam | crime | hyperlink format | Lijo Jose Pellisery
 12/21/2020 | [Premam](https://en.wikipedia.org/wiki/Premam)| | malayalam | love story | |
-
+12/24/2020 | [Amen](https://en.wikipedia.org/wiki/Amen_(2013_film) | malayalam | | Malay...| love, comedy | Lijo Jose Pellisery |
+12/24/2020 | [Angamaly_Diaries ](https://en.wikipedia.org/wiki/Angamaly_Diaries) | | malayalam | crimal gang| Lijo Jose Pellisery |
+12/25/2020 | [Rathinirvedam](https://en.wikipedia.org/wiki/Rathinirvedam_(1978_film))|| Malay...|||
+12/25/2020 | [Rathinirvedam](https://en.wikipedia.org/wiki/Rathinirvedam_(2011_film))|| Malay...|||
+12/25/2020 | [Rathinirvedam](https://einthusan.tv/movie/results/?lang=malayalam&query=Rathinirvedam) | | Malay...| lust | bharathan | |
 Date | link | Year | Lang | source | theme | style |
 
 
@@ -170,6 +174,7 @@ Watch Date | Movie | Release Year | Lang | Channel | Type of Movie | Style |
 ------------ | -------------| -------------| -------------|-------------|-------------|---------
 12/19/2020| [Rakta_Charitra](https://en.wikipedia.org/wiki/Rakta_Charitra) | |hindi |||
 12/21/2020 | [Raat_Akeli_Hai ](https://en.wikipedia.org/wiki/Raat_Akeli_Hai) || hindi | crime, murder mystry, perversion | |
+12/25/2020 | [Ek_Hasina_Thi_(film))](https://einthusan.tv/movie/results/?lang=hindi&query=Ek+Hasina+Thi | hindi | crime, murder plot | srinam raghavan 
 ### English
 Watch Date | Movie | Release Year | Lang | Channel | Type of Movie | Style |
 ------------ | -------------| -------------| -------------|-------------|-------------|---------
