@@ -148,17 +148,17 @@ Dec 2020 | [City_of_God](https://en.wikipedia.org/wiki/City_of_God_(2011_film)) 
 Dec 2020 | [Premam](https://en.wikipedia.org/wiki/Premam) | 2015 | Malayalam | einthusan.ca | 3 attempt love story | n/a  
 Dec 2020 | [Premam](https://en.wikipedia.org/wiki/Premam) | 2015 | Malayalam | einthusan.ca | 3 attempt love story | n/a
 12/20/2020 | [Anveshanam](https://en.wikipedia.org/wiki/Anveshanam(Malayalam))  | | Mala...||| 
-12/20/2020 |  [unda (malayalam)](https://einthusan.tv/movie/watch/6g1O/?lang=malayalam)|| Mala...|||
-12/20/2020 | [Premam](https://en.wikipedia.org/wiki/Premam premam) | |malayalam  | ||
+12/20/2020 | [unda (malayalam)](https://einthusan.tv/movie/watch/6g1O/?lang=malayalam)|| Mala...|||
+12/20/2020 | [Premam](https://en.wikipedia.org/wiki/Premam) | |malayalam  | ||
 Date | link | Year | Lang | source | theme | style |
 
 
 ### Tamil 
 Watch Date | Movie | Release Year | Lang | Channel | Type of Movie | Style |
 ------------ | -------------| -------------| -------------|-------------|-------------|---------
-Dec 2020 | [Aviyal](https://en.wikipedia.org/wiki/Aviyal_(film) ) | 2016 | Tamil | Einthusan.ca | 4 part Anthology, Social Dark | n/a |
+Dec 2020 | [Aviyal](https://en.wikipedia.org/wiki/Aviyal_(film) ) | 2016 | Tamil | Einthusan.ca |  | n/a |
 12/20/2020 |  [Kadhalum_Kadandhu_Pogum](https://en.wikipedia.org/wiki/Kadhalum_Kadandhu_Pogum ( tamil )) || Tamil | || 
-12/20/2020 | [Maanagaram](https://en.wikipedia.org/wiki/Maanagaram ( tamil )) | | tamil | Lokesh Kanakaraj ( 'Master' director) | hyperlink format|
+12/20/2020 | [Maanagaram](https://en.wikipedia.org/wiki/Maanagaram)) | | tamil | Lokesh Kanakaraj | hyperlink format|
 [Aviyal](https://en.wikipedia.org/wiki/Aviyal_(film)  |  | Tamil| Lokesh Kanakaraj ( 'Master' director)||
 ### Hindi
 Watch Date | Movie | Release Year | Lang | Channel | Type of Movie | Style |
