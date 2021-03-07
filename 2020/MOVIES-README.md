@@ -147,7 +147,7 @@ Dec 2020 | [Annayum_Rasoolum](https://en.wikipedia.org/wiki/Annayum_Rasoolum) | 
 Dec 2020 | [City_of_God](https://en.wikipedia.org/wiki/City_of_God_(2011_film)) | 2011 | Malayalam | einthusan.ca  | Gangster,Crime-Thriller | HyerlinkCinema 
 Dec 2020 | [Premam](https://en.wikipedia.org/wiki/Premam) | 2015 | Malayalam | einthusan.ca | 3 attempt love story | n/a  
 Dec 2020 | [Premam](https://en.wikipedia.org/wiki/Premam) | 2015 | Malayalam | einthusan.ca | 3 attempt love story | n/a
-12/20/2020 | [Anveshanam](https://en.wikipedia.org/wiki/Anveshanam( Malayalam))  | | Mala...||| 
+12/20/2020 | [Anveshanam](https://en.wikipedia.org/wiki/Anveshanam(Malayalam))  | | Mala...||| 
 Date | link | Year | Lang | source | theme | style |
 
 
