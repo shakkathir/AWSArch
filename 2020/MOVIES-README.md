@@ -148,7 +148,7 @@ Dec 2020 | [City_of_God](https://en.wikipedia.org/wiki/City_of_God_(2011_film)) 
 Dec 2020 | [Premam](https://en.wikipedia.org/wiki/Premam) | 2015 | Malayalam | einthusan.ca | 3 attempt love story | n/a  
 Dec 2020 | [Premam](https://en.wikipedia.org/wiki/Premam) | 2015 | Malayalam | einthusan.ca | 3 attempt love story | n/a
 12/20/2020 | [Anveshanam](https://en.wikipedia.org/wiki/Anveshanam(Malayalam))  | | Mala...||| 
-12/20/2020 |  [unda (malayalam)](https://einthusan.tv/movie/watch/6g1O/?lang=malayalam)|| mala...|||
+12/20/2020 |  [unda (malayalam)](https://einthusan.tv/movie/watch/6g1O/?lang=malayalam)|| Mala...|||
 Date | link | Year | Lang | source | theme | style |
 
 
@@ -163,7 +163,7 @@ Watch Date | Movie | Release Year | Lang | Channel | Type of Movie | Style |
 ------------ | -------------| -------------| -------------|-------------|-------------|---------
 12/19/2020| [Rakta_Charitra](https://en.wikipedia.org/wiki/Rakta_Charitra) | |hindi |||
 ### English
-Watch Date | Movie | Lang | 
+Watch Date | Movie | Release Year | Lang | Channel | Type of Movie | Style |
 ------------ | -------------| -------------| -------------|-------------|-------------|---------
 12/18/2020| [Body_Double] https://en.wikipedia.org/wiki/Body_Double | | Eng...|||
 ### Other
