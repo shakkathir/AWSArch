@@ -129,34 +129,33 @@ Date | link | Year | Lang | source | theme | style |
 ### Malaylam
 Watch Date | Movie | Release Year | Lang | Channel | Genere | Why? |
 ------------ | -------------| -------------| -------------|-------------|-------------|---------
-Mar 2020 | [Driving_Licence](https://en.wikipedia.org/wiki/Driving_Licence_(film)) | 2019 | Malayalam | Einthusan | Personal Ego Clash | n/a 
-Mar 2020 | [Ayyappanum_Koshiyum](https://en.wikipedia.org/wiki/Ayyappanum_Koshiyum) | 2020 | Malayalam | Einthusan | Personal Ego Clash | n/a 
-Apr 2020 | [Forensic](https://en.wikipedia.org/wiki/Forensic_(film)) | 2020| Malayalam | einthusan.ca
-Apr 2020 | [Jomonte_Suvisheshangal](https://en.wikipedia.org/wiki/Jomonte_Suvisheshangal) | 2017 | Malayalam | einthusan.ca
+Mar 2020 | [Driving_Licence](https://en.wikipedia.org/wiki/Driving_Licence_(film)) | 2019 | Malayalam | Einthusan | drama  | Personal Ego Clash
+Mar 2020 | [Ayyappanum_Koshiyum](https://en.wikipedia.org/wiki/Ayyappanum_Koshiyum) | 2020 | Malayalam | Einthusan | drama | Personal Ego Clash
+Apr 2020 | [Forensic](https://en.wikipedia.org/wiki/Forensic_(film)) | 2020| Malayalam | einthusan.ca | crime | 
+Apr 2020 | [Jomonte_Suvisheshangal](https://en.wikipedia.org/wiki/Jomonte_Suvisheshangal) | 2017 | Malayalam | einthusan.ca | drama | 
 Apr 2020 | [5_Sundarikal](https://en.wikipedia.org/wiki/5_Sundarikal) | 2013 | Malayalam | einthusan.ca | Anthology ||
-May 2020 | [Vikramadithyan](https://en.wikipedia.org/wiki/Vikramadithyan) || Malayalam | einthusan.ca
-Jun 2020 | [Ramaleela](https://en.wikipedia.org/wiki/Ramaleela) || Malayalam | einthusan.ca| Polictics, Corruption | n/a |
-Aug 2020 | [Joseph_](https://en.wikipedia.org/wiki/Joseph_(2018_film)) | 2018 | Malayalam | einthusan.ca 
-Aug 2020 | [Romans_](https://en.wikipedia.org/wiki/Romans_(2013_film)) | 2013 | Malayalam | einthusan.ca 
-Sep 2020 | [Thondimuthalum_Driksakshiyum](https://en.wikipedia.org/wiki/Thondimuthalum_Driksakshiyum) | 2017 | Malayalam |  einthusan.ca | con artist
-Sep 2020 | [7th_Day_(film)](https://en.wikipedia.org/wiki/7th_Day_(film)) | 2017 | Malayalam |  einthusan.ca | crime ( Faking death )
-Oct 2020 | [Lakshyam_(2017_film)](https://en.wikipedia.org/wiki/Lakshyam_(2017_film)) | 2014 | Malayalam |  einthusan.ca | escape from prision,police | 
-Oct 2020 | [Varnyathil_Aashanka](https://en.wikipedia.org/wiki/Varnyathil_Aashanka) | 2017 | Malayalam | einthusan.ca | Heist | 
-Dec 2020 | [Jallikattu](https://en.wikipedia.org/wiki/Jallikattu_(2019_film)) | 2019 | Malayalam | Einthusan.ca | Chasing the bull | n/a |
-Dec 2020 | [Annayum_Rasoolum](https://en.wikipedia.org/wiki/Annayum_Rasoolum) | 2013 | Malayalam | einthusan.ca | Tragic Love Story | n/a |
-Dec 2020 | [City_of_God](https://en.wikipedia.org/wiki/City_of_God_(2011_film)) | 2011 | Malayalam | einthusan.ca  | Gangster,Crime-Thriller | HyerlinkCinema 
-Dec 2020 | [Premam](https://en.wikipedia.org/wiki/Premam) | 2015 | Malayalam | einthusan.ca | 3 attempt love story | n/a  
-12/20/2020 | [Anveshanam](https://en.wikipedia.org/wiki/Anveshanam(Malayalam))  | | Mala...||| 
-12/20/2020 | [unda (malayalam)](https://einthusan.tv/movie/watch/6g1O/?lang=malayalam)|| Mala...|||
-12/20/2020 | [Premam](https://en.wikipedia.org/wiki/Premam) | |malayalam  | ||
-12/21/2020 | [City_of_God_(2011_film)](https://en.wikipedia.org/wiki/City_of_God_(2011_film))| | malayalam | crime | hyperlink format | Lijo Jose Pellisery
-12/24/2020 | [Amen](https://en.wikipedia.org/wiki/Amen_(2013_film)) | malayalam | | Malay...| love, comedy | Lijo Jose Pellisery |
-12/24/2020 | [Angamaly_Diaries ](https://en.wikipedia.org/wiki/Angamaly_Diaries) | | malayalam | crimal gang| Lijo Jose Pellisery |
-12/25/2020 | [Rathinirvedam_1978](https://en.wikipedia.org/wiki/Rathinirvedam_(1978_film))|| Malay...|||
-12/25/2020 | [Rathinirvedam_2011](https://en.wikipedia.org/wiki/Rathinirvedam_(2011_film))|| Malay...|||
-12/25/2020 | [Rathinirvedam_einthusan.ca](https://einthusan.tv/movie/results/?lang=malayalam&query=Rathinirvedam) | | Malay...| lust | bharathan | |
-3/5/2021 | [Friday_(2012_film)](https://en.wikipedia.org/wiki/Friday_(2012_film)) | | Malaya.... |[Einthusan](https://einthusan.tv/movie/watch/1353/?lang=malayalam)||
-3/6/2021 | [Ee_Adutha_Kaalathu](https://en.wikipedia.org/wiki/Ee_Adutha_Kaalathu) | | Malaya.... |Einthusan.ca||
+May 2020 | [Vikramadithyan](https://en.wikipedia.org/wiki/Vikramadithyan) |YY| Malayalam | einthusan.ca| drama | nimitha pramod 
+Jun 2020 | [Ramaleela](https://en.wikipedia.org/wiki/Ramaleela) |YY| Malayalam | einthusan.ca| political drama |Polictics, Corruption 
+Aug 2020 | [Joseph_](https://en.wikipedia.org/wiki/Joseph_(2018_film)) | 2018 | Malayalam | einthusan.ca  | |
+Aug 2020 | [Romans_](https://en.wikipedia.org/wiki/Romans_(2013_film)) | 2013 | Malayalam | einthusan.ca | con drama | con artist
+Sep 2020 | [Thondimuthalum_Driksakshiyum](https://en.wikipedia.org/wiki/Thondimuthalum_Driksakshiyum) | 2017 | Malayalam |  einthusan.ca | con drama |con artist
+Sep 2020 | [7th_Day_(film)](https://en.wikipedia.org/wiki/7th_Day_(film)) | 2017 | Malayalam |  einthusan.ca | crime | Faking death 
+Oct 2020 | [Lakshyam_(2017_film)](https://en.wikipedia.org/wiki/Lakshyam_(2017_film)) | 2014 | Malayalam |  einthusan.ca | crime | escape from prision,police | 
+Oct 2020 | [Varnyathil_Aashanka](https://en.wikipedia.org/wiki/Varnyathil_Aashanka) | 2017 | Malayalam | einthusan.ca | Heist | Heist
+Dec 2020 | [Jallikattu](https://en.wikipedia.org/wiki/Jallikattu_(2019_film)) | 2019 | Malayalam | Einthusan.ca | art film | Chasing the bull 
+Dec 2020 | [Annayum_Rasoolum](https://en.wikipedia.org/wiki/Annayum_Rasoolum) | 2013 | Malayalam | einthusan.ca |romance|Tragic Love Story 
+Dec 2020 | [City_of_God](https://en.wikipedia.org/wiki/City_of_God_(2011_film)) | 2011 | Malayalam | einthusan.ca  | | crime|  Gangster,Crime-Thriller, HyerlinkCinema 
+Dec 2020 | [Premam](https://en.wikipedia.org/wiki/Premam) | 2015 | Malayalam | einthusan.ca | romance | nivin pauly, madonna sebastian  
+12/20/2020 | [Anveshanam](https://en.wikipedia.org/wiki/Anveshanam(Malayalam))  | YY| Malayalam|einthusan.ca| crime | child death
+12/20/2020 | [unda (malayalam)](https://einthusan.tv/movie/watch/6g1O/?lang=malayalam)|YY| Malayalam|einthusan.ca| police drama| mamoothy
+12/21/2020 | [City_of_God_(2011_film)](https://en.wikipedia.org/wiki/City_of_God_(2011_film))|YY | Malayalam | einthusan.ca| crime | hyperlink format | Lijo Jose Pellisery
+12/24/2020 | [Amen](https://en.wikipedia.org/wiki/Amen_(2013_film))|YY | Malayalam | einthusan.ca | love, comedy | Lijo Jose Pellisery 
+12/24/2020 | [Angamaly_Diaries ](https://en.wikipedia.org/wiki/Angamaly_Diaries) |YY | Malayalam| einthusan.ca|crimal gang| Lijo Jose Pellisery |
+12/25/2020 | [Rathinirvedam_1978](https://en.wikipedia.org/wiki/Rathinirvedam_(1978_film))|YY| Malayalam|einthusan.ca|lust, seduction|
+12/25/2020 | [Rathinirvedam_2011](https://en.wikipedia.org/wiki/Rathinirvedam_(2011_film))|YY| Malayalam|einthusan.ca|lust, seduction | Swetha Menon
+12/25/2020 | [Rathinirvedam_einthusan.ca](https://einthusan.tv/movie/results/?lang=malayalam&query=Rathinirvedam) |YY | Malayalam|einthusan.ca| lust,seduction | bharathan | 
+3/5/2021 | [Friday_(2012_film)](https://en.wikipedia.org/wiki/Friday_(2012_film)) |YY | Malayalam |[Einthusan](https://einthusan.tv/movie/watch/1353/?lang=malayalam)| drama| hyperlink
+3/6/2021 | [Ee_Adutha_Kaalathu](https://en.wikipedia.org/wiki/Ee_Adutha_Kaalathu) |YY | Malayalam |Einthusan.ca||
 Date | link | Year | Lang | source | theme | style |
 
 
