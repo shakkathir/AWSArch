@@ -177,7 +177,7 @@ Watch Date | Movie | Release Year | Lang | Channel | Type of Movie | Style |
 12/21/2020 | [Raat_Akeli_Hai ](https://en.wikipedia.org/wiki/Raat_Akeli_Hai) || hindi | crime, murder mystry, perversion | |
 12/25/2020 | [Ek_Hasina_Thi_(film))](https://einthusan.tv/movie/results/?lang=hindi&query=Ek+Hasina+Thi) | |hindi | crime, murder plot | srinam raghavan 
 12/26/2020 | [Jolly_LLB](https://en.wikipedia.org/wiki/Jolly_LLB) | |hindi | | einthusan.ca|court room drama
-12/26/2020 | [Johnny_Gaddaar](https://en.wikipedia.org/wiki/Johnny_Gaddaar | |hindi | |  sriram raghavan |crime plot
+12/26/2020 | [Johnny_Gaddaar](https://en.wikipedia.org/wiki/Johnny_Gaddaar) | |hindi | |  sriram raghavan |crime plot
 12/27/2020 | [Badlapur_(film)](https://en.wikipedia.org/wiki/Badlapur_(film) )  || hindi | ||sriram ragavan
 
 ### English
