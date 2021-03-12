@@ -168,17 +168,17 @@ Dec 2020 | [Aviyal](https://en.wikipedia.org/wiki/Aviyal_(film) ) | 2016 | Tamil
 12/20/2020 | [Maanagaram](https://en.wikipedia.org/wiki/Maanagaram)) | | tamil | Lokesh Kanakaraj | hyperlink format|
 12/20/2020| [Aviyal](https://en.wikipedia.org/wiki/Aviyal_(film))  |  | Tamil| Lokesh Kanakaraj||
 12/21/2020 | [Paava_Kadhaigal](https://en.wikipedia.org/wiki/Paava_Kadhaigal) || tamil | netflix | 4 honor kill stories| 
-12/26/2020 | [Manithan_(2016_film)](https://en.wikipedia.org/wiki/Manithan_(2016_film)) | |tamil | remake of Jolly_LLB | einthusan.ca|
+12/26/2020 | [Manithan_(2016_film)](https://en.wikipedia.org/wiki/Manithan_(2016_film)) | |tamil | einthusan.ca| |remake of Jolly LLB
 12/27/2020 |[Angadi_Theru](https://en.wikipedia.org/wiki/Angadi_Theru) | | tamil |  | vasantha_balan |
 ### Hindi
 Watch Date | Movie | Release Year | Lang | Channel | Genere | Why? |
 ------------ | -------------| -------------| -------------|-------------|-------------|---------
 12/19/2020| [Rakta_Charitra](https://en.wikipedia.org/wiki/Rakta_Charitra) | |hindi |||
 12/21/2020 | [Raat_Akeli_Hai ](https://en.wikipedia.org/wiki/Raat_Akeli_Hai) || hindi ||crime | murder, perversion
-12/25/2020 | [Ek_Hasina_Thi_(film))](https://einthusan.tv/movie/results/?lang=hindi&query=Ek+Hasina+Thi) ||hindi | crime, murder plot | srinam raghavan 
+12/25/2020 | [Ek_Hasina_Thi_(film))](https://einthusan.tv/movie/results/?lang=hindi&query=Ek+Hasina+Thi) ||hindi | |crime | srinam raghavan, murder plot 
 12/26/2020 | [Jolly_LLB](https://en.wikipedia.org/wiki/Jolly_LLB) | |hindi|einthusan.ca| |court room drama
 12/26/2020 | [Johnny_Gaddaar](https://en.wikipedia.org/wiki/Johnny_Gaddaar) ||hindi| | crime |sriram ragavan
-12/27/2020 | [Badlapur_(film)](https://en.wikipedia.org/wiki/Badlapur_(film) )  || hindi |crime|sriram ragavan
+12/27/2020 | [Badlapur_(film)](https://en.wikipedia.org/wiki/Badlapur_(film) )  || hindi ||crime|sriram ragavan
 
 ### English
 Watch Date | Movie | Release Year | Lang | Channel | Genere | Why? |
