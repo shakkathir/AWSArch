@@ -75,7 +75,7 @@ Mrs. Doughtfire | English ||
 [Kalyana_Samayal_Saadham](https://en.wikipedia.org/wiki/Kalyana_Samayal_Saadham) | Tamil | [Shubh_Mangal_Saavdhan](https://en.wikipedia.org/wiki/Shubh_Mangal_Saavdhan) | Hindi
 
 ### Movies Watched by Date
-Watch Date | Movie | Release Year | Lang | Channel | Type of Movie | Style |
+Watch Date | Movie | Release Year | Lang | Channel | Genere | Why? |
 ---------------- | -------------| -------------|-----------------|-------------|-----------------------|---------
 Dec 2018 | [Andhadhun](https://en.wikipedia.org/wiki/Andhadhun) | 2018 | Hindi | Amazon Prime | crime,homicide | n/a
 Dec 2018 | [Kahaani](https://en.wikipedia.org/wiki/Kahaani) | 2018 | Hindi | Amazon Prime | crime,homicide | n/a  
@@ -127,7 +127,7 @@ Date | link | Year | Lang | source | theme | style |
 
 ### Movies Watched by Date & Language 
 ### Malaylam
-Watch Date | Movie | Release Year | Lang | Channel | Type of Movie | Style |
+Watch Date | Movie | Release Year | Lang | Channel | Genere | Why? |
 ------------ | -------------| -------------| -------------|-------------|-------------|---------
 Mar 2020 | [Driving_Licence](https://en.wikipedia.org/wiki/Driving_Licence_(film)) | 2019 | Malayalam | Einthusan | Personal Ego Clash | n/a 
 Mar 2020 | [Ayyappanum_Koshiyum](https://en.wikipedia.org/wiki/Ayyappanum_Koshiyum) | 2020 | Malayalam | Einthusan | Personal Ego Clash | n/a 
@@ -161,7 +161,7 @@ Date | link | Year | Lang | source | theme | style |
 
 
 ### Tamil 
-Watch Date | Movie | Release Year | Lang | Channel | Type of Movie | Style |
+Watch Date | Movie | Release Year | Lang | Channel | Genere | Why? |
 ------------ | -------------| -------------| -------------|-------------|-------------|---------
 Dec 2020 | [Aviyal](https://en.wikipedia.org/wiki/Aviyal_(film) ) | 2016 | Tamil | Einthusan.ca |  | n/a |
 12/20/2020 |  [Kadhalum_Kadandhu_Pogum](https://en.wikipedia.org/wiki/Kadhalum_Kadandhu_Pogum ( tamil )) || Tamil | || 
@@ -171,21 +171,21 @@ Dec 2020 | [Aviyal](https://en.wikipedia.org/wiki/Aviyal_(film) ) | 2016 | Tamil
 12/26/2020 | [Manithan_(2016_film)](https://en.wikipedia.org/wiki/Manithan_(2016_film)) | |tamil | remake of Jolly_LLB | einthusan.ca|
 12/27/2020 |[Angadi_Theru](https://en.wikipedia.org/wiki/Angadi_Theru) | | tamil |  | vasantha_balan |
 ### Hindi
-Watch Date | Movie | Release Year | Lang | Channel | Type of Movie | Style |
+Watch Date | Movie | Release Year | Lang | Channel | Genere | Why? |
 ------------ | -------------| -------------| -------------|-------------|-------------|---------
 12/19/2020| [Rakta_Charitra](https://en.wikipedia.org/wiki/Rakta_Charitra) | |hindi |||
-12/21/2020 | [Raat_Akeli_Hai ](https://en.wikipedia.org/wiki/Raat_Akeli_Hai) || hindi | crime, murder mystry, perversion | |
-12/25/2020 | [Ek_Hasina_Thi_(film))](https://einthusan.tv/movie/results/?lang=hindi&query=Ek+Hasina+Thi) | |hindi | crime, murder plot | srinam raghavan 
-12/26/2020 | [Jolly_LLB](https://en.wikipedia.org/wiki/Jolly_LLB) | |hindi | | einthusan.ca|court room drama
-12/26/2020 | [Johnny_Gaddaar](https://en.wikipedia.org/wiki/Johnny_Gaddaar) | |hindi | |  sriram raghavan |crime plot
-12/27/2020 | [Badlapur_(film)](https://en.wikipedia.org/wiki/Badlapur_(film) )  || hindi | ||sriram ragavan
+12/21/2020 | [Raat_Akeli_Hai ](https://en.wikipedia.org/wiki/Raat_Akeli_Hai) || hindi ||crime | murder, perversion
+12/25/2020 | [Ek_Hasina_Thi_(film))](https://einthusan.tv/movie/results/?lang=hindi&query=Ek+Hasina+Thi) ||hindi | crime, murder plot | srinam raghavan 
+12/26/2020 | [Jolly_LLB](https://en.wikipedia.org/wiki/Jolly_LLB) | |hindi|einthusan.ca| |court room drama
+12/26/2020 | [Johnny_Gaddaar](https://en.wikipedia.org/wiki/Johnny_Gaddaar) ||hindi| | crime |sriram ragavan
+12/27/2020 | [Badlapur_(film)](https://en.wikipedia.org/wiki/Badlapur_(film) )  || hindi |crime|sriram ragavan
 
 ### English
-Watch Date | Movie | Release Year | Lang | Channel | Type of Movie | Style |
+Watch Date | Movie | Release Year | Lang | Channel | Genere | Why? |
 ------------ | -------------| -------------| -------------|-------------|-------------|---------
 12/18/2020| [Body_Double](https://en.wikipedia.org/wiki/Body_Double) | | Eng...|||
 ### Other
-Watch Date | Movie | Release Year | Lang | Channel | Type of Movie | Style |
+Watch Date | Movie | Release Year | Lang | Channel | Genere | Why? |
 ------------ | -------------| -------------| -------------|-------------|-------------|---------
 
 
