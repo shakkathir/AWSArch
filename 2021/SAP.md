@@ -6,7 +6,7 @@
 
 ### SAP 2021 | whitepaper | [Load Balancer](https://d1.awsstatic.com/whitepapers/architecture-considerations-for-migrating-load-balancers-to-aws.pdf)
 ## Static IP Addresses   
-    * Alternatively, when using ALBs, the underlying IP addresses of the compute nodes
+* Alternatively, when using ALBs, the underlying IP addresses of the compute nodes
     supporting the ALB are subject to change, for example, in response to scaling events.
     Because an ALB is not supported by a static compute node, or static group of compute
     nodes, it does not support direct integration with Elastic IP addresses. Static IP
