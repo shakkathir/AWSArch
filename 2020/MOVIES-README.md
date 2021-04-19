@@ -1,5 +1,5 @@
-Element #1 | Element #2 | Element #3 | Element #4 | Element #5
-------------|------------|------------|------------|------------|
+Element #1 | Element #2 | Element #3 | Element #4 | Element #5 | Element #6
+------------|------------|------------|------------|------------|------------
 ambition | love  | fear | power & dominance |  miracle |  fun 
 arrogance | lust | ego/self-esteem  | greed | tragedy  |  humor  
 anger | fantasy  | hatred/dislike | trust & betrayal |  loss |
