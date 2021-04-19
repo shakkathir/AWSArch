@@ -1,3 +1,12 @@
+Element #1 | Element #2 | Element #3 | Element #4 | Element #5
+------------|------------|------------|------------|------------|
+ambition | love  | fear | power & dominance |  miracle |  fun 
+arrogance | lust | ego/self-esteem  | greed | tragedy  |  humor  
+anger | fantasy  | hatred/dislike | trust & betrayal |  loss |
+avenge | affection | bias/prejudice | bravery & valor  | trimph
+revenge | devotion | fairness/equality | survival & sacrifice  |
+| loyalty | discrimination/social order |||
+
 ### Afican American Subjects Fiction or Non Fiction
 Movie | Release Year 
 ------------ | -------------
