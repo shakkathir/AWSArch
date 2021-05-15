@@ -28,6 +28,12 @@
 
 ___
 
+(AWS/Arch)
+(    Window Manager)[chrome-extension://aadahadfdmiibmdhfmpbeeebejmjnkef/manager.html#active])
+(    General Architecture )
+(        Decomposing the Monolith with Event Storming | by Andrew Bonham | Capital One Tech | Medium)[https://medium.com/capital-one-tech/event-storming-decomposing-the-monolith-to-kick-start-your-microservice-architecture-acb8695a6e61])
+(        12 Factor Design Methodology and Cloud-Native Applications - Cuelogic Technologies Pvt. Ltd.)[https://www.cuelogic.com/blog/12-factor-design-methodology-and-cloud-native-applications])
+
 (AWS/Arch
 (    Window Manager)[chrome-extension://aadahadfdmiibmdhfmpbeeebejmjnkef/manager.html#active]
 (    General Architecture 
