@@ -166,6 +166,8 @@ Dec 2020 | [Premam](https://en.wikipedia.org/wiki/Premam) | 2015 | Malayalam | e
 3/5/2021 | [Friday_(2012_film)](https://en.wikipedia.org/wiki/Friday_(2012_film)) |YY | Malayalam |[Einthusan](https://einthusan.tv/movie/watch/1353/?lang=malayalam)| drama| hyperlink
 3/6/2021 | [Ee_Adutha_Kaalathu](https://en.wikipedia.org/wiki/Ee_Adutha_Kaalathu) |YY | Malayalam |Einthusan.ca||
 Date | link | Year | Lang | source | theme | style |
+3/6/2021 | [Ee_Adutha_Kaalathu](https://en.wikipedia.org/wiki/Ee_Adutha_Kaalathu) |YY | Malayalam |Einthusan.ca||
+Date | link | Year | Lang | source | theme | style |
 
 
 ### Tamil 
