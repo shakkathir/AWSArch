@@ -21,6 +21,7 @@ Movie | Release Year
 [Green_Book](https://en.wikipedia.org/wiki/Green_Book_(film)) | 
 [Confirmation](https://en.wikipedia.org/wiki/Confirmation_(film)) | 
 [The_Banker (2020)](https://en.wikipedia.org/wiki/The_Banker_(2020_film)) | 
+[The_Banker (2020)](https://en.wikipedia.org/wiki/The_Banker_(2020_film)) | 
 
 ### Television Serials
 Serial |  Channel
