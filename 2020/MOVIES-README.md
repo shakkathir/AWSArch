@@ -166,11 +166,17 @@ Dec 2020 | [Premam](https://en.wikipedia.org/wiki/Premam) | 2015 | Malayalam | e
 12/25/2020 | [Rathinirvedam_einthusan.ca](https://einthusan.tv/movie/results/?lang=malayalam&query=Rathinirvedam) |YY | Malayalam|einthusan.ca| lust,seduction | bharathan | 
 3/5/2021 | [Friday_(2012_film)](https://en.wikipedia.org/wiki/Friday_(2012_film)) |YY | Malayalam |[Einthusan](https://einthusan.tv/movie/watch/1353/?lang=malayalam)| drama| hyperlink
 3/6/2021 | [Ee_Adutha_Kaalathu](https://en.wikipedia.org/wiki/Ee_Adutha_Kaalathu) |YY | Malayalam |Einthusan.ca||
+05/08/2021 | [Joji](https://en.wikipedia.org/wiki/Joji_(film)) | Year | Malayalam | [*Einthusan.ca]() | _ | _ |
+05/02/2021| [The_Priest_(2021_film)](https://en.wikipedia.org/wiki/The_Priest_(2021_film)) | 2021 | Malayalam | [Einthusan.ca](https://einthusan.tv/movie/watch/5OV7/?lang=malayalam) | _ | _ |
+5/08/2021 | [Oppam](https://en.wikipedia.org/wiki/Oppam) | Year | Malayalam | [Einthusan.ca](https://einthusan.tv/movie/watch/5U0M/?lang=malayalam) | _ | _ |
+05/15/2021 | [Nayattu_(2021_film)](https://en.wikipedia.org/wiki/Nayattu_(2021_film)) | 2021 | Malayalam | [Einthusan.ca]() | _ | _ |[*Einthusan.ca]() | _ | _ |
+5/21/2021 | [*Aarkkariyam (2021) Malayalam in HD - Einthusan ]() | 2021 | Malayalam | [Einthusan.ca](https://einthusan.tv/movie/watch/5XhT/?lang=malayalam) | _ | _ |
+6/12/2021 | [Mayanadi](https://en.wikipedia.org/wiki/Mayanadi) | Year | Malayalam | [Einthusan.ca](https://einthusan.tv/movie/watch/5qVL/?lang=malayalam) | _ | _ |
+6/12/2021 | [Varathan](https://en.wikipedia.org/wiki/Varathan) | Year | Malayalam | [Einthusan.ca](https://einthusan.tv/movie/watch/71Oy/?lang=malayalam) | _ | _ |
+6/20/2021 | [Vedivazhipadu](https://en.wikipedia.org/wiki/Vedivazhipadu) | Year | Malayalam | Einthusan.ca | _ | _ |
+6/20/2021 | [Hotel California]() | Year | Malayalam | [Einthusan.ca](https://einthusan.tv/movie/watch/1933/?lang=malayalam) | _ | _ |
+Date | []() | Year | Malayalam | [Einthusan.ca]() | _ | _ |
 Date | link | Year | Lang | source | theme | style |
-3/6/2021 | [Ee_Adutha_Kaalathu](https://en.wikipedia.org/wiki/Ee_Adutha_Kaalathu) |YY | Malayalam |Einthusan.ca||
-6/1/2021 | https://en.wikipedia.org/wiki/Jagame_Thandhiram#cite_note-7 |2020| Tamil | Netfllix ||
-Date | link | Year | Lang | source | theme | style |
-
 
 ### Tamil 
 Watch Date | Movie | Release Year | Lang | Channel | Genere | Why? |
@@ -181,6 +187,13 @@ Dec 2020 | [Aviyal](https://en.wikipedia.org/wiki/Aviyal_(film) ) | 2016 | Tamil
 12/21/2020 | [Paava_Kadhaigal](https://en.wikipedia.org/wiki/Paava_Kadhaigal) |YY| tamil | netflix | drama | 4 honor kill stories 
 12/26/2020 | [Manithan_(2016_film)](https://en.wikipedia.org/wiki/Manithan_(2016_film)) | YY |tamil | einthusan.ca| courtroom |remake of Jolly LLB
 12/27/2020 |[Angadi_Theru](https://en.wikipedia.org/wiki/Angadi_Theru) | YY| tamil | einthusan.ca  | drama | nativity, vasantha_balan |
+5/22/2021 | [Neram](https://en.wikipedia.org/wiki/Neram) | Year | Malayalam | [Einthusan.ca](https://einthusan.tv/movie/watch/1678/?lang=tamil) | _ | _ |
+5/28/2021 | [Sundarapandian](https://en.wikipedia.org/wiki/Sundarapandian) | Year | Tamil | [Einthusan.ca](https://einthusan.tv/movie/watch/1273/?lang=tamil) | _ | _ |
+6/08/2021 | [*Karnan (2021) Tamil in HD - Einthusan ](https://einthusan.tv/movie/watch/6c7h/?lang=tamil) | Year | Tamil | [Einthusan.ca]() | _ | _ |
+6/12/2021 | [Thirumanam Ennum Nikkah (2014)](https://en.wikipedia.org/wiki/Thirumanam_Enum_Nikkah) | Year | Tamil | [Einthusan.ca](https://einthusan.tv/movie/watch/2548/?lang=tamil) | _ | _ |
+6/18/2021 | [Jagame_Thandhiram](https://en.wikipedia.org/wiki/Jagame_Thandhiram#cite_note-7) |2020| Tamil | Netfllix | _ | _ |
+Date | []() | Year | Tamil | [Einthusan.ca]() | _ | _ |
+
 ### Hindi
 Watch Date | Movie | Release Year | Lang | Channel | Genere | Why? |
 ------------ | -------------| -------------| -------------|-------------|-------------|---------
