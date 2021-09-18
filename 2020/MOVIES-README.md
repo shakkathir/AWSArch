@@ -176,7 +176,13 @@ Dec 2020 | [Premam](https://en.wikipedia.org/wiki/Premam) | 2015 | Malayalam | e
 6/12/2021 | [Varathan](https://en.wikipedia.org/wiki/Varathan) | Year | Malayalam | [Einthusan.ca](https://einthusan.tv/movie/watch/71Oy/?lang=malayalam) | _ | Aishwarya Lekshmi  |
 6/19/2021 | [Traffic_(2011_film)](https://en.wikipedia.org/wiki/Traffic_(2011_film)) | 2011 | Malayalam | [Einthusan.ca](https://einthusan.tv/movie/watch/5zVS/?lang=malayalam) | _ | _ |
 6/20/2021 | [Vedivazhipadu](https://en.wikipedia.org/wiki/Vedivazhipadu) | Year | Malayalam | Einthusan.ca | _ | _ |
+6/19/2021 | [Traffic_(2011_film)](https://en.wikipedia.org/wiki/Traffic_(2011_film)) | Year | Tamil | [Einthusan.ca]() | _ | _ |
 6/20/2021 | [Hotel California]() | Year | Malayalam | [Einthusan.ca](https://einthusan.tv/movie/watch/1933/?lang=malayalam) | _ | _ |
+6/25/2021 | [Vedivazhipadu](https://en.wikipedia.org/wiki/Vedivazhipadu)|Yr|Lang|source|_|_|
+6/25/2021 | [Paleri_Manikyam](https://en.wikipedia.org/wiki/Paleri_Manikyam:_Oru_Pathirakolapathakathinte_Katha_(film))|Yr|Lang|source|_|_|
+6/26/2021 | [God_for_Sale](https://en.wikipedia.org/wiki/God_for_Sale)| Yr|Lang|source|_|_|
+
+Date | []() | Year | Malayalam | [Einthusan.ca]() | _ | _ |
 Date | []() | Year | Malayalam | [Einthusan.ca]() | _ | _ |
 Date | link | Year | Lang | source | theme | style |
 
@@ -196,11 +202,6 @@ Dec 2020 | [Aviyal](https://en.wikipedia.org/wiki/Aviyal_(film) ) | 2016 | Tamil
 6/08/2021 | [*Karnan (2021) Tamil in HD - Einthusan ](https://einthusan.tv/movie/watch/6c7h/?lang=tamil) | Year | Tamil | [Einthusan.ca]() | _ | _ |
 6/12/2021 | [Thirumanam Ennum Nikkah (2014)](https://en.wikipedia.org/wiki/Thirumanam_Enum_Nikkah) | Year | Tamil | [Einthusan.ca](https://einthusan.tv/movie/watch/2548/?lang=tamil) | _ | _ |
 6/18/2021 | [Jagame_Thandhiram](https://en.wikipedia.org/wiki/Jagame_Thandhiram#cite_note-7) |2020| Tamil | Netfllix | _ | Aishwarya Lekshmi |
-6/19/2021 | [Traffic_(2011_film)](https://en.wikipedia.org/wiki/Traffic_(2011_film)) | Year | Tamil | [Einthusan.ca]() | _ | _ |
-6/19/2021 | [Hotel_California_(2013_film)](https://en.wikipedia.org/wiki/Hotel_California_(2013_film)) |Yr|Lang|source|_|_|
-6/25/2021 | [Vedivazhipadu](https://en.wikipedia.org/wiki/Vedivazhipadu)|Yr|Lang|source|_|_|
-6/25/2021 | [Paleri_Manikyam](https://en.wikipedia.org/wiki/Paleri_Manikyam:_Oru_Pathirakolapathakathinte_Katha_(film))|Yr|Lang|source|_|_|
-6/26/2021 | [God_for_Sale](https://en.wikipedia.org/wiki/God_for_Sale)| Yr|Lang|source|_|_|
 
 ### Hindi
 Watch Date | Movie | Release Year | Lang | Channel | Genere | Why? |
