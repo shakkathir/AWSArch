@@ -16,7 +16,7 @@
     16 or multiple AWS regions
 
 ### Storage | Neal | Storage Section - Q3  2021-09-18 13:04:28
-The volume should be configured with 1-TB as gp2 volumes provide *3 IOPS per GB, 3000 IOPS / TB* which will allow the full 3,000 IOPS to be achieved.
-This HDD volume type supports a maximum of 500 IOPS per volume.
-[https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html]
+The volume should be configured with 1-TB as gp2 volumes provide *3 IOPS per GB, 3000 IOPS / TB* which will allow the full 3,000 IOPS to be achieved.  
+This HDD volume type supports a maximum of 500 IOPS per volume.  
+[https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html]  
 EFS will be much more expensive than using a gp2 volume
