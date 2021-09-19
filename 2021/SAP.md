@@ -33,7 +33,7 @@ ___
 [put-object — AWS CLI 1.20.44 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/s3api/put-object.html)
 
 *\--acl* *(string)*
-<ul>
+
 > *The canned ACL to apply to the object. For more information, see* [*Canned ACL*](https://docs.aws.amazon.com/AmazonS3/latest/dev/acl-overview.html#CannedACL) *.*
 >
 > *This action is not supported by Amazon S3 on Outposts.*
@@ -49,7 +49,7 @@ ___
 > *   *bucket-owner-read*
 > *   *bucket-owner-full-control*
 
-</ul>
+
 [stackoverflow](https://stackoverflow.com/posts/64304415/timeline)
 
 &nbsp;&nbsp;&nbsp;&nbsp;Show activity on this post.
