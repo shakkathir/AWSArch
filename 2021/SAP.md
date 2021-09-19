@@ -25,10 +25,9 @@
 ___
 > #s3 #s3-acls #s3-public-access  
 > Neal Storage Section Q4 2021-09-18 15:10:56  
-* [stackoverflow example for full understanding](https://stackoverflow.com/questions/64303953/what-does-these-settings-mean-for-block-public-access-settings-in-s3#:~:text=for%20example%2C%20aws%20s3%20api%20has%20a%20call%20such%20as%20put-object%20have%20option%20--acl.%20with%20this%20you%20can%20not%20only%20upload%20object%2C%20but%20also%20make%20it%20publicly)
 
+### [stackoverflow example for full understanding](https://stackoverflow.com/questions/64303953/what-does-these-settings-mean-for-block-public-access-settings-in-s3#:~:text=for%20example%2C%20aws%20s3%20api%20has%20a%20call%20such%20as%20put-object%20have%20option%20--acl.%20with%20this%20you%20can%20not%20only%20upload%20object%2C%20but%20also%20make%20it%20publicly)
 
-[stackoverflow](https://stackoverflow.com/posts/64304415/timeline)
 
 I can see this can be confusing, however the below should help to illustrate the usage of these.
 
@@ -38,7 +37,7 @@ I can see this can be confusing, however the below should help to illustrate the
 *   `RestrictPublicBuckets` - This will prevent non AWS services or authorized users (such as an IAM user or role) from being able to publicly access objects in the bucket.
 
 <ul>
-My text
+
 
 > How does BlockPublicAcls and IgnorePublicAcls work differently?
 
@@ -88,14 +87,16 @@ Now, if you enable:
 *   `BlockPublicPolicy` the above **API will fail**, because the policy allows for public API.
 
 *   `RestrictPublicBuckets` the above **API will succeed**, and the bucket policy will be applied. However, the policy will be **ignored**, and objects will be private. Disabling `RestrictPublicBuckets` will make the policy to work, and the objects will be publicly available.
+</ul>
 
->
-++ [4 settings to block public access](https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-control-block-public-access.html#:~:text=settings-,s3%20block%20public%20access%20provides%20four%20settings,-.)
+### [4 settings to block public access](https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-control-block-public-access.html#:~:text=settings-,s3%20block%20public%20access%20provides%20four%20settings,-.)
 
-++ [S3 predefined groups](https://docs.aws.amazon.com/AmazonS3/latest/userguide/acl-overview.html#:~:text=amazon%20s3%20predefined%20groups)
-++ [canned acl](https://docs.aws.amazon.com/AmazonS3/latest/userguide/acl-overview.html#:~:text=amazon%20s3%20supports%20a%20set%20of%20predefined%20grants%2C)
+### [S3 predefined groups](https://docs.aws.amazon.com/AmazonS3/latest/userguide/acl-overview.html#:~:text=amazon%20s3%20predefined%20groups)  
 
-[put-object — AWS CLI 1.20.44 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/s3api/put-object.html)
+### [canned acl](https://docs.aws.amazon.com/AmazonS3/latest/userguide/acl-overview.html#:~:text=amazon%20s3%20supports%20a%20set%20of%20predefined%20grants%2C)
+
+* [put-object — AWS CLI 1.20.44 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/s3api/put-object.html)
+<ul>
 
 *\--acl* *(string)*
 
@@ -108,10 +109,12 @@ Now, if you enable:
 >
 > *   *private*
 > *   *public-read*
-> *   *public-read-write*
+> *   *public-read-write*JJ
 > *   *authenticated-read*
 > *   *aws-exec-read*
 > *   *bucket-owner-read*
 > *   *bucket-owner-full-control*
-
- </ul>
+</ul>
+ 
+ 
+ ____
