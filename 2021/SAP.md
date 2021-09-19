@@ -38,7 +38,7 @@ ___
 >
 > *This action is not supported by Amazon S3 on Outposts.*
 >
-<ul>
+
 > *Possible values:*
 >
 > *   *private*
@@ -48,7 +48,7 @@ ___
 > *   *aws-exec-read*
 > *   *bucket-owner-read*
 > *   *bucket-owner-full-control*
-</ul>
+
 </ul>
 [stackoverflow](https://stackoverflow.com/posts/64304415/timeline)
 
