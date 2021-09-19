@@ -51,7 +51,7 @@ ___
 
 &nbsp;&nbsp;&nbsp;&nbsp;Show activity on this post.
 
-<div style="padding-left: 30px;">
+<ul>
 My text
 
 > How does BlockPublicAcls and IgnorePublicAcls work differently?
@@ -73,4 +73,4 @@ Now, if you enable:
 *   `IgnorePublicAcls`: **API call succeeds**. The file is uploaded, but option `*--acl public-read*`is **ignored** and the file is private.
 
 > *How does BlockPublicPolicy and RestrictPublicBuckets work differently?*
-</div>
+ </ul>
