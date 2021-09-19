@@ -51,6 +51,9 @@ ___
 
 &nbsp;&nbsp;&nbsp;&nbsp;Show activity on this post.
 
+<div style="padding-left: 30px;">
+My text
+
 > How does BlockPublicAcls and IgnorePublicAcls work differently?
 
 *For example, AWS S3 api has a call such as* [*put-object*](https://docs.aws.amazon.com/cli/latest/reference/s3api/put-object.html) *have option* `*--acl*`*. With this you can not only upload object, but also make it publicly available.*
@@ -70,3 +73,4 @@ Now, if you enable:
 *   `IgnorePublicAcls`: **API call succeeds**. The file is uploaded, but option `*--acl public-read*`is **ignored** and the file is private.
 
 > *How does BlockPublicPolicy and RestrictPublicBuckets work differently?*
+</div>
