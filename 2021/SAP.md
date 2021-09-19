@@ -80,5 +80,34 @@ Now, if you enable:
 *   `BlockPublicAcls`: the above **API will fail**. Any API which allows `*--acl public-read*`will be rejected. So `test.file` won't be uploaded.
 *   `IgnorePublicAcls`: **API call succeeds**. The file is uploaded, but option `*--acl public-read*`is **ignored** and the file is private.
 
-> *How does BlockPublicPolicy and RestrictPublicBuckets work differently?*
+> How does BlockPublicPolicy and RestrictPublicBuckets work differently?
+
+Similarly, you can use [put-bucket-policy](https://docs.aws.amazon.com/cli/latest/reference/s3api/put-bucket-policy.html) to apply public bucket policies, e.g.:
+
+```
+{
+   "Statement": [
+      {
+         "Effect": "Allow",
+         "Principal": "*",
+         "Action": "s3:GetObject",
+         "Resource": "arn:aws:s3:::MyBucket/*"
+      }
+   ]
+}
+
+```
+
+with
+
+```
+aws s3api put-bucket-policy --bucket MyBucket --policy file://policy.json
+
+```
+
+Now, if you enable:
+
+*   `BlockPublicPolicy` the above **API will fail**, because the policy allows for public API.
+
+*   `RestrictPublicBuckets` the above **API will succeed**, and the bucket policy will be applied. However, the policy will be **ignored**, and objects will be private. Disabling `RestrictPublicBuckets` will make the policy to work, and the objects will be publicly available.
  </ul>
