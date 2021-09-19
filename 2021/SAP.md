@@ -31,12 +31,14 @@ ___
 * [canned acl](https://docs.aws.amazon.com/AmazonS3/latest/userguide/acl-overview.html#:~:text=amazon%20s3%20supports%20a%20set%20of%20predefined%20grants%2C)
 
 [put-object — AWS CLI 1.20.44 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/s3api/put-object.html)
+<ul>
 *\--acl* *(string)*
 
 > *The canned ACL to apply to the object. For more information, see* [*Canned ACL*](https://docs.aws.amazon.com/AmazonS3/latest/dev/acl-overview.html#CannedACL) *.*
 >
 > *This action is not supported by Amazon S3 on Outposts.*
 >
+<ul>
 > *Possible values:*
 >
 > *   *private*
@@ -46,7 +48,8 @@ ___
 > *   *aws-exec-read*
 > *   *bucket-owner-read*
 > *   *bucket-owner-full-control*
-
+</ul>
+</ul>
 [stackoverflow](https://stackoverflow.com/posts/64304415/timeline)
 
 &nbsp;&nbsp;&nbsp;&nbsp;Show activity on this post.
