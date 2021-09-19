@@ -49,24 +49,24 @@ ___
 
 [stackoverflow](https://stackoverflow.com/posts/64304415/timeline)
 
-Show activity on this post.
+    Show activity on this post.
 
-> How does BlockPublicAcls and IgnorePublicAcls work differently?
+    > How does BlockPublicAcls and IgnorePublicAcls work differently?
 
-*For example, AWS S3 api has a call such as* [*put-object*](https://docs.aws.amazon.com/cli/latest/reference/s3api/put-object.html) *have option* `*--acl*`*. With this you can not only upload object, but also make it publicly available.*
+    *For example, AWS S3 api has a call such as* [*put-object*](https://docs.aws.amazon.com/cli/latest/reference/s3api/put-object.html) *have option* `*--acl*`*. With this you can not only upload object, but also make it publicly available.*
 
-When `Block Public Access` is off, call
+    When `Block Public Access` is off, call
 
-```
-aws s3api put-object --bucket some-bucket --acl public-read --key test.file
+    ```
+    aws s3api put-object --bucket some-bucket --acl public-read --key test.file
 
-```
+    ```
 
-successes, and `test.file` will be not only uploaded, but also publicly available.
+    successes, and `test.file` will be not only uploaded, but also publicly available.
 
-Now, if you enable:
+    Now, if you enable:
 
-*   `BlockPublicAcls`: the above **API will fail**. Any API which allows `*--acl public-read*`will be rejected. So `test.file` won't be uploaded.
-*   `IgnorePublicAcls`: **API call succeeds**. The file is uploaded, but option `*--acl public-read*`is **ignored** and the file is private.
+    *   `BlockPublicAcls`: the above **API will fail**. Any API which allows `*--acl public-read*`will be rejected. So `test.file` won't be uploaded.
+    *   `IgnorePublicAcls`: **API call succeeds**. The file is uploaded, but option `*--acl public-read*`is **ignored** and the file is private.
 
-> *How does BlockPublicPolicy and RestrictPublicBuckets work differently?*
+    > *How does BlockPublicPolicy and RestrictPublicBuckets work differently?*
