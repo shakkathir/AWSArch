@@ -52,7 +52,12 @@ ___
 
 [stackoverflow](https://stackoverflow.com/posts/64304415/timeline)
 
-&nbsp;&nbsp;&nbsp;&nbsp;Show activity on this post.
+I can see this can be confusing, however the below should help to illustrate the usage of these.
+
+*   `BlockPublicAcls` - This prevents any **new** ACLs to be created or **existing** ACLs being modified which enable public access to the object. With this alone existing ACLs will not be affected.
+*   `IgnorePublicAcls` - Any ACLs actions that exist with public access will be ignored, this does not prevent them being created but prevents their effects.
+*   `BlockPublicPolicy` - This prevents a bucket policy containing public actions from being created or modified on an S3 bucket, the bucket itself will still allow the existing policy.
+*   `RestrictPublicBuckets` - This will prevent non AWS services or authorized users (such as an IAM user or role) from being able to publicly access objects in the bucket.
 
 <ul>
 My text
