@@ -15,7 +15,13 @@ __Kinesis Data Stream__
 __Dynamo DB__
    1. DynamoDB continuous backups can be enabled. This provides per-second granularity and restore to any single second from the time PITR was enabled up to the prior 35 days. This protects against data corruption
 
+__EBS__  
+1. You cannot create snapshots of an instance in one Region directly into another Region as the wording suggests. You must create the snapshot in the same Region and then copy it across Regions
 
+__EFS__
+1. There’s no such thing as EFS cross-Region replication so the shared files cannot be synchronized that way.
+2. [AWS DataSync](https://aws.amazon.com/datasync/) makes it easy for customers to replicate data from one Amazon EFS file system to another without traversing a public network. [AWS Blog link](https://aws.amazon.com/blogs/storage/transferring-file-data-across-aws-regions-and-accounts-using-aws-datasync/)
+____
 ## IAM - 1 ( Non Federated)
 ## IAM - 2 ( Federated)
 ## Compute
