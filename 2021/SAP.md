@@ -1,6 +1,21 @@
 ### SAP - 2021 
+<span style="color:blue; font-family:Georgia; text-align:center; font-size:2em;">White Papers</span>
+1. [Load Balancer](https://d1.awsstatic.com/whitepapers/architecture-considerations-for-migrating-load-balancers-to-aws.pdf)
 
-### SAP 2021 | whitepaper | [Load Balancer](https://d1.awsstatic.com/whitepapers/architecture-considerations-for-migrating-load-balancers-to-aws.pdf)
+## Key Limitations of AWS Services or Features to remember
+<span style="color:blue; font-family:Georgia; text-align:center; font-size:2em;">Key Limitations of AWS Services or Features to remember</span>
+
+__S3__
+  1. The maximum object size in S3 is 5TB  
+  2. For Amazon S3 you can enable cross-Region replication which requires versioning is enabled. This provides synchronization of changes and also versioning history in case of data corruption. 
+
+__Kinesis Data Stream__  
+  1. You cannot store records in a Kinesis data stream for 90 days, the maximum is 7 days  
+
+__Dynamo DB__
+   1. DynamoDB continuous backups can be enabled. This provides per-second granularity and restore to any single second from the time PITR was enabled up to the prior 35 days. This protects against data corruption
+
+
 ## IAM - 1 ( Non Federated)
 ## IAM - 2 ( Federated)
 ## Compute
@@ -47,7 +62,6 @@ When `Block Public Access` is off, call
 
 ```
 aws s3api put-object --bucket some-bucket --acl public-read --key test.file
-
 ```
 
 successes, and `test.file` will be not only uploaded, but also publicly available.
@@ -78,8 +92,7 @@ Similarly, you can use [put-bucket-policy](https://docs.aws.amazon.com/cli/lates
 with
 
 ```
-aws s3api put-bucket-policy --bucket MyBucket --policy file://policy.json
-
+aws s3api put-bucket-policy --bucket MyBucket --policy file://policy.json 
 ```
 
 Now, if you enable:
@@ -118,3 +131,5 @@ Now, if you enable:
  
  
  ____
+
+
