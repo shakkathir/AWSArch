@@ -3,7 +3,7 @@
 1. [Load Balancer](https://d1.awsstatic.com/whitepapers/architecture-considerations-for-migrating-load-balancers-to-aws.pdf)
 
 ## Key Limitations of AWS Services or Features to remember
-<span style="color:blue; font-family:Georgia; text-align:center; font-size:2em;">Key Limitations of AWS Services or Features to remember</span>
+
 
 __S3__
   1. The maximum object size in S3 is 5TB  
