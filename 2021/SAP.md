@@ -139,10 +139,25 @@ Now, if you enable:
  ____
 
 ## Database 
+_ref_ : <a href="https://aws.amazon.com/blogs/database/aws-database-migration-service-and-aws-schema-conversion-tool-now-support-ibm-db2-as-a-source/">AWS Database Migration Service and AWS Schema Conversion Tool now support IBM Db2 LUW as a source | AWS Database Blog</a>
+
 Services like the [AWS Database Migration Service (AWS DMS)](https://aws.amazon.com/dms/) and the [AWS Schema Conversion Tool (AWS SCT)](https://docs.aws.amazon.com/SchemaConversionTool/latest/userguide/CHAP_SchemaConversionTool.GettingStarted.html) help with migrating commercial to open-source databases in AWS with minimal downtime
 
 Migrations from commercial to open-source databases typically take multiple steps, but we discuss two important parts following:
 
 *   Using AWS SCT to convert objects (tables, indexes, constraints, functions, and so on) from the source commercial engine to the open-source engine.
 *   Using AWS DMS to move data into the appropriate converted objects and keep the target database in complete sync with the source. Doing this takes care of the production workload while the migration is ongoing.  
-_ref_ : <a href="https://aws.amazon.com/blogs/database/aws-database-migration-service-and-aws-schema-conversion-tool-now-support-ibm-db2-as-a-source/">AWS Database Migration Service and AWS Schema Conversion Tool now support IBM Db2 LUW as a source | AWS Database Blog</a>
+
+___
+## Migration  
+ _ref_: [Neal Davis](https://digitalcloud.training/certification-training/aws-certified-solutions-architect-professional/aws-migration-transfer/#:~:text=aws%20migration%20hub%20provides%20a%20single%20location%20to%20track%20the%20progress)
+* SMS
+* DMS + SCT
+* App Discovery
+* Migration Hub   
+
+__Data Migration Tools__  
+  * Snow Ball, Snow Cone, Snow Mobile
+  * Data Sync
+  * Data Transfer Family (sFTP, FTPS)  
+
