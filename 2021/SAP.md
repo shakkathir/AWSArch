@@ -34,6 +34,14 @@ ____
     nodes, it does not support direct integration with Elastic IP addresses. Static IP
     addresses can still be provided to consumers of ALB-based applications via AWS
     Global Accelerator, a service that provides fixed entry points to your application* 
+> #nlb
+* There is no security group associated with an NLB
+> #waf
+* WAF cannot be configured to directly trigger a Lambda function
+> #endpoints
+* VPC Gateway Endpoint
+* VPC Interface Endpoint
+* VPC Service Endpoint
 
 ## Storage 
 > #ebs  
