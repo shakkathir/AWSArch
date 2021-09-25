@@ -181,7 +181,6 @@ Dec 2020 | [Premam](https://en.wikipedia.org/wiki/Premam) | 2015 | Malayalam | e
 6/25/2021 | [Vedivazhipadu](https://en.wikipedia.org/wiki/Vedivazhipadu)|Yr|Lang|source|_|_|
 6/25/2021 | [Paleri_Manikyam](https://en.wikipedia.org/wiki/Paleri_Manikyam:_Oru_Pathirakolapathakathinte_Katha_(film))|Yr|Lang|source|_|_|
 6/26/2021 | [God_for_Sale](https://en.wikipedia.org/wiki/God_for_Sale)| Yr|Lang|source|_|_|
-
 Date | []() | Year | Malayalam | [Einthusan.ca]() | _ | _ |
 Date | []() | Year | Malayalam | [Einthusan.ca]() | _ | _ |
 Date | link | Year | Lang | source | theme | style |

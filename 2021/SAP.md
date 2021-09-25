@@ -2,26 +2,8 @@
 <span style="color:blue; font-family:Georgia; text-align:center; font-size:2em;">White Papers</span>
 1. [Load Balancer](https://d1.awsstatic.com/whitepapers/architecture-considerations-for-migrating-load-balancers-to-aws.pdf)
 
-## Key Limitations of AWS Services or Features to remember
 
 
-__S3__
-  1. The maximum object size in S3 is 5TB  
-  2. For Amazon S3 you can enable cross-Region replication which requires versioning is enabled. This provides synchronization of changes and also versioning history in case of data corruption. 
-
-__Kinesis Data Stream__  
-  1. You cannot store records in a Kinesis data stream for 90 days, the maximum is 7 days  
-
-__Dynamo DB__
-   1. DynamoDB continuous backups can be enabled. This provides per-second granularity and restore to any single second from the time PITR was enabled up to the prior 35 days. This protects against data corruption
-
-__EBS__  
-1. You cannot create snapshots of an instance in one Region directly into another Region as the wording suggests. You must create the snapshot in the same Region and then copy it across Regions
-
-__EFS__
-1. There’s no such thing as EFS cross-Region replication so the shared files cannot be synchronized that way.
-2. [AWS DataSync](https://aws.amazon.com/datasync/) makes it easy for customers to replicate data from one Amazon EFS file system to another without traversing a public network. [AWS Blog link](https://aws.amazon.com/blogs/storage/transferring-file-data-across-aws-regions-and-accounts-using-aws-datasync/)
-____
 ## IAM - 1 ( Non Federated)
 ## IAM - 2 ( Federated)
 ## Compute
@@ -36,20 +18,29 @@ ____
     Global Accelerator, a service that provides fixed entry points to your application* 
 > #nlb
 * There is no security group associated with an NLB
+* Note that NLBs do not have security groups configured and pass connections straight to EC2 instances with the source IP of the client preserved (when registered by instance-id).
+* With NLBs, when you register EC2 instances as targets, you must ensure that the security groups for these instances allow traffic on both the listener port and the health check port
 > #waf
 * WAF cannot be configured to directly trigger a Lambda function
-> #endpoints
+> #endpoints  
+
+There are 
 * VPC Gateway Endpoint
 * VPC Interface Endpoint
 * VPC Service Endpoint
 
+> accelerator
+
+There are
+ * S3 Transfer accelerator
+ * Global accelerator
 ## Storage 
 > #ebs  
 > Neal  Storage Section - Q3  2021-09-18 13:04:28  
 * The volume should be configured with 1-TB as gp2 volumes provide *3 IOPS per GB, 3000 IOPS / TB* which will allow the full 3,000 IOPS to be achieved.  
 * This HDD volume type supports a maximum of 500 IOPS per volume.  
 
->[aws link](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html)Between a minimum of 100 IOPS (at 33.33 GiB and below) and a maximum of 16,000 IOPS (at 5,334 GiB and above), baseline performance scales linearly at 3 IOPS per GiB of volume size. AWS designs gp2 volumes to deliver their provisioned performance 99% of the time. A gp2 volume can range in size from 1 GiB to 16 TiB.  
+> #ebs Between a minimum of 100 IOPS (at 33.33 GiB and below) and a maximum of 16,000 IOPS (at 5,334 GiB and above), baseline performance scales linearly at 3 IOPS per GiB of volume size. AWS designs gp2 volumes to deliver their provisioned performance 99% of the time. A gp2 volume can range in size from 1 GiB to 16 TiB.  [aws link](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html)
 * EFS will be much more expensive than using a gp2 volume
 ___
 > #s3 #s3-acls #s3-public-access  
@@ -144,7 +135,25 @@ Now, if you enable:
 </ul>
  
  
- ____
+> #s3
+  1. The maximum object size in S3 is 5TB  
+  2. For Amazon S3 you can enable cross-Region replication which requires versioning is enabled. This provides synchronization of changes and also versioning history in case of data corruption. 
+
+> #kds
+  1. You cannot store records in a Kinesis data stream for 90 days, the maximum is 7 days  
+
+> #dynamodb
+   1. DynamoDB continuous backups can be enabled. This provides per-second granularity and restore to any single second from the time PITR was enabled up to the prior 35 days. This protects against data corruption  
+   2. Adaptive capacity is enabled automatically for every DynamoDB table, at no additional cost. You don’t need to explicitly enable or disable it.
+
+> #ebs
+1. You cannot create snapshots of an instance in one Region directly into another Region as the wording suggests. You must create the snapshot in the same Region and then copy it across Regions
+
+> #efs
+1. There’s no such thing as EFS cross-Region replication so the shared files cannot be synchronized that way.
+2. [AWS DataSync](https://aws.amazon.com/datasync/) makes it easy for customers to replicate data from one Amazon EFS file system to another without traversing a public network. [AWS Blog link](https://aws.amazon.com/blogs/storage/transferring-file-data-across-aws-regions-and-accounts-using-aws-datasync/)
+____
+
 
 ## Database 
 _ref_ : <a href="https://aws.amazon.com/blogs/database/aws-database-migration-service-and-aws-schema-conversion-tool-now-support-ibm-db2-as-a-source/">AWS Database Migration Service and AWS Schema Conversion Tool now support IBM Db2 LUW as a source | AWS Database Blog</a>
