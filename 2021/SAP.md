@@ -1,8 +1,36 @@
 ### SAP - 2021 
 <span style="color:blue; font-family:Georgia; text-align:center; font-size:2em;">White Papers</span>
 1. [Load Balancer](https://d1.awsstatic.com/whitepapers/architecture-considerations-for-migrating-load-balancers-to-aws.pdf)
+2. Networking
+3. Deployment
+<p>  
+<p>  
+
+> __SAP__ Areas of questioning
+
+Element #1|Element #2|Element #3|Element #4|Element #5
+------------|------------|------------|------------|------------|
+1.IAM: Adv Permissions & Multi A/cs|6.Storage| 11.Deployment:Virtual HW & Lifecycle| 16. Migration - SMS,DMS
+2.IAM: Internal and External( Fed Indentities|7.Database|12.Deployment:Virtual SW & Lifecycle|17.Esimation and Cost Management|#5|
+3.Networking|8.Analytics|13.Deployment:Application & Lifecycle|Disaster Recovery |#5|
+4.Compute #1:EC2+AMI+ASS |9.App Integration SQS, Kinesis|14.App Layers Monitoring|#4|#5|
+5.Compute #2:ECS, Lambda|10.Caching & CloudFront-CDN|15.Security|#4|#5|
+#1|#2|#3|#4|#5|
+___
+  * >__PTSD Environments__ (Prod, Testing, Staging and Dev)
+
+    * >__WACD Layering__ ( Web, App  Data Caching Database)
 
 
+
+Element #1|Element #2|Element #3|Element #4|
+------------|------------|------------|------------|
+Production| Staging | Testing| Development
+Web Layer|#2|#3|#4|
+App Layer|#2|#3|#4|
+DB Cache Layer|#2|#3|#4|
+Database Layer|#2|#3|#4|
+#1|#2|#3|#4|
 
 ## IAM - 1 ( Non Federated)
 ## IAM - 2 ( Federated)
