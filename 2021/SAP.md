@@ -248,3 +248,6 @@ AWS Cost and Usage Report (CUR)__
 * __You can create custom categories__ and map your cost and usage information into these categories based on the rules defined by you using various dimensions such as account, tag, service, charge type, and even other cost categories
 
 # Caching
+
+![AWS Cache Options!](SAP.CACHE.DIAG.001.JPG "AWS Cache Options")
+_ref_: Stephane PDF
