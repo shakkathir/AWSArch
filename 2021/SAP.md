@@ -10,17 +10,30 @@
 
 Element #1|Element #2|Element #3|Element #4|Element #5
 ------------|------------|------------|------------|------------|
-1.IAM: Adv Permissions & Multi A/cs|6.Storage| 11.Deployment:Virtual HW & Lifecycle| 16. Migration - SMS,DMS
-2.IAM: Internal and External( Fed Indentities|7.Database|12.Deployment:Virtual SW & Lifecycle|17.Esimation and Cost Management|#5|
+1.IAM: Internal and External( Fed Identities)|6.Storage| 11.Deployment:Virtual HW & Lifecycle| 16. Migration - SMS,DMS
+2.IAM: Access Limits/Controls -IAM, SCP, BP |7.Database|12.Deployment:Virtual SW & Lifecycle|17.Esimation and Cost Management|#5|
 3.Networking|8.Analytics|13.Deployment:Application & Lifecycle|Disaster Recovery |#5|
-4.Compute #1:EC2+AMI+ASS |9.App Integration SQS, Kinesis|14.App Layers Monitoring|#4|#5|
+4.Compute #1:EC2+AMI+ASS |9.App Integration SQS, Kinesis|14.All 3 Layers Logging & Monitoring|#4|#5|
 5.Compute #2:ECS, Lambda|10.Caching & CloudFront-CDN|15.Security|#4|#5|
 #1|#2|#3|#4|#5|
 ___
+
+> __WAF__ - Well Architected Framework  
+
+#1|#2
+--|--|
+__HAS__| **H**igh Avail. & **S**caling|
+**HAD**| **H**igh Avail. & **D**urability|
+**LaC**| **L**ow **L**atency and Low **C**ost|
+**RR**| **R**eliability and **R**esiliency
+**OPS** | **O**perations (Efficient and/or less overhead), **P**erformance (high) and **S**ecurity
+
+
+
+
   * >__PTSD Environments__ (Prod, Testing, Staging and Dev)
 
     * >__WACD Layering__ ( Web, App  Data Caching Database)
-
 
 
 Element #1|Element #2|Element #3|Element #4|
@@ -233,3 +246,5 @@ AWS Cost and Usage Report (CUR)__
 * __Cost allocation tags__ to organize your resource costs on your cost allocation report, to make it easier for you to categorize and track your AWS costs
 
 * __You can create custom categories__ and map your cost and usage information into these categories based on the rules defined by you using various dimensions such as account, tag, service, charge type, and even other cost categories
+
+# Caching
