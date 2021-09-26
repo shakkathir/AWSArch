@@ -47,34 +47,10 @@ Database Layer|#2|#3|#4|
 
 ## IAM - 1 ( Non Federated)
 ## IAM - 2 ( Federated)
-## Compute
+## Compute 
+[Compute 2](Compute2_Lambda.md)
 
-## Networking
-> #alb, #global_accelerator
-* Alternatively, when using ALBs, the underlying IP addresses of the compute nodes
-    supporting the ALB are subject to change, for example, in response to scaling events.
-    *Because an ALB is not supported by a static compute node, or static group of compute
-    nodes, it does not support direct integration with Elastic IP addresses. Static IP
-    addresses can still be provided to consumers of ALB-based applications via AWS
-    Global Accelerator, a service that provides fixed entry points to your application* 
-> #nlb
-* There is no security group associated with an NLB
-* Note that NLBs do not have security groups configured and pass connections straight to EC2 instances with the source IP of the client preserved (when registered by instance-id).
-* With NLBs, when you register EC2 instances as targets, you must ensure that the security groups for these instances allow traffic on both the listener port and the health check port
-> #waf
-* WAF cannot be configured to directly trigger a Lambda function
-> #endpoints  
 
-There are 
-* VPC Gateway Endpoint
-* VPC Interface Endpoint
-* VPC Service Endpoint
-
-> accelerator
-
-There are
- * S3 Transfer accelerator
- * Global accelerator
 ## Storage 
 > #ebs  
 > Neal  Storage Section - Q3  2021-09-18 13:04:28  
@@ -207,17 +183,8 @@ Migrations from commercial to open-source databases typically take multiple step
 *   Using AWS DMS to move data into the appropriate converted objects and keep the target database in complete sync with the source. Doing this takes care of the production workload while the migration is ongoing.  
 
 ___
-## Migration  
- _ref_: [Neal Davis](https://digitalcloud.training/certification-training/aws-certified-solutions-architect-professional/aws-migration-transfer/#:~:text=aws%20migration%20hub%20provides%20a%20single%20location%20to%20track%20the%20progress)
-* SMS
-* DMS + SCT
-* App Discovery
-* Migration Hub   
 
-__Data Migration Tools__  
-  * Snow Ball, Snow Cone, Snow Mobile
-  * Data Sync
-  * Data Transfer Family (sFTP, FTPS)  
+[Migration](Migration.md)
 
 ## Costing
 _ref_: [Neal Davis](https://digitalcloud.training/certification-training/aws-certified-solutions-architect-professional/aws-cost-management/#:~:text=Management-,aws%20cost%20management,-AWS)  
