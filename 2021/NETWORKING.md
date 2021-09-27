@@ -28,4 +28,13 @@ There are
  * Global accelerator
 
 > #route53
-* In Route 53 you are limited (by default) to five requests per second per AWS account. If you submit more than five requests per second, Amazon Route 53 returns an HTTP 400 error (Bad request)
+* In Route 53 you are limited (by default) to five requests per second per AWS account. If you submit more than five requests per second, Amazon Route 53 returns an HTTP 400 error (Bad request)  
+
+> #s3 transfer accelator  
+_ref_: SAP.Neal.Practice Exam 2 (exam mode) - Digital Cloud Training (9_27_2021 12_08_07 AM).html Q10
+* Amazon S3 Transfer Acceleration enables fast, easy, and secure **uploads** of files over long distances between a client and an S3 bucket. Transfer Acceleration takes advantage of Amazon CloudFront’s globally distributed edge locations. As the data arrives at an edge location, data is routed to Amazon S3 over an optimized network path   
+* Multipart upload transfers parts of the file in parallel and can speed up performance. This should definitely be built into the application code. Multipart upload also handles the failure of any parts gracefully, allowing for those parts to be retransmitted.
+
+* **Transfer Acceleration in combination with multipart upload will offer significant speed improvements when uploading data**
+
+* **CloudFront can offer performance improvements for downloading data** but to improve **upload transfer times, Transfer Acceleration should be used**
