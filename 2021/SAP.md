@@ -45,13 +45,13 @@ DB Cache Layer|#2|#3|#4|
 Database Layer|#2|#3|#4|
 #1|#2|#3|#4|
 
-## 1. IAM - 1 ( Local and External /Federated/ Identities - Users, Roles)
+## 1. IAM - 1 ( Local and External/Federated Identities - Users, Roles)
 ## 2. IAM - 2 (Access Control aka policy)
 ## 3. Networking 
 
-## 4. Compute 
+## 4. Compute_EC2
 * [Compute 1](Compute1_EC2.md)
-## 5. Compute 
+## 5. Compute_Lambda 
 * [Compute 2](Compute2_Lambda.md)
 
 ## 6. Storage
@@ -60,13 +60,16 @@ Database Layer|#2|#3|#4|
 ## 7. Database
 * [Database](Database.md)
 
-## 8. Application Integration
+## 8. Analytics
+* [Analytics](Analytics.md)
 
-## 9. Caching & CloudFront - CDN
+## 9. Application Integration
+
+## 10. Caching & CloudFront - CDN
 * [Caching](Caching.md)
 
-## Migration
+## 11.Migration
 * [Migration](Migration.md)
 
-## Costing
+## 12.Costing
 * [Costing](Costing.md)
