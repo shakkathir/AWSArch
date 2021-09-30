@@ -4,9 +4,10 @@
 * The volume should be configured with 1-TB as gp2 volumes provide *3 IOPS per GB, 3000 IOPS / TB* which will allow the full 3,000 IOPS to be achieved.  
 * This HDD volume type supports a maximum of 500 IOPS per volume.  
 
-> #ebs Between a minimum of 100 IOPS (at 33.33 GiB and below) and a maximum of 16,000 IOPS (at 5,334 GiB and above), baseline performance scales linearly at 3 IOPS per GiB of volume size. AWS designs gp2 volumes to deliver their provisioned performance 99% of the time. A gp2 volume can range in size from 1 GiB to 16 TiB.  [aws link](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html)
+> #ebs   
+* Between a minimum of 100 IOPS (at 33.33 GiB and below) and a maximum of 16,000 IOPS (at 5,334 GiB and above), baseline performance scales linearly at 3 IOPS per GiB of volume size. AWS designs gp2 volumes to deliver their provisioned performance 99% of the time. A gp2 volume can range in size from 1 GiB to 16 TiB.  [aws link](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html)
 * EFS will be much more expensive than using a gp2 volume
-___
+
 > #s3 #s3-acls #s3-public-access  
 > Neal Storage Section Q4 2021-09-18 15:10:56  
 
@@ -116,4 +117,6 @@ Now, if you enable:
 > #efs
 1. There’s no such thing as EFS cross-Region replication so the shared files cannot be synchronized that way.
 2. [AWS DataSync](https://aws.amazon.com/datasync/) makes it easy for customers to replicate data from one Amazon EFS file system to another without traversing a public network. [AWS Blog link](https://aws.amazon.com/blogs/storage/transferring-file-data-across-aws-regions-and-accounts-using-aws-datasync/)
-____
+> #s3 access points  
+* If you use AWS Organizations, you can add a Service Control Policy (SCP) requiring all S3 access points are restricted to a VPC
+* If you use AWS Organizations, you can add a Service Control Policy (SCP) requiring all S3 access points are restricted to a VPC
