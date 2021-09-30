@@ -75,7 +75,15 @@ Now, if you enable:
 ### [4 settings to block public access](https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-control-block-public-access.html#:~:text=settings-,s3%20block%20public%20access%20provides%20four%20settings,-.)
 
 ### [S3 predefined groups](https://docs.aws.amazon.com/AmazonS3/latest/userguide/acl-overview.html#:~:text=amazon%20s3%20predefined%20groups)  
+*  **Authenticated Users group**   
+    * Represented by `http://acs.amazonaws.com/groups/global/AuthenticatedUsers`.
 
+    * This group represents all AWS accounts. **Access permission to this group allows any AWS account to access the resource.** However, all requests must be signed (authenticated).
+
+    * When you grant access to the Authenticated Users group any AWS authenticated user in the world can access your resource.
+* **All Users group** – Represented by `http://acs.amazonaws.com/groups/global/AllUsers`.
+
+  * **Access permission to this group allows anyone in the world access to the resource.** The requests can be signed (authenticated) or unsigned (anonymous). Unsigned requests omit the Authentication header in the request.
 ### [canned acl](https://docs.aws.amazon.com/AmazonS3/latest/userguide/acl-overview.html#:~:text=amazon%20s3%20supports%20a%20set%20of%20predefined%20grants%2C)
 
 * [put-object — AWS CLI 1.20.44 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/s3api/put-object.html)
