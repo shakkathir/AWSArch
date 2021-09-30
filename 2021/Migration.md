@@ -10,3 +10,10 @@ __Data Migration Tools__
   * Snow Ball, Snow Cone, Snow Mobile
   * Data Sync
   * Data Transfer Family (sFTP, FTPS)  
+
+> #CloudEndure or AWS SMS
+
+_ref_: [AWS Blog](https://aws.amazon.com/blogs/architecture/field-notes-choosing-a-rehost-migration-tool-cloudendure-or-aws-sms/#:~:text=choosing%20a%20rehost%20migration%20tool%20%E2%80%93%20cloudendure%20or%20aws%20sms)
+ * CloudEndure Migration is a block-level replication tool that simplifies the process of migrating applications from physical, virtual, and cloud-based servers to AWS.
+ * SMS Connector (VM)  is an agentless migration service to migrate on-premises virtual machines to AWS using virtual appliance.
+
