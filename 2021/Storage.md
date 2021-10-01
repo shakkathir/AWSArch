@@ -9,26 +9,26 @@
 * EFS will be much more expensive than using a gp2 volume
 
 > #s3 #s3-acls #s3-public-access  
-> Neal Storage Section Q4 2021-09-18 15:10:56  
+> _ref_ : Neal Storage Section Q4 2021-09-18 15:10:56  
+* ### [4 settings to block public access](https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-control-block-public-access.html#:~:text=settings-,s3%20block%20public%20access%20provides%20four%20settings,-.)
+* ### [stackoverflow example for full understanding](https://stackoverflow.com/questions/64303953/what-does-these-settings-mean-for-block-public-access-settings-in-s3#:~:text=for%20example%2C%20aws%20s3%20api%20has%20a%20call%20such%20as%20put-object%20have%20option%20--acl.%20with%20this%20you%20can%20not%20only%20upload%20object%2C%20but%20also%20make%20it%20publicly)
 
-### [stackoverflow example for full understanding](https://stackoverflow.com/questions/64303953/what-does-these-settings-mean-for-block-public-access-settings-in-s3#:~:text=for%20example%2C%20aws%20s3%20api%20has%20a%20call%20such%20as%20put-object%20have%20option%20--acl.%20with%20this%20you%20can%20not%20only%20upload%20object%2C%20but%20also%20make%20it%20publicly)
 
+  * I can see this can be confusing, however the below should help to illustrate the usage of these.
 
-I can see this can be confusing, however the below should help to illustrate the usage of these.
-
-*   `BlockPublicAcls` - This prevents any **new** ACLs to be created or **existing** ACLs being modified which enable public access to the object. With this alone existing ACLs will not be affected.
-*   `IgnorePublicAcls` - Any ACLs actions that exist with public access will be ignored, this does not prevent them being created but prevents their effects.
-*   `BlockPublicPolicy` - This prevents a bucket policy containing public actions from being created or modified on an S3 bucket, the bucket itself will still allow the existing policy.
-*   `RestrictPublicBuckets` - This will prevent non AWS services or authorized users (such as an IAM user or role) from being able to publicly access objects in the bucket.
+      *   `BlockPublicAcls` - This prevents any **new** ACLs to be created or **existing** ACLs being modified which enable public access to the object. With this alone existing ACLs will not be affected.
+      *   `IgnorePublicAcls` - Any ACLs actions that exist with public access will be ignored, this does not prevent them being created but prevents their effects.
+      *   `BlockPublicPolicy` - This prevents a bucket policy containing public actions from being created or modified on an S3 bucket, the bucket itself will still allow the existing policy.
+      *   `RestrictPublicBuckets` - This will prevent non AWS services or authorized users (such as an IAM user or role) from being able to publicly access objects in the bucket.
 
 <ul>
 
 
-> How does BlockPublicAcls and IgnorePublicAcls work differently?
+   * > How does BlockPublicAcls and IgnorePublicAcls work differently?
 
-*For example, AWS S3 api has a call such as* [*put-object*](https://docs.aws.amazon.com/cli/latest/reference/s3api/put-object.html) *have option* `*--acl*`*. With this you can not only upload object, but also make it publicly available.*
+   * *For example, AWS S3 api has a call such as* [*put-object*](https://docs.aws.amazon.com/cli/latest/reference/s3api/put-object.html) *have option* `*--acl*`*. With this you can not only upload object, but also make it publicly available.*
 
-When `Block Public Access` is off, call
+* When `Block Public Access` is off, call
 
 ```
 aws s3api put-object --bucket some-bucket --acl public-read --key test.file
@@ -37,9 +37,8 @@ aws s3api put-object --bucket some-bucket --acl public-read --key test.file
 successes, and `test.file` will be not only uploaded, but also publicly available.
 
 Now, if you enable:
-
 *   `BlockPublicAcls`: the above **API will fail**. Any API which allows `*--acl public-read*`will be rejected. So `test.file` won't be uploaded.
-*   `IgnorePublicAcls`: **API call succeeds**. The file is uploaded, but option `*--acl public-read*`is **ignored** and the file is private.
+*   `IgnorePublicAcls`: **API call succeeds**. The file is uploaded, but option `*--acl public-read*`is **ignored** and the file is private.  
 
 > How does BlockPublicPolicy and RestrictPublicBuckets work differently?
 
@@ -72,18 +71,6 @@ Now, if you enable:
 *   `RestrictPublicBuckets` the above **API will succeed**, and the bucket policy will be applied. However, the policy will be **ignored**, and objects will be private. Disabling `RestrictPublicBuckets` will make the policy to work, and the objects will be publicly available.
 </ul>
 
-### [4 settings to block public access](https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-control-block-public-access.html#:~:text=settings-,s3%20block%20public%20access%20provides%20four%20settings,-.)
-
-### [S3 predefined groups](https://docs.aws.amazon.com/AmazonS3/latest/userguide/acl-overview.html#:~:text=amazon%20s3%20predefined%20groups)  
-*  **Authenticated Users group**   
-    * Represented by `http://acs.amazonaws.com/groups/global/AuthenticatedUsers`.
-
-    * This group represents all AWS accounts. **Access permission to this group allows any AWS account to access the resource.** However, all requests must be signed (authenticated).
-
-    * When you grant access to the Authenticated Users group any AWS authenticated user in the world can access your resource.
-* **All Users group** – Represented by `http://acs.amazonaws.com/groups/global/AllUsers`.
-
-  * **Access permission to this group allows anyone in the world access to the resource.** The requests can be signed (authenticated) or unsigned (anonymous). Unsigned requests omit the Authentication header in the request.
 ### [canned acl](https://docs.aws.amazon.com/AmazonS3/latest/userguide/acl-overview.html#:~:text=amazon%20s3%20supports%20a%20set%20of%20predefined%20grants%2C)
 
 * [put-object — AWS CLI 1.20.44 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/s3api/put-object.html)
@@ -106,7 +93,21 @@ Now, if you enable:
 > *   *bucket-owner-read*
 > *   *bucket-owner-full-control*
 </ul>
- 
+
+
+
+> #s3 #s3-acl
+### [S3 predefined groups](https://docs.aws.amazon.com/AmazonS3/latest/userguide/acl-overview.html#:~:text=amazon%20s3%20predefined%20groups)  
+*  **Authenticated Users group**   
+    * Represented by `http://acs.amazonaws.com/groups/global/AuthenticatedUsers`.
+
+    * This group represents all AWS accounts. **Access permission to this group allows any AWS account to access the resource.** However, all requests must be signed (authenticated).
+
+    * When you grant access to the Authenticated Users group any AWS authenticated user in the world can access your resource.
+* **All Users group** – Represented by `http://acs.amazonaws.com/groups/global/AllUsers`.
+
+  * **Access permission to this group allows anyone in the world access to the resource.** The requests can be signed (authenticated) or unsigned (anonymous). Unsigned requests omit the Authentication header in the request.
+
  
 > #s3
   1. The maximum object size in S3 is 5TB  
