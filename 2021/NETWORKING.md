@@ -39,7 +39,8 @@ _ref_: SAP.Neal.Practice Exam 2 (exam mode) - Digital Cloud Training (9_27_2021 
 
 * **CloudFront can offer performance improvements for downloading data** but to improve **upload transfer times, Transfer Acceleration should be used**
 
-> #acm certificates  
+* [Transfer Acceleration over a fully available 1 Gbps can theoretically move around 10TB/Day.](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-professional/view/55/#:~:text=1%20gbps%20%3D%20(1024%2F8)%20mbps%20%3D%20128%20mbps)
+
 _ref_: [ExamTopics : Q696 : Page 70](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-professional/view/70/#:~:text=https%20between%20viewers%20and%20cloudfront)  
 * **HTTPS between viewers and CloudFront** – You can use a certificate that was issued by a trusted certificate authority (CA) such as Comodo, DigiCert, or Symantec, or you can use a certificate provided by AWS Certificate Manager (ACM). 
 
@@ -47,6 +48,12 @@ _ref_: [ExamTopics : Q696 : Page 70](https://www.examtopics.com/exams/amazon/aws
 
 * **For SSL Between ELB and EC2:** Amazon-issued certificates can’t be installed on an EC2 instance. To enable end-to-end encryption, you must use a third-party SSL certificate. Install the third-party certificate on an EC2 instance. Then, associate the third-party certificate with a load balancer by importing it into AWS Certificate Manager (ACM) (https://aws.amazon.com/premiumsupport/knowledge-center/acm-ssl-certificate-ec2-elb/) The requirement of 3rd party cert between ELB and EC2 makes Option A is invalid.
 
-> #transit gw
+> #transit gw  
 * Transit Gateway doesn’t support routing between Amazon VPCs with overlapping CIDRs
 * Transit Gateway is a regional service
+
+> route#53 #dns
+
+[Active-active and active-passive failover:](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/dns-failover-types.html#:~:text=configure%20active-active%20and%20active-passive%20failover)
+
+   * [Choosing a routing policy:](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html#:~:text=responds%20to%20queries%3A-,simple%20routing%20policy,-%E2%80%93%20Use%20for%20a)
