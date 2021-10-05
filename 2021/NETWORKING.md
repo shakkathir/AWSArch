@@ -92,3 +92,16 @@ _ref_: [ExamTopics : Q696 : Page 70](https://www.examtopics.com/exams/amazon/aws
           * When you enable DNSSEC signing on a hosted zone, Route 53 cryptographically signs each record in that hosted zone.
           * Amazon Route 53 DNSSEC provides data origin authentication and data integrity verification for DNS.
      * When you enable DNSSEC validation on the Route 53 Resolver in your VPC, it ensures that DNS responses have not been tampered with in transit.
+
+> #Application Load Balancer and Private Link
+*  The VPC CIDR ranges can overlap between any VPCs. In comparison VPC peering can’t be established between VPCs with overlapping IP address range
+
+* [ref:](https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-securely-publish-internet-applications-at-scale-using-application-load-balancer-and-aws-privatelink/#:~:text=application%20load%20balancer%20and%20aws%20privatelink)
+Using PrivateLink in this scenario provides a number of benefits:
+
+> #firewall , centralized filtering model 
+* [ref:](https://aws.amazon.com/blogs/networking-and-content-delivery/deploy-centralized-traffic-filtering-using-aws-network-firewall/#:~:text=Deploy-,centralized%20traffic%20filtering,-using%20AWS%20Network)  
+
+> #firewall deployment arch pattern
+* [ref: part 1 blog](https://aws.amazon.com/blogs/networking-and-content-delivery/deployment-models-for-aws-network-firewall/#:~:text=Network%20Firewall%20works.-,how%20aws%20network%20firewall%20works,-To%20apply%20traffic)  
+* [ref: part 2 blog](https://aws.amazon.com/blogs/networking-and-content-delivery/deployment-models-for-aws-network-firewall-with-vpc-routing-enhancements/#:~:text=Networking%20%26%20Content%20Delivery-,deployment%20models%20for%20aws%20network%20firewall,-with%20VPC%20routing)
