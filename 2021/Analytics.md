@@ -12,3 +12,10 @@ _ref_: [ExamTopics Page Q698 Page 70](https://www.examtopics.com/exams/amazon/aw
  * [Auto scaling Amazon Kinesis Data Streams](https://aws.amazon.com/blogs/big-data/auto-scaling-amazon-kinesis-data-streams-using-amazon-cloudwatch-and-aws-lambda/#:~:text=auto%20scaling%20amazon%20kinesis%20data%20streams)
    * [What is Application Auto Scaling](https://docs.aws.amazon.com/autoscaling/application/userguide/what-is-application-auto-scaling.html#:~:text=who%20need%20a%20solution%20for%20automatically%20scaling%20their%20scalable%20resources%20for%20individual%20aws%20services%20beyond%20amazon%20ec2)
    * [Scale Amazon Kinesis Data Streams with AWS Application Auto Scaling](https://aws.amazon.com/blogs/big-data/scaling-amazon-kinesis-data-streams-with-aws-application-auto-scaling/#:~:text=scale%20amazon%20kinesis%20data%20streams%20with%20aws%20application%20auto%20scaling)
+  
+  > #kinesis
+
+* [What are the limits of Amazon Kinesis Data Streams](https://aws.amazon.com/kinesis/data-streams/faqs/#:~:text=limits%20of%20amazon%20kinesis%20data%20streams )
+  * [Auto scaling Amazon Kinesis Data Streams](https://aws.amazon.com/blogs/big-data/auto-scaling-amazon-kinesis-data-streams-using-amazon-cloudwatch-and-aws-lambda/#:~:text=auto%20scaling%20amazon%20kinesis%20data%20streams)
+* [What is Application Auto Scaling](https://docs.aws.amazon.com/autoscaling/application/userguide/what-is-application-auto-scaling.html#:~:text=who%20need%20a%20solution%20for%20automatically%20scaling%20their%20scalable%20resources%20for%20individual%20aws%20services%20beyond%20amazon%20ec2)
+  * [Scale Amazon Kinesis Data Streams with AWS Application Auto Scaling](https://aws.amazon.com/blogs/big-data/scaling-amazon-kinesis-data-streams-with-aws-application-auto-scaling/#:~:text=scale%20amazon%20kinesis%20data%20streams%20with%20aws%20application%20auto%20scaling)
