@@ -3,6 +3,7 @@
 1. [Load Balancer](https://d1.awsstatic.com/whitepapers/architecture-considerations-for-migrating-load-balancers-to-aws.pdf)
 2. Networking
 3. Deployment
+4. [VPC connectivity Options](https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/aws-direct-connect.html)
 <p>  
 <p>  
 

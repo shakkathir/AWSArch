@@ -129,3 +129,9 @@ Now, if you enable:
 > #s3 access points  
 * If you use AWS Organizations, you can add a Service Control Policy (SCP) requiring all S3 access points are restricted to a VPC
 * If you use AWS Organizations, you can add a Service Control Policy (SCP) requiring all S3 access points are restricted to a VPC
+
+> #s3 replication and versioning ET 549 :   
+* [ref:](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-professional/view/55/#:~:text=to%20enable%20s3%20replication%2C%20both%20source%20and%20destination%20buckets%20must%20have%20versioning%20enabled)
+
+> #s3 replication and versioning ET 549 :  
+* [ET 549:](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-professional/view/55/#:~:text=to%20enable%20s3%20replication%2C%20both%20source%20and%20destination%20buckets%20must%20have%20versioning%20enabled)To enable s3 replication, Both source and destination buckets must have versioning enabled

@@ -17,9 +17,9 @@
 > #endpoints  
 
 There are 
-* VPC Gateway Endpoint
-* VPC Interface Endpoint
-* VPC Service Endpoint
+* VPC Gateway Endpoint (Caller side )
+* VPC Interface Endpoint (Caller side)
+* VPC Endpoint Service (Server side URL/Endpoint)
 
 > accelerator
 
@@ -57,3 +57,38 @@ _ref_: [ExamTopics : Q696 : Page 70](https://www.examtopics.com/exams/amazon/aws
 [Active-active and active-passive failover:](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/dns-failover-types.html#:~:text=configure%20active-active%20and%20active-passive%20failover)
 
    * [Choosing a routing policy:](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html#:~:text=responds%20to%20queries%3A-,simple%20routing%20policy,-%E2%80%93%20Use%20for%20a)
+
+
+> [VPC Connectivity Options - ET 548]  
+    
+* [ref:](https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/aws-direct-connect.html#:~:text=a%20direct%20connect%20gateway%20is%20a%20globally%20available)  
+* [ref:](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-professional/view/55/#:~:text=we%20can%20associate%20a%20vpg%20with%20multiple%20dx.)
+
+
+
+> #VPN even if it is redundant does not allow high bandwidth where it has a limit of 1.25Gbps. ET 404
+
+* [ref:](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-professional/view/41/#:~:text=it%20has%20a-,limit%20of%201.25gbps,-.%20https%3A%2F%2Faws.amazon)
+* [ref:](https://aws.amazon.com/vpn/faqs/#:~:text=maximum%20throughput%20of%20up%20to%201.25%20gbps)
+* [ref:](https://aws.amazon.com/vpn/faqs/#:~:text=aggregate%20throughput%20limit%20from%20aws%20to%20on-premises%20of%20up%20to%201.25%20gbps)
+
+> #networking
+
+[Transfer Acceleration over a fully available 1 Gbps can theoretically move around 10TB/Day.](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-professional/view/55/#:~:text=1%20gbps%20%3D%20(1024%2F8)%20mbps%20%3D%20128%20mbps)
+
+> VPC Connectivity Options #vpc #dc  
+
+* [ET 548 + aws blog:](https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/aws-direct-connect.html#:~:text=a%20direct%20connect%20gateway%20is%20a%20globally%20available)
+    * [ET 548 + aws blog:](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-professional/view/55/#:~:text=we%20can%20associate%20a%20vpg%20with%20multiple%20dx.) 
+
+
+
+[ET 550 :](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-professional/view/55/#:~:text=A%2C%20now-,amazon%20route%2053%20supports%20dnssec%20for%20domain%20registration%20as%20well%20as%20dnssec,-signing)
+* [ET 550](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-amazon-route-53-support-dnssec/#:~:text=you%20can%20now%20enable%20dnssec%20signing)
+
+   * Amazon’s domain name registrar, Route 53 Domains, already supports DNSSEC. 
+        * Customers can now register domains and host their DNS on Route 53 with DNSSEC signing enabled
+             * You can now enable DNSSEC signing for all existing and new public hosted zones, 
+          * When you enable DNSSEC signing on a hosted zone, Route 53 cryptographically signs each record in that hosted zone.
+          * Amazon Route 53 DNSSEC provides data origin authentication and data integrity verification for DNS.
+     * When you enable DNSSEC validation on the Route 53 Resolver in your VPC, it ensures that DNS responses have not been tampered with in transit.
