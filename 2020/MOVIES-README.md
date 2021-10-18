@@ -208,6 +208,8 @@ Dec 2020 | [Aviyal](https://en.wikipedia.org/wiki/Aviyal_(film) ) | 2016 | Tamil
 2021-10-17| [Annanukku_Jai_(2018_film)](https://en.wikipedia.org/wiki/Annanukku_Jai_(2018_film)) |YYYY| Tamil | [AmazonPrime](https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cb4d3b00-b0d4-46b7-a712-b18c8089e578?autoplay=1&ref_=atv_cf_strg_wb) | _ | _
 2021-10-17| [Thalaivi](https://en.wikipedia.org/wiki/Thalaivi) |YYYY| Tamil | [einthusan] | _ | _
 2021-10-17| [Mandela_(2021_film)](https://en.wikipedia.org/wiki/Mandela_(2021_film)) |YYYY| Tamil | [einthusan](https://einthusan.tv/movie/watch/3s7j/?lang=tamil) | _ | _
+2021-10-17| [Draupathi_(2020_film)](https://en.wikipedia.org/wiki/Draupathi_(2020_film)) |YYYY| Tamil | [einthusan]() | _ | _
+2021-10-17| [Pazhaya_Vannarapettai](https://en.wikipedia.org/wiki/Pazhaya_Vannarapettai) |YYYY| Tamil | [einthusan]() | _ | _
 
 
 ### Hindi
