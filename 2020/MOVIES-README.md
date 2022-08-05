@@ -226,6 +226,12 @@ Watch Date | Movie | Release Year | Lang | Channel | Genere | Why? |
 12/28/2020  | [Honeymoon_Travels_Pvt._Ltd.](https://en.wikipedia.org/wiki/Honeymoon_Travels_Pvt._Ltd.)|YY | hindi |einthusan|comedy|__
 12/29/2021 | [Gangs_of_Wasseypur](https://en.wikipedia.org/wiki/Gangs_of_Wasseypur)|YY | hindi |einthusan|comedy|Anurag Kashyap
 01/01/2021 |[Rustom](https://en.wikipedia.org/wiki/Rustom_(film))|||||
+1/2/2021  |[Raman_Raghav_2.0](https://en.wikipedia.org/wiki/Raman_Raghav_2.0)|||||
+1/8/2021  | [No_One_Killed_Jessica](https://en.wikipedia.org/wiki/No_One_Killed_Jessica) | ||||
+1/9/2021 | [Dirty_Politics_(film)](https://en.wikipedia.org/wiki/Dirty_Politics_(film))|||||
+1/10/2021 |[The_Accidental_Prime_Minister_(film)](https://en.wikipedia.org/wiki/The_Accidental_Prime_Minister_(film))||hindi|||
+1/10/2021 |[The_Unfaithful_Wife](https://en.wikipedia.org/wiki/The_Unfaithful_Wife)||hindi|||
+
 ### English
 Watch Date | Movie | Release Year | Lang | Channel | Genere | Why? |
 ------------ | -------------| -------------| -------------|-------------|-------------|---------
