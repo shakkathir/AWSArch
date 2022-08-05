@@ -181,6 +181,7 @@ Dec 2020 | [Premam](https://en.wikipedia.org/wiki/Premam) | 2015 | Malayalam | e
 6/25/2021 | [Vedivazhipadu](https://en.wikipedia.org/wiki/Vedivazhipadu)|Yr|Lang|source|_|_|
 6/25/2021 | [Paleri_Manikyam](https://en.wikipedia.org/wiki/Paleri_Manikyam:_Oru_Pathirakolapathakathinte_Katha_(film))|Yr|Lang|source|_|_|
 6/26/2021 | [God_for_Sale](https://en.wikipedia.org/wiki/God_for_Sale)| Yr|Lang|source|_|_|
+12/29/2021 |[Bhramaram](https://en.wikipedia.org/wiki/Bhramaram)      | 2009 |Malayalam|einthusan|_|Bhumika Chawla|
 Date | []() | Year | Malayalam | [Einthusan.ca]() | _ | _ |
 Date | []() | Year | Malayalam | [Einthusan.ca]() | _ | _ |
 Date | link | Year | Lang | source | theme | style |
@@ -210,6 +211,7 @@ Dec 2020 | [Aviyal](https://en.wikipedia.org/wiki/Aviyal_(film) ) | 2016 | Tamil
 2021-10-17| [Mandela_(2021_film)](https://en.wikipedia.org/wiki/Mandela_(2021_film)) |YYYY| Tamil | [einthusan](https://einthusan.tv/movie/watch/3s7j/?lang=tamil) | _ | _
 2021-10-17| [Draupathi_(2020_film)](https://en.wikipedia.org/wiki/Draupathi_(2020_film)) |YYYY| Tamil | [einthusan]() | _ | _
 2021-10-17| [Pazhaya_Vannarapettai](https://en.wikipedia.org/wiki/Pazhaya_Vannarapettai) |YYYY| Tamil | [einthusan]() | _ | _
+12/30/2021 | [Vikram_Vedha] (https://en.wikipedia.org/wiki/Vikram_Vedha)|2017| Tamil  | [einthusan]() | _ | Pushkar–Gayathri
 
 
 ### Hindi
@@ -222,6 +224,7 @@ Watch Date | Movie | Release Year | Lang | Channel | Genere | Why? |
 12/26/2020 | [Johnny_Gaddaar](https://en.wikipedia.org/wiki/Johnny_Gaddaar) |YY |hindi| einthusan | crime |sriram ragavan
 12/27/2020 | [Badlapur_(film)](https://en.wikipedia.org/wiki/Badlapur_(film) )  |YY | hindi |einthusan|crime|sriram ragavan
 12/28/2020  | [Honeymoon_Travels_Pvt._Ltd.](https://en.wikipedia.org/wiki/Honeymoon_Travels_Pvt._Ltd.)|YY | hindi |einthusan|comedy|__
+12/29/2021 | [Gangs_of_Wasseypur](https://en.wikipedia.org/wiki/Gangs_of_Wasseypur)|YY | hindi |einthusan|comedy|Anurag Kashyap
 ### English
 Watch Date | Movie | Release Year | Lang | Channel | Genere | Why? |
 ------------ | -------------| -------------| -------------|-------------|-------------|---------
