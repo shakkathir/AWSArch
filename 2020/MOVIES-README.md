@@ -211,7 +211,7 @@ Dec 2020 | [Aviyal](https://en.wikipedia.org/wiki/Aviyal_(film) ) | 2016 | Tamil
 2021-10-17| [Mandela_(2021_film)](https://en.wikipedia.org/wiki/Mandela_(2021_film)) |YYYY| Tamil | [einthusan](https://einthusan.tv/movie/watch/3s7j/?lang=tamil) | _ | _
 2021-10-17| [Draupathi_(2020_film)](https://en.wikipedia.org/wiki/Draupathi_(2020_film)) |YYYY| Tamil | [einthusan]() | _ | _
 2021-10-17| [Pazhaya_Vannarapettai](https://en.wikipedia.org/wiki/Pazhaya_Vannarapettai) |YYYY| Tamil | [einthusan]() | _ | _
-12/30/2021 | [Vikram_Vedha] (https://en.wikipedia.org/wiki/Vikram_Vedha)|2017| Tamil  | [einthusan]() | _ | Pushkar–Gayathri
+12/30/2021 | [Vikram_Vedha](https://en.wikipedia.org/wiki/Vikram_Vedha)|2017| Tamil  | [einthusan]() | _ | Pushkar–Gayathri
 
 
 ### Hindi
