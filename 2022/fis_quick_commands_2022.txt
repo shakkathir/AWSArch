@@ -1,0 +1,374 @@
+%HOMEPATH%\Tools\apache-maven-3.8.6\bin\mvn.cmd  clean install -T1C -DskipTests
+
+[ERROR] Failed to execute goal org.codehaus.mojo:exec-maven-plugin:1.6.0:exec (generate-generators) on project ogf-maven-plugin: Command execution failed.: Cannot run program "perl" (in directory "C:\Users\lc5676020\git.root\trax\plugins\ogf-maven-plugin"): CreateProcess error=2, The system cannot find the file specified -> [Help 1]
+[ERROR] Failed to execute goal org.codehaus.mojo:exec-maven-plugin:1.6.0:exec (generate-structure-generator) on project iopack-maven-plugin: Command execution failed.: Cannot run program "perl" (in directory "C:\Users\lc5676020\git.root\trax\plugins\iopack-maven-plugin"): CreateProcess error=2, The system cannot find the file specified -> [Help 1]
+[ERROR]
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR]
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
+[ERROR]
+[ERROR] After correcting the problems, you can resume the build with the command
+[ERROR]   mvn <args> -rf :ogf-maven-plugin
+
+s.Wednesday, October 5, 2022
+
+e.Wednesday, October 5, 2022
+
+
+s.Friday, October 7, 2022 {
+C:\Windows\system32>wsl --install -d Ubuntu
+Installing: Virtual Machine Platform
+Virtual Machine Platform has been installed.
+Installing: Windows Subsystem for Linux
+Windows Subsystem for Linux has been installed.
+Downloading: WSL Kernel
+Installing: WSL Kernel
+WSL Kernel has been installed.
+Downloading: Ubuntu
+The requested operation is successful. Changes will not be effective until the system is rebooted.
+
+C:\Windows\system32>wsl
+e.Friday, October 7, 2022
+}
+
+s.Monday, October 10, 2022 {
+
+with clean and install
+	C:\Users\lc5676020\git.root\trax>echo %JAVA_HOME%
+	C:\Program Files\Java\jdk-11.0.16
+
+	%HOMEPATH%\Tools\apache-maven-3.8.6\bin\mvn.cmd  clean install -T1C -DskipTests
+	%HOMEPATH%\Tools\apache-maven-3.8.6\bin\mvn.cmd  install -T1C -DskipTests
+
+with install only.
+	C:\Users\lc5676020\git.root\trax>echo %JAVA_HOME%
+	C:\Program Files\Java\jdk-11.0.16
+
+	C:\Users\lc5676020\git.root\trax>%HOMEPATH%\Tools\apache-maven-3.8.6\bin\mvn.cmd  install -T1C -DskipTests | tee -a C:\Users\lc5676020\Documents\std.out.build.txt
+		____
+		[INFO] ------------------------------------------------------------------------
+		[INFO] BUILD SUCCESS
+		[INFO] ------------------------------------------------------------------------
+		[INFO] Total time:  06:57 min (Wall Clock)
+		[INFO] Finished at: 2022-10-10T00:47:31-05:00
+		[INFO] ------------------------------------------------------------------------
+
+TRAX wildfly Startup
+	C:\Users\lc5676020\git.root\trax\trax\trax-release\target\dist\wildfly\bin>standalone.bat |  tee -a C:\Users\lc5676020\Documents\std.out.startup.txt
+		01:07:40,284 INFO  [trax.init] ----------------------- Server startup complete ------------------------
+		01:07:48,189 INFO  [trax.init] ------------------------------------------------------------------------
+		01:07:48,189 INFO  [trax.init] Starting Trax client
+		01:07:48,189 INFO  [trax.init] ------------------------------------------------------------------------
+		01:07:48,189 INFO  [trax.init] - Using: client.properties
+		01:07:48,189 INFO  [trax.init]   . uiConfig: com.trax.template.servlet.TemplateUiConfig
+		01:07:48,189 INFO  [trax.init]   . browsersRegex: '(?i)^(.*msie (8|9|10)((?!opera).)*)|(.*firefox.*)|(.*chrome.*)|(.*trident/7\.0.*)$'
+		01:07:48,189 INFO  [trax.init] ------------------------------------------------------------------------
+
+TRAX wildfly SHUTDOWN
+C:\Users\lc5676020\git.root\trax\trax\trax-release\target\dist\wildfly\bin>jboss-cli.bat -c --command=:shutdown(timeout=60) | tee -a C:\Users\lc5676020\Documents\std.out.shutdown.txt
+	01:07:48,189 INFO  [trax.init] ------------------------------------------------------------------------
+	01:28:07,400 INFO  [trax.init] ------------------------------------------------------------------------
+	01:28:07,400 INFO  [trax.init] Trax shutdown complete
+	01:28:07,400 INFO  [trax.init] ------------------------------------------------------------------------
+	Press any key to continue . . .
+
+TRAX BROWSER CONSOLE
+	http://localhost:8080/trax/
+run command: [cmd, /c, "set NOPAUSE=true", &&, call, add-user.bat, -a, system, ****]
+Added user 'system' to file 'C:\Users\lc5676020\git.root\trax\trax\trax-release\target\dist\wildfly\standalone\configuration\application-users.properties'
+Added user 'system' to file 'C:\Users\lc5676020\git.root\trax\trax\trax-release\target\dist\wildfly\domain\configuration\application-users.properties'
+pwd changed to = system::ChangedTh2t!
+
+e.Monday, October 10, 2022
+}
+
+s.Friday, October 21, 2022 {
+aws configure list-profiles
+aws --profile trax_sandbox_ohio_858768110039_AdministratorAccess ssm start-session --target i-0a43d26fa12a16001
+ssh -i "trax.sprint.02.efts.test.pem" ubuntu@ec2-3-18-175-251.us-east-2.compute.amazonaws.com
+aws --profile  trax_sandbox_ohio_858768110039_AdministratorAccess s3api list-buckets 
+ssh ubuntu@i-062de37c5fbb51fe1
+scp -r i-062de37c5fbb51fe1:/~gitroot/masterspringboot/camel/fis-camel-split-xml "C:\Users\lc5676020\git.root\fis-caml-split-xml" 
+
+#tmux
+:select-pane  -T misc-main
+scp "C:\Users\lc5676020\Downloads\AS-camt.053.001.02-20-50-0To100-MultiPublish-Account_20.xml"   i-062de37c5fbb51fe1:/home/ubuntu/Downloads/
+scp "C:\Users\lc5676020\Downloads\Large_AS-camt.053_IncomingFile.xml"  i-062de37c5fbb51fe1:/home/ubuntu/Downloads/
+
+C:\Users\lc5676020>scp "C:\Users\lc5676020\Downloads\Large_AS-camt.053_IncomingFile.xml"  i-062de37c5fbb51fe1:/home/ubuntu/Downloads/
+Large_AS-camt.053_IncomingFile.xml                                                                                                                          7%   73MB 294.6KB/s   55:22 ETA
+C:\Users\lc5676020>scp "C:\Users\lc5676020\Downloads\Large_AS-camt.053_IncomingFile.xml"  i-062de37c5fbb51fe1:/home/ubuntu/Downloads/
+Large_AS-camt.053_IncomingFile.xml                                                                                                                         27%  280MB 291.9KB/s   43:47 ETA
+C:\Users\lc5676020>scp "C:\Users\lc5676020\Downloads\Large_AS-camt.053_IncomingFile.xml"  i-062de37c5fbb51fe1:/home/ubuntu/Downloads/
+Large_AS-camt.053_IncomingFile.xml                                                                                                                         59%  614MB 306.6KB/s   23:04 ETA
+C:\Users\lc5676020>scp "C:\Users\lc5676020\Downloads\Large_AS-camt.053_IncomingFile.xml"  i-062de37c5fbb51fe1:/home/ubuntu/Downloads/
+Large_AS-camt.053_IncomingFile.xml                                                                                                                         81%  843MB 303.2KB/s   10:25 ETA
+C:\Users\lc5676020>scp "C:\Users\lc5676020\Downloads\Large_AS-camt.053_IncomingFile.xml"  i-062de37c5fbb51fe1:/home/ubuntu/Downloads/
+Large_AS-camt.053_IncomingFile.xml                                                                                                                        100% 1029MB 297.6KB/s   58:59
+
+8 MB file processing time
+	2022-10-24 02:40:05.816  INFO 70539 --- [           main] c.f.trax.as.refactor.ASSplitApplication  : Starting ASSplitApplication using Java 11.0.16 on ip-10-0-0-28 with PID 70539 (/home/ubuntu/gitroot/masterspringboot/camel/fis-camel-split-xml/target/classes started by ubuntu in /home/ubuntu/gitroot/masterspringboot/camel/fis-camel-split-xml)
+	2022-10-24 02:40:05.818  INFO 70539 --- [           main] c.f.trax.as.refactor.ASSplitApplication  : No active profile set, falling back to 1 default profile: "default"
+	2022-10-24 02:40:06.478  INFO 70539 --- [           main] o.a.c.impl.engine.AbstractCamelContext   : Routes startup summary (total:0 started:0)
+	2022-10-24 02:40:06.479  INFO 70539 --- [           main] o.a.c.impl.engine.AbstractCamelContext   : Apache Camel 3.8.0 (camel-1) started in 48ms (build:22ms init:21ms start:5ms)
+	2022-10-24 02:40:06.483  INFO 70539 --- [           main] c.f.trax.as.refactor.ASSplitApplication  : Started ASSplitApplication in 0.9 seconds (JVM running for 1.154)
+	2022-10-24 02:40:07.863  INFO 70539 --- [ionShutdownHook] o.a.c.impl.engine.AbstractCamelContext   : Apache Camel 3.8.0 (camel-1) shutting down (timeout:45s)
+	2022-10-24 02:40:07.864  INFO 70539 --- [ionShutdownHook] o.a.c.impl.engine.AbstractCamelContext   : Routes shutdown summary (total:0 stopped:0)
+	2022-10-24 02:40:07.867  INFO 70539 --- [ionShutdownHook] o.a.c.impl.engine.AbstractCamelContext   : Apache Camel 3.8.0 (camel-1) shutdown in 4ms (uptime:1s393ms)
+	[INFO] ------------------------------------------------------------------------
+	[INFO] BUILD SUCCESS
+	[INFO] ------------------------------------------------------------------------
+	[INFO] Total time:  4.051 s
+	[INFO] Finished at: 2022-10-24T02:40:07Z
+	[INFO] ------------------------------------------------------------------------
+
+ubuntu@ip-10-0-0-28:~/gitroot/masterspringboot/camel/fis-camel-split-xml$ tree -hftpaD -L 6 /mnt/efs/fs1/
+/mnt/efs/fs1
++-- [-rw-rw-r--   12 Oct 21 17:52]  /mnt/efs/fs1/delme.txt
++-- [drwxrwxr-x 6.0K Oct 22 15:59]  /mnt/efs/fs1/src
+¦   +-- [-rw-rw-r-- 8.0M Oct 22 15:56]  /mnt/efs/fs1/src/AS-camt.053.001.02-20-50-0To100-MultiPublish-Account_20.xml
++-- [drwxrwxr-x 6.0K Oct 24 02:40]  /mnt/efs/fs1/dest
+    +-- [-rw-rw-r-- 8.0M Oct 23 19:49]  /mnt/efs/fs1/dest/AS-camt.053.001.02-20-50-0To100-MultiPublish-Account_20.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.1.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.10.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.11.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.12.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.13.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.2.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.3.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.4.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.5.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.6.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.7.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.8.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.9.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.14.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.15.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.16.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.17.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.18.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.19.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.20.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.21.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.22.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.23.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.24.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.25.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.26.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.27.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.28.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.29.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.30.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.31.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.32.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.33.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.34.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.35.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.36.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.37.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.38.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.39.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.40.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.41.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.42.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.43.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.44.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.45.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.46.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.47.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.48.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.49.xml
+    +-- [-rw-rw-r-- 161K Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.50.xml
+    +-- [-rw-rw-r--    0 Oct 24 02:40]  /mnt/efs/fs1/dest/AS_split.51.xml
+
+2 directories, 54 files
+ubuntu@ip-10-0-0-28:~/gitroot/masterspringboot/camel/fis-camel-split-xml$ tree -hftpaD -L 6 /mnt/efs/fs1/
+
+1000 MB ( 1 GB ) Processing time 
+	ubuntu@ip-10-0-0-28:~/gitroot/masterspringboot/camel/fis-camel-split-xml$ tree -hftpaD -L 6 /mnt/efs/fs1/src/
+	/mnt/efs/fs1/src
+	+-- [-rw-rw-r-- 8.0M Oct 22 15:56]  /mnt/efs/fs1/src/AS-camt.053.001.02-20-50-0To100-MultiPublish-Account_20.xml
+	+-- [-rw-rw-r-- 1.0G Oct 24 03:50]  /mnt/efs/fs1/src/Large_AS-camt.053_IncomingFile.xml
+
+0 directories, 2 files
+	ubuntu@ip-10-0-0-28:~/gitroot/masterspringboot/camel/fis-camel-split-xml$ time mvn spring-boot:run
+	[INFO] Scanning for projects...
+	[INFO]
+	[INFO] ------------------< com.fis.trax:fis-camel-split-xml >------------------
+	[INFO] Building A Camel Route 1.0-SNAPSHOT
+	[INFO] --------------------------------[ jar ]---------------------------------
+	[INFO]
+	[INFO] >>> spring-boot-maven-plugin:2.7.1:run (default-cli) > test-compile @ fis-camel-split-xml >>>
+	[INFO]
+	[INFO] --- maven-resources-plugin:3.2.0:resources (default-resources) @ fis-camel-split-xml ---
+	[INFO] Using 'UTF-8' encoding to copy filtered resources.
+	[INFO] Using 'UTF-8' encoding to copy filtered properties files.
+	[INFO] Copying 0 resource
+	[INFO] Copying 0 resource
+	[INFO]
+	[INFO] --- maven-compiler-plugin:3.10.1:compile (default-compile) @ fis-camel-split-xml ---
+	[INFO] Nothing to compile - all classes are up to date
+	[INFO]
+	[INFO] --- maven-resources-plugin:3.2.0:testResources (default-testResources) @ fis-camel-split-xml ---
+	[INFO] Using 'UTF-8' encoding to copy filtered resources.
+	[INFO] Using 'UTF-8' encoding to copy filtered properties files.
+	[INFO] skip non existing resourceDirectory /home/ubuntu/gitroot/masterspringboot/camel/fis-camel-split-xml/src/test/resources
+	[INFO]
+	[INFO] --- maven-compiler-plugin:3.10.1:testCompile (default-testCompile) @ fis-camel-split-xml ---
+	[INFO] No sources to compile
+	[INFO]
+	[INFO] <<< spring-boot-maven-plugin:2.7.1:run (default-cli) < test-compile @ fis-camel-split-xml <<<
+	[INFO]
+	[INFO]
+	[INFO] --- spring-boot-maven-plugin:2.7.1:run (default-cli) @ fis-camel-split-xml ---
+	[INFO] Attaching agents: []
+
+	  .   ____          _            __ _ _
+	 /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+	( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+	 \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+	  '  |____| .__|_| |_|_| |_\__, | / / / /
+	 =========|_|==============|___/=/_/_/_/
+	 :: Spring Boot ::                (v2.7.1)
+
+	2022-10-24 03:56:01.092  INFO 90290 --- [           main] c.f.trax.as.refactor.ASSplitApplication  : Starting ASSplitApplication using Java 11.0.16 on ip-10-0-0-28 with PID 90290 (/home/ubuntu/gitroot/masterspringboot/camel/fis-camel-split-xml/target/classes started by ubuntu in /home/ubuntu/gitroot/masterspringboot/camel/fis-camel-split-xml)
+	2022-10-24 03:56:01.094  INFO 90290 --- [           main] c.f.trax.as.refactor.ASSplitApplication  : No active profile set, falling back to 1 default profile: "default"
+	2022-10-24 03:56:01.716  INFO 90290 --- [           main] o.a.c.impl.engine.AbstractCamelContext   : Routes startup summary (total:0 started:0)
+	2022-10-24 03:56:01.717  INFO 90290 --- [           main] o.a.c.impl.engine.AbstractCamelContext   : Apache Camel 3.8.0 (camel-1) started in 39ms (build:19ms init:16ms start:4ms)
+	2022-10-24 03:56:01.721  INFO 90290 --- [           main] c.f.trax.as.refactor.ASSplitApplication  : Started ASSplitApplication in 0.873 seconds (JVM running for 1.192)
+	2022-10-24 04:03:18.433  INFO 90290 --- [ionShutdownHook] o.a.c.impl.engine.AbstractCamelContext   : Apache Camel 3.8.0 (camel-1) shutting down (timeout:45s)
+	2022-10-24 04:03:18.433  INFO 90290 --- [ionShutdownHook] o.a.c.impl.engine.AbstractCamelContext   : Routes shutdown summary (total:0 stopped:0)
+	2022-10-24 04:03:18.436  INFO 90290 --- [ionShutdownHook] o.a.c.impl.engine.AbstractCamelContext   : Apache Camel 3.8.0 (camel-1) shutdown in 3ms (uptime:7m16s)
+	[INFO] ------------------------------------------------------------------------
+	[INFO] BUILD SUCCESS
+	[INFO] ------------------------------------------------------------------------
+	[INFO] Total time:  07:19 min
+	[INFO] Finished at: 2022-10-24T04:03:18Z
+	[INFO] ------------------------------------------------------------------------
+
+	real    7m20.462s
+	user    1m40.086s
+	sys     0m7.437s
+ubuntu@ip-10-0-0-28:~/gitroot/masterspringboot/camel/fis-camel-split-xml$
+
+Shak.Kathir@fisglobal.com 
+
+e.Friday, October 21, 2022
+}
+
+s.Monday, October 24, 2022 {
+C:\Users\lc5676020\git.root\fis-camel-split-xml>scp -r i-062de37c5fbb51fe1:~/gitroot/masterspringboot/camel/fis-camel-split-xml/src "C:\Users\lc5676020\git.root\fis-camel-split-xml"
+
+ou have an empty repository
+To get started you will need to run these commands in your terminal.
+
+New to Git? Learn the basic Git commands
+Configure Git for the first time
+git config --global user.name "Shak Kathir"
+git config --global user.email "Shak.Kathir@fisglobal.com"
+Working with your repository
+I just want to clone this repository
+If you want to simply clone this empty repository then run this command in your terminal.
+
+git clone https://bitbucket.fis.dev/scm/~lc5676020/fis-caml-split-xml.git
+My code is ready to be pushed
+If you already have code ready to be pushed to this repository then run this in your terminal.
+
+cd existing-project
+git init
+git add --all
+git commit -m "Initial Commit"
+git remote add origin https://bitbucket.fis.dev/scm/~lc5676020/fis-caml-split-xml.git
+git push -u origin HEAD:master
+My code is already tracked by Git
+If your code is already tracked by Git then set this repository as your "origin" to push to.
+
+cd existing-project
+git remote set-url origin https://bitbucket.fis.dev/scm/~lc5676020/fis-caml-split-xml.git
+git push -u origin --all
+git push origin --tags
+All done with the commands?
+e.Monday, October 24, 2022
+}
+
+s.Thursday, October 27, 2022
+review/feedback. 
+	1. small files vs large files - test case - 
+	2. fileoutput order seequnce
+	3. archival part 1) common pattern 
+	4. dave bruselle review 
+	5. contact with monothlic. add s3 support
+	6. configs from trax - with rest calll? distributed cache.
+e.Thursday, October 27, 2022
+
+
+
+Tuesday, November 1, 2022
+i-0a43d26fa12a16001
+ssh ubuntu@i-0a43d26fa12a16001
+aws --profile trax_sandbox_ohio_858768110039_AdministratorAccess sts get-caller-identity	
+scp  C:\Users\lc5676020\Downloads\Large_AS-camt.053_IncomingFile.zip i-0a43d26fa12a16001:/home/ubuntu/Downloads/
+Tuesday, November 1, 2022
+
+
+s.Wednesday, November 2, 2022 {
+archive
+	file:///C:/Users/lc5676020/Downloads/Trax.740.UserGuide.Workflow.Statements.pdf
+	
+e.Wednesday, November 2, 2022
+}
+
+s.Wednesday, November 2, 2022 {
+TRAX-20221__Account_Statement_Archival_Use_Cases_and_Solution_Approaches.figure.1.jpg
+C:\Users\lc5676020\Downloads\TRAX-20221__Account_Statement_Archival_Use_Cases_and_Solution_Approaches.figure.1.jpeg
+Depending on what has happened to the statement during the workflow it is archived when the incoming envelope is in a final state (CANELLED or ACCEPTED ENVELOPE) or when the statement is in a final state (PROCESSED STATEMENTS or CANCELLED STATEMENTS) and when all if its publications are in a final state (PUBLISHED, CANCELLED PUBLICATIONS)
+
+Payment instructions, account statements and messages are archived  together with their processing history, 
+copy of the exact messages that were sent to the bank (for payments and outgoing messages) or 
+copy of the exact messages that were received from the bank (for account statements and incoming messages) 
+
+
+In TRAX archiving means the various workflow objects which normally reside in the operational DB tables moved to the 
+archive table. The archive table is a flat storage in TRAX dB. 
+
+Once archived, a security profile controls  access to the Archive objects to browse and search 
+With proper/correct secrutiy profile, users can 
+1. search on the metadata (i.e. all non-BLOB fields of the archived workflow object) 
+2. can retrieve and 
+3. view the relevant workflow object
+___
+
+I started my thought process with developing a custom export utility that extracts a transactional data sources to specific output format like JSON or paraquet that forms input files ( basically archive files) to the SQL type query engines like Athena ( simple ) or RedShift (Sophisticated)
+Then in that case all the current FIS TRAX datasets should be migrated from MS SQL server to one of these database platforms ( This is a big decision but I assume that this database migration is already factored into the overall migration roadmap)
+
+e.Wednesday, November 2, 2022
+}
+
+s.Tuesday, November 8, 2022 {
+channel domain
+router domain 
+reports domain
+
+Query types
+Match
+Multi-match
+Match Boolean prefix
+Match phrase
+Match phrase prefix
+Query string
+Simple query string
+Match all
+Advanced filter options
+Wildcard options
+Fuzzy query options
+Synonyms in a multiple terms search
+Other advanced options
+e.Tuesday, November 8, 2022
+}
+
+s.Wednesday, November 9, 2022 {
+LC5676020
+e.Wednesday, November 9, 2022
+}
