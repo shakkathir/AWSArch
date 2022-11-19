@@ -184,7 +184,8 @@ Dec 2020 | [Premam](https://en.wikipedia.org/wiki/Premam) | 2015 | Malayalam | e
 12/29/2021 |[Bhramaram](https://en.wikipedia.org/wiki/Bhramaram)      | 2009 |Malayalam|einthusan|_|Bhumika Chawla|
 1/15/2021 | [Mukalil Oralundu (2013)](https://en.wikipedia.org/wiki/Up_%26_Down:_Mukalil_Oralundu) ||malayalam|[einthusan](https://einthusan.tv/movie/watch/1936/?lang=malayalam)|| | 
 1/17/2021 | [Oru Naal Varum (2010)](https://en.wikipedia.org/wiki/Oru_Naal_Varum) ||malayalam|[einthusan](https://einthusan.tv/movie/watch/1764/?lang=malayalam)||| 
-Date | []() | Year | Malayalam | [Einthusan.ca]() | _ | _ |
+Nov/2021 | [Paapam Cheyyathavar Kalleriyatte](https://en.wikipedia.org/wiki/Paapam_Cheyyathavar_Kalleriyatte) | 2020 | Malayalam | [Einthusan.ca]() | _ | _ |
+Nov/2022 | []() | Year | Malayalam | [Einthusan.ca]() | _ | _ |
 Date | []() | Year | Malayalam | [Einthusan.ca]() | _ | _ |
 Date | link | Year | Lang | source | theme | style |
 
