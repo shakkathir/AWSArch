@@ -1,0 +1,160 @@
+fnis.local\test1
+fis.local\test1
+
+vasantha jason
+
+
+this support is available in bancware-sdl-aws account
+
+still living there  bancware-sandbox
+
+not citirx
+it is appstream deployment of bancware-client
+
+
+Bagde, Keval
+
+Updated the following Wiki Page with answers to your questions in the context Approving AWS Appstream as FIS approved service to use in SDL and higher environments
+
+
+
+End User Compute on AWS (AppStream) - Diagrams & Keval's AWS Service Q&A - Cloud Modernization - FIS Enterprise Wiki (fnis.com)
+
+
+
+Appreciate your feedback and your help expediting the approval steps.
+
+____
+2022/aug/12
+todos
+
+milos - 
+appstream infra out thre work w/ milos
+
+?8/?21/?2022
+appstream_sample_role_2022_08_02_v_001 contains all these policies
+AmazonAppStreamFullAccess 
+AmazonAppStreamReadOnlyAccess 
+AmazonAppStreamServiceAccess 
+ApplicationAutoScalingForAmazonAppStreamAccess 
+AWSApplicationAutoscalingAppStreamFleetPolicy 
+
+Regrisk-ambitbancware-sandbox
+
+#619364938159 | AWS.DL.REGRISK.AMBITBANCWARE.SANDBOX@FISGLOBAL.COM
+
+____
+Monday, August 22, 2022 ; 8/22/2022
+
+Deploy AppStream 2.0 into a dedicated VPC. When designing the AppStream 2.0 VPC, size for forecasted growth. Reserve IP address capacity for new use cases, and additional Availability Zones (AZs) that may be added at a later time. A fundamental design point of AppStream 2.0 is that only one user can
+consume an AppStream 2.0 instance. When allocating IP space, think one user as one IP address per AppStream 2.0 instance. With AppStream 2.0, it is possible for a user to consume multiple AppStream 2.0 instances. Therefore, planning IP space must also account for use cases that require additional
+AppStream 2.0 instances.
+
+Although the maximum size of a VPC Classless Inter-Domain Routing (CIDR) is /16, AWS recommends
+not over-allocating private IP addresses. It is possible to extend the size of the VPC through additional
+CIDRs, but there is a limit to this; therefore, allocate what is needed from the onset.
+If the AppStream 2.0 deployment is joined to an Active Directory domain, the DHCP options set for
+the VPC must have the domain DNS configured. The domain name server should specify the DNS IP
+addresses that are either authoritative for the Active Directory domain, or the DNS should forward DNS
+requests to the authoritative DNS instances for the Active Directory domain. Also, the VPC must have
+enableDnsHostnames and EnableDnsSupport configured.
+
+
+Image creation and management
+When launching a fleet or image builder in AppStream 2.0, you must select one of the AppStream
+2.0 base images. Administrators can then build on the base image to add their own applications and
+configuration settings.
+There are key considerations when building an image to ensure applications work correctly and securely.
+In addition, there are design considerations for how that image will be maintained.
+Building an AppStream 2.0 image
+When building a new image, it is important to consider the following:
+• Operating system
+Applications
+• User profile
+• Security
+• Performance
+• Agent version
+• Image Assistant CLI
+
+
+Applications
+Prior to installing applications, it is important to review application requirements such as application
+dependencies and hardware requirements. After successfully installing applications on image builder
+instances, make sure to switch users and test applications under the test user context.
+When planning your application deployment, it is a best practice to limit the total number of
+applications installed on an image to less than 50. Additionally, clean up installer and helper files to
+optimize total C Drive space prior to creating an image. As a reminder, the AppStream 2.0 instances have
+one 200 GB fixed-size volume. Optimizing on disk space after installations is a best practice to ensure
+that fixed-size volume is never exceeded.
+If you would like to modify the catalog of applications your users can access in real time, dynamic
+application framework provides API operations. The applications managed by the dynamic app providers
+9
+Best Practices for Deploying Amazon AppStream 2.0
+VPC design, image creation and management, fleet
+customization, fleet autoscaling, authentication,
+security, monitoring, and cost optimization
+can be within the image, or they can be offApp blocks -instance, such as from a Windows file share or an application
+virtualization technology. This feature requires an AppStream 2.0 fleet that is joined to a Microsoft Active
+Directory domain. For more information, refer to Using Active Directory with AppStream 2.0.
+
+____________
+1. secrets creation in vault 
+	[ this part is related to downlonading the focus msi bins form artifactory ] 
+2. choose the appstream base image 
+3. create a image builder using the base image
+4. login into the "running" base image builder.
+5. create a user local ansibie-user  with admin previlege. 
+	5.1 this identity will deploy the msi packages from artifcatory. 
+6. take a snapshot of the image with the ansbile-user
+_____
+?Tuesday, ?August ?23, ?2022 | ?8/?23/?2022
+Appstream Image Lifecycle & updates
+Software patching is critical for the security and performance of compute resources. Frequent patching is listed as a best practice in the Security Pillar of the Well-Architected Framework. When your image is built and deployed, there are four categories of software that require patching in your AppStream 2.0 image:
+• Applications and dependencies — YoImage updates u are responsible for patching the applications and dependencies in your images.
+• Microsoft Windows operating system — You are responsible for installing and maintaining updates for Windows.
+• Software components — These are drivers, agents, and other software that is required for AppStream 2.0 operation (for example, the Amazon CloudWatch agent). AppStream 2.0 periodically releases new base images that contain new agents and drivers. You can rebuild your image using the latest base to bring the software components on their images to the latest baseline. The process to rebuild an image
+on the latest base can be time-consuming and cumbersome when there are many applications, or with complex application installs.
+• AppStream 2.0 agent — You can choose Always use the latest agent version in Image Assistant. With this option, streaming instances that are launched from the image automatically use the latest version of the agent.
+You can keep your AppStream 2.0 image up to date by doing either of the following:
+• Update an Image by Using Managed AppStream 2.0 Image Updates – This update method provides the latest Windows operating system updates and driver updates, and the latest AppStream 2.0 agent software. This managed method does update service and Microsoft operating system components, but it does not allow you to update your application components. It is a best practice to use this method when application installs are complex, or require manual configuration.
+• Update the AppStream 2.0 Agent Software by Using Managed AppStream 2.0 Image Versions – This update method provides the latest AppStream 2.0 agent software. This method does allow you to  update your application components.
+
+https://bitbucket.fis.dev/scm/fco/terraform-aws-appstream-cap-dev.git
+
+_____
+?Monday, ?August ?29, ?2022
+
+epheramal 
+FIS emphremal. 
+guidelines should all 
+fleet insntances. 
+
+hardening - security of 
+patches, and configuring of teh machines to be compliant .
+
+they are NOT in  FIS VPC 
+cortex agent 
+edr and hdr 
+
+
+CMCMP-1807	
+Confirm whether any security endpoints need to be installed on image
+
+CMCMP-1756	
+Follow up with Keval to get decision on what image hardening is needed
+
+CMCMP-1286	
+Run OS hardening script as part of image creation
+
+CMCMP-1885	
+Test that Windows has FIS OS hardening script applied
+
+
+Ibrahim, Keval
+
+Appreciate your help clarifying the FIS end point security software policy 
+
+Should windows OS based OS 
+
+
+ 
