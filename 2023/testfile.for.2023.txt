@@ -1,0 +1,54 @@
+2023/April/05, Wednesday {
+    git config user.name shakkathir
+    git config user.email writetoshak@hotmail.com
+
+    
+    git clone ssh://publicgit001/shakkathir/AWSArch.git
+    git config user.email writetoshak@hotmail.com
+    git config user.name shakkathir
+}
+2023/April/05, Wednesday
+
+s.2023/April/08, Saturday {
+   O:\2023\Downloads\SHAK-PNB-ERODE-ACCOUNT_STATEMENT_01_Mar_2023_to_31_Mar_2023_AccStmt_01253949_012023_2574.pdf
+
+windows cmd history command for wsl
+    8: wsl --list -v                                        
+    9: unregister Ubuntu
+    10: wsl unregister Ubuntu                               
+    11: wsl --unregister Ubuntu                            
+    12: wsl --list -v                                       
+    13: wsl --list --online                            
+    14: wsl --install Ubuntu-22.04          
+    15: wsl --list -v                                      
+    16: clear                                               
+    17: cls
+
+wsl ubuntu linux git setup
+38 mkdir -p ~/.ssh
+38 cp /mnt/c/Users/shakkat/.ssh/config .
+40 cp /mnt/c/Users/shakkat/.ssh/2019_sep_tri_github_id_rsa.prv .
+47  chmod 700 home/shak/.ssh/config
+48  chmod 700 /home/shak/.ssh/config
+51  tree -hftugpafD  ~/.ssh/
+    shak@SEA-1801428155:~/git_shak_hotmail_login_home$ tree -hftugpafD  ~/.ssh/
+        [drwx------ shak     shak     4.0K Apr  8 10:02]  /home/shak/.ssh
+        ├── [-rw------- shak     shak     2.6K Apr  8 09:50]  /home/shak/.ssh/2019_sep_tri_github_id_rsa.ppk
+        ├── [-rw------- shak     shak     3.2K Apr  8 09:55]  /home/shak/.ssh/2019_sep_tri_github_id_rsa.prv
+        ├── [-rw-r--r-- shak     shak      142 Apr  8 10:01]  /home/shak/.ssh/known_hosts.old
+        ├── [-rwx------ shak     shak     2.2K Apr  8 10:01]  /home/shak/.ssh/config
+        └── [-rw------- shak     shak      978 Apr  8 10:02]  /home/shak/.ssh/known_hosts
+
+56  mkdir -p git_shak_hotmail_login_home
+57  cd git_shak_hotmail_login_home/
+58  git init
+59  git config user.name shakkathir
+60 git config user.email writetoshak@hotmail.com
+61  git clone git@publicgit001:shakkathir/AWSArch.git
+62  history 
+shak@SEA-1801428155:~/git_shak_hotmail_login_home$ 
+
+added new lines for testing
+
+e.2023/April/08, Saturday
+}

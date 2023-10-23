@@ -5,7 +5,7 @@ fun | arrogance | lust | ego/self-esteem  | greed | tragedy
 humor|anger | loyalty/fidelity  | hatred/dislike | trust & betrayal |  loss 
 .|avenge | affection | bias/prejudice | bravery & valor  | trimph
 .|revenge | devotion | fairness/equality | survival & sacrifice | 
-.|.| . | discrimination/social order |.|.
+.|jealousy| . | discrimination/social order |.|.
 
 ### Afican American Subjects Fiction or Non Fiction
 Movie | Release Year 
