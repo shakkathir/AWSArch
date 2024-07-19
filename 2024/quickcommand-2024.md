@@ -22,6 +22,10 @@
 
 ### ECS vs EKS
 
+- [ECS vs EKS Usecase](https://www.nops.io/blog/aws-eks-vs-ecs-the-ultimate-guide/#:~:text=ecs%20vs%20eks%20use%20cases)
+
+- [ECS vs EKS](https://www.nops.io/blog/aws-eks-vs-ecs-the-ultimate-guide/#:~:text=potentially%20lower%20with%20fargate%2C%20depending%20on%20usage%20patterns)  
+
 ### Logging, Tracking and Metrics 
 [logging](https://x.com/sahnlam/status/1811282066161684623)  
 
