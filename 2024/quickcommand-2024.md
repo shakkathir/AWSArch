@@ -33,6 +33,9 @@
 [logging](https://x.com/sahnlam/status/1811282066161684623)  
 
 ![alt text](image-1.png)
-    
+
+Perfection is not great thing.  
+![alt text](image-3.png)  
+[link](https://x.com/ScholarshipfPhd/status/1814029790849999164)  
 > e. <mark>Fri 07/19/2024
 
