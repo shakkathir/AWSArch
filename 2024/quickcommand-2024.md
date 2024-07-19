@@ -26,6 +26,9 @@
 
 - [ECS vs EKS](https://www.nops.io/blog/aws-eks-vs-ecs-the-ultimate-guide/#:~:text=potentially%20lower%20with%20fargate%2C%20depending%20on%20usage%20patterns)  
 
+- [ECS vs EKS](https://www.eginnovations.com/blog/top-10-aws-services-explained-with-use-cases/#5_AWS_ECS_-_Elastic_Container_Service:~:text=with%20amazon%20ecs%2C%20you%20don%E2%80%99t%20have%20to%20operate%20your%20own%20cluster%20management%20and%20configuration%20management%20systems)
+
+
 ### Logging, Tracking and Metrics 
 [logging](https://x.com/sahnlam/status/1811282066161684623)  
 
