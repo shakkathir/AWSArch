@@ -2,6 +2,7 @@
 - [APIGateway](#api-gateway-vs-load-balancing)
 - [ECS vs Eks](#ecs-vs-eks)
 - [logging](#logging-tracking-and-metrics)
+- [Architectural Characteristics]
 
 > <mark>Fri 07/19/2024
 #### Twitter Alex  
@@ -38,4 +39,21 @@ Perfection is not great thing.
 ![alt text](image-3.png)  
 [link](https://x.com/ScholarshipfPhd/status/1814029790849999164)  
 > e. <mark>Fri 07/19/2024
+
+> s.2024-07-24
+
+### Architecture Characteristics 
+ - [Milan|X ]https://x.com/milan_milanovic/status/1815282240311435670
+   - 6 Characters
+     - Function-ality
+     - Maintain-ability
+     - Reliable-ablity
+     
+     - Operaional Efficiency
+     - Security
+     
+     - Us-ability 
+     - Port-ability
+     - Compat-ability
+
 
