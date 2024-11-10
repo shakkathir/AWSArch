@@ -27,296 +27,291 @@
   * [Control Tower Automatic Account Creation](https://github.com/aws-samples/aws-control-tower-automate-account-creation)
 
 ___
-(AWS/Arch)  
-    (Window Manager)[chrome-extension://aadahadfdmiibmdhfmpbeeebejmjnkef/manager.html#active])  
-    (General Architecture )  
-    (Decomposing the Monolith with Event Storming | by Andrew Bonham | Capital One Tech | Medium)[https://medium.com/capital-one-tech/event-storming-decomposing-the-monolith-to-kick-start-your-microservice-architecture-acb8695a6e61])
+- AWS/Arch  
+    - General Architecture
+    - [Decomposing the Monolith with Event Storming | by Andrew Bonham | Capital One Tech | Medium](https://medium.com/capital-one-tech/event-storming-decomposing-the-monolith-to-kick-start-your-microservice-architecture-acb8695a6e61)
 
 
-(AWS/Arch
-(    Window Manager)[chrome-extension://aadahadfdmiibmdhfmpbeeebejmjnkef/manager.html#active]
-(    General Architecture 
-(        Decomposing the Monolith with Event Storming | by Andrew Bonham | Capital One Tech | Medium)[https://medium.com/capital-one-tech/event-storming-decomposing-the-monolith-to-kick-start-your-microservice-architecture-acb8695a6e61]
-(        12 Factor Design Methodology and Cloud-Native Applications - Cuelogic Technologies Pvt. Ltd.)[https://www.cuelogic.com/blog/12-factor-design-methodology-and-cloud-native-applications]
-(    example aws route53 private zone records - Google Search)[https://www.google.com/search?q=example+aws+route53+private+zone+records&rlz=1C1GCEA_enUS849US849&oq=example+aws+route53+private+zone+records&aqs=chrome..69i57.16751j0j7&sourceid=chrome&ie=UTF-8]
-(        example aws route53 private zone records - Google Search)[https://www.google.com/search?q=example+aws+route53+private+zone+records&rlz=1C1GCEA_enUS849US849&oq=example+aws+route53+private+zone+records&aqs=chrome..69i57.16751j0j7&sourceid=chrome&ie=UTF-8]
-(        How to setup Service Discovery in Amazon Elastic Container Service | by Nathan Peck | Containers on AWS | Medium)[https://medium.com/containers-on-aws/how-to-setup-service-discovery-in-elastic-container-service-3d18479959e6]
-(        consul server vs aws cloudmap - Google Search)[https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1062%2F1*SfoJmeVqqp1xMGEN4iwItg.png&imgrefurl=https%3A%2F%2Fmedium.com%2Fcontainers-on-aws%2Fhow-to-setup-service-discovery-in-elastic-container-service-3d18479959e6&tbnid=IGUq0ByI-xDsLM&vet=12ahUKEwiX4qaTn4PwAhXQG98KHdb0DNQQMygTegUIARDLAQ..i&docid=BnHoNqKV6-WmNM&w=1062&h=560&q=consul%20server%20vs%20aws%20cloudmap&ved=2ahUKEwiX4qaTn4PwAhXQG98KHdb0DNQQMygTegUIARDLAQ]
-(        AWS Workshops)[https://workshops.aws/card/route%2053]
-(        Awesome AWS Workshops - Build On! - Awesome AWS Workshops)[https://awesome-aws-workshops.com/#network]
-(        aws workshop - Google Search)[https://www.google.com/search?q=aws+workshop&rlz=1C1GCEA_enUS849US849&sxsrf=ALeKk01tPo_fV-fSqWej_z9e0M9edgE_QQ:1618595431299&ei=Z855YKm_EdWi5NoPzLeH0AQ&start=0&sa=N&ved=2ahUKEwjpjt7tqYPwAhVVEVkFHczbAUo4FBDy0wN6BAgBEDk&biw=1854&bih=920]
-(        aws workshop - Google Search)[https://www.google.com/search?q=aws+workshop&rlz=1C1GCEA_enUS849US849&sxsrf=ALeKk02youqQC5UXscKY9qnCcfD6u6FTiA:1618595978348&ei=itB5YKbMFP-i5NoPzMqO4Ac&start=10&sa=N&ved=2ahUKEwimucvyq4PwAhV_EVkFHUylA3wQ8tMDegQIAhA6&biw=1854&bih=920]
-(        aws workshop - Google Search)[https://www.google.com/search?q=aws+workshop&rlz=1C1GCEA_enUS849US849&sxsrf=ALeKk000nTHGy-1YtT-XptG23NYWF89A4Q:1618595995252&ei=m9B5YKjLDt6j5NoPh6uuEA&start=20&sa=N&ved=2ahUKEwjohNP6q4PwAhXeEVkFHYeVCwI4ChDy0wN6BAgBEDw&biw=1854&bih=920]
-(        consul server vs aws cloudmap - Google Search)[https://www.google.com/search?q=consul+server+vs+aws+cloudmap&tbm=isch&ved=2ahUKEwibu5eonoPwAhWRNd8KHdvbCa4Q2-cCegQIABAA&oq=consul+server+vs+aws+cloudmap&gs_lcp=CgNpbWcQAzoECAAQQzoICAAQsQMQgwE6BQgAELEDOgIIADoHCAAQsQMQQzoGCAAQCBAeOgQIABAeOgYIABAFEB46BAgAEBhQgYgNWLfGDWDlyA1oBXAAeAGAAZAHiAHYK5IBCjIzLjcuMS42LTOYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=TMJ5YJvlJpHr_Abbt6fwCg&bih=920&biw=1854&rlz=1C1GCEA_enUS849US849#imgrc=xX4pyUPzcEneDM]
-(    AWS Identity and Access Management)[IAM] | AWS Security Blog)[https://aws.amazon.com/blogs/security/category/security-identity-compliance/aws-identity-and-access-management-iam/page/4/]
-(        what is inside ssl certificate? - Google Search)[https://www.google.com/search?q=what+is+inside+ssl+certificate%3F&rlz=1C1GCEA_enUS849US849&oq=what+is+inside+ssl+certificate%3F&aqs=chrome..69i57.7399j0j7&sourceid=chrome&ie=UTF-8]
-(            Types of SSL Certificates | Choose the Right SSL Certificate Type Now!)[https://sectigostore.com/page/ssl-types/]
-(            Public key certificate - Wikipedia)[https://en.wikipedia.org/wiki/Public_key_certificate]
-(    Understand IAM PassRole to Secure your AWS Infrastructure - CloudKatha)[https://cloudkatha.com/understand-iam-passrole-to-secure-your-aws-infrastructure/]
-(        Use new account assignment APIs for AWS SSO to automate multi-account access | AWS Security Blog)[https://aws.amazon.com/blogs/security/use-new-account-assignment-apis-for-aws-sso-to-automate-multi-account-access/]
-(        AWS Single Sign-On FAQs – Amazon Web Services)[AWS])[https://aws.amazon.com/single-sign-on/faqs/]
-(        Approaches for authenticating external applications in a machine-to-machine scenario | AWS Security Blog)[https://aws.amazon.com/blogs/security/approaches-for-authenticating-external-applications-in-a-machine-to-machine-scenario/]
-(            Examples of the complete Signature Version 4 signing process)[Python] - AWS General Reference)[https://docs.aws.amazon.com/general/latest/gr/sigv4-signed-request-examples.html]
-(            Application compatibility policy for AD Connector - AWS Directory Service)[https://docs.aws.amazon.com/directoryservice/latest/admin-guide/ad_connector_app_compatibility.html]
-(            Application compatibility policy for AWS Managed Microsoft AD - AWS Directory Service)[https://docs.aws.amazon.com/directoryservice/latest/admin-guide/ms_ad_app_compatibility.html]
-(        Robert Broeckelmann – Medium)[https://medium.com/@robert.broeckelmann]
-(        How to delegate management of identity in AWS Single Sign-On | AWS Security Blog)[https://aws.amazon.com/blogs/security/how-to-delegate-management-of-identity-in-aws-single-sign-on/]
-(        OAuth 2.0)[https://swagger.io/docs/specification/authentication/oauth2/]
-(            oauth flow between mobile client and server - Google Search)[https://www.google.com/search?q=oauth+flow+between+mobile+client+and+server&rlz=1C1GCEA_enUS849US849&sxsrf=ALeKk00_hqa8JrLorcBBPEdE0_PRjYnPiQ:1612544602497&ei=WnodYIHuHeSP9PwP4ZulCA&start=10&sa=N&ved=2ahUKEwiBg93hnNPuAhXkB50JHeFNCQEQ8tMDegQIDxA3&biw=1687&bih=836]
-(            OAuth 2 Simplified • Aaron Parecki)[https://aaronparecki.com/oauth-2-simplified/]
-(            Microsoft identity platform authentication flows & app scenarios | Microsoft Docs)[https://docs.microsoft.com/en-us/azure/active-directory/develop/authentication-flows-app-scenarios#scenarios-and-supported-authentication-flows]
-(                Microsoft identity platform and OAuth 2.0 authorization code flow - Microsoft identity platform | Microsoft Docs)[https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-auth-code-flow]
-(                Microsoft identity platform and OpenID Connect protocol - Microsoft identity platform | Microsoft Docs)[https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-protocols-oidc#protocol-diagram-access-token-acquisition]
-(                    RFC 6749 - The OAuth 2.0 Authorization Framework)[https://tools.ietf.org/html/rfc6749#page-8]
-(                Security tokens - Microsoft identity platform | Microsoft Docs)[https://docs.microsoft.com/en-us/azure/active-directory/develop/security-tokens]
-(            JSON Web Token Introduction - jwt.io)[https://jwt.io/introduction]
-(        Overview: Kong’s OpenID Connect API Gateway Plugin - KongHQ)[https://konghq.com/blog/openid-connect-api-gateway?utm_source=twitter&utm_medium=social&utm_campaign=community]
-(        Overview | Okta Developer)[https://developer.okta.com/docs/guides/refresh-tokens/overview/]
-(    Field Notes: Working with Route Tables in AWS Transit Gateway | AWS Architecture Blog)[https://aws.amazon.com/blogs/architecture/field-notes-working-with-route-tables-in-aws-transit-gateway/]
-(        A DevOps Guide to AWS Transit Gateway)[https://mechanicalrock.github.io/2020/02/24/transit-gateway.html]
-(            How transit gateways work - Amazon Virtual Private Cloud)[https://docs.aws.amazon.com/vpc/latest/tgw/how-transit-gateways-work.html]
-(        site:aws.amazon.com vpc route53 dns resolver - Google Search)[https://www.google.com/search?q=site%3Aaws.amazon.com+vpc+route53+dns+resolver&rlz=1C1GCEA_enUS849US849&sxsrf=ALeKk02TduaE6JAVxDCds7EXEbL8lLF4-g%3A1617465815550&ei=15FoYNyPIZu3tAaBv4yoDw&oq=site%3Aaws.amazon.com+vpc+route53+dns+resolver&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsAM6BwgjEOoCECc6BAgjECc6BQgAEJECOgUIABCxAzoICAAQsQMQgwE6CwguELEDEMcBEKMCOgoILhCxAxCDARBDOgQIABBDOgoIABCxAxCDARBDOgQILhBDOgsILhCxAxDHARCvAToICC4QxwEQrwE6BQguELEDOgcIABCxAxBDOgIILjoCCAA6CAguELEDEIMBOg4ILhCxAxCDARDHARCjAlDi5A9YqqIRYJGjEWgOcAJ4AIABfYgBtBOSAQQzNi4ymAEAoAEBqgEHZ3dzLXdperABCsgBCMABAQ&sclient=gws-wiz&ved=0ahUKEwic1_zaueLvAhWbG80KHYEfA_UQ4dUDCA0&uact=5]
-(            AWS Networking)[https://www.bogotobogo.com/DevOps/AWS/aws-Networking.php]
-(                AWS Amazon Route 53 - DNS)[Domain Name Server] setup - 2020)[https://www.bogotobogo.com/DevOps/AWS/aws-Route53-DNS-Domain-Name-Server-Setup.php]
-(            A Quick Overview of the Top Seven DNS Record Types)[https://www.farsightsecurity.com/blog/txt-record/dnsrecords-20171201/]
-(            amazon .com root name servers - Google Search)[https://www.google.com/search?q=amazon+.com+root+name+servers&rlz=1C1GCEA_enUS849US849&oq=amazon+.com+root+name+servers&aqs=chrome..69i57j69i64l2.9575j0j7&sourceid=chrome&ie=UTF-8]
-(                .com dns name servers - Google Search)[https://www.google.com/search?q=.com+dns+name+servers&rlz=1C1GCEA_enUS849US849&oq=.com+dns+name+servers&aqs=chrome..69i57.6350j0j4&sourceid=chrome&ie=UTF-8]
-(                    How Does DNS Work, What Are Name Servers, and What DNS Types Do You Need to Know for Your Website? | Bluehost Resource Center)[https://www.bluehost.com/resources/how-does-dns-work-what-are-name-servers-and-what-dns-types-do-you-need-to-know-for-your-website/]
-(                        Root name server - Wikipedia)[https://en.wikipedia.org/wiki/Root_name_server#Root_zone_file]
-(            How domain registration works - Amazon Route 53)[https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/welcome-domain-registration.html]
-(            How internet traffic is routed to your website or web application - Amazon Route 53)[https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/welcome-dns-service.html]
-(                Choosing between alias and non-alias records - Amazon Route 53)[https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/resource-record-sets-choosing-alias-non-alias.html]
-(            Using DNS with your VPC - Amazon Virtual Private Cloud)[https://docs.aws.amazon.com/vpc/latest/userguide/vpc-dns.html]
-(                DHCP options sets - Amazon Virtual Private Cloud)[https://docs.aws.amazon.com/vpc/latest/userguide/VPC_DHCP_Options.html]
-(            aws vpc resolver route 53 resolver - Google Search)[https://www.google.com/search?q=aws+vpc+resolver+route+53+resolver&rlz=1C1GCEA_enUS849US849&oq=aws+vpc+resolver+route+53+resolver&aqs=chrome..69i57j69i60.12047j0j7&sourceid=chrome&ie=UTF-8]
-(                Amazon Route 53 Resolver Now Supports VPC DNS Query Logging)[https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-route-53-resolver-supports-vpc-dns-query-logging/]
-(            aws dns outbound endpoint - Google Search)[https://www.google.com/search?q=aws+dns+outbound+endpoint&rlz=1C1GCEA_enUS849US849&oq=aws+dns+outbound+endpoint&aqs=chrome..69i57.17376j0j7&sourceid=chrome&ie=UTF-8]
-(                Resolving DNS queries between VPCs and your network - Amazon Route 53)[https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/resolver.html]
-(            site:docs.microsoft.com dns resolution - Google Search)[https://www.google.com/search?q=site:docs.microsoft.com+dns+resolution&rlz=1C1GCEA_enUS849US849&sxsrf=ALeKk03noPp5v-oWWte00YscgoFcRhXcGA:1619018021984&tbm=isch&source=iu&ictx=1&fir=Rv60zpMInk_-dM%252CeDzLy2z2wQgfCM%252C_&vet=1&usg=AI4_-kRo8H2WCj8314-bOBlufBoDeJv_9g&sa=X&ved=2ahUKEwiI4taQ0I_wAhWOKs0KHRK1DFcQ9QF6BAgKEAE&biw=1854&bih=977#imgrc=cBB_nw5pU-pTDM]
-(                DNS Zones and Records overview - Azure DNS | Microsoft Docs)[https://docs.microsoft.com/en-us/azure/dns/dns-zones-records]
-(    AWS Elastic Load Balancing)[ELB] - Tutorials Dojo)[https://tutorialsdojo.com/aws-elastic-load-balancing-elb/]
-(        AWS Certified Solutions Architect Professional Practice Exam | Udemy)[https://www.udemy.com/course/aws-solutions-architect-professional-practice-exams-amazon/learn/quiz/4473246/result/485972098#overview]
-(        AWS Elastic Load Balancing)[ELB] - Tutorials Dojo)[https://tutorialsdojo.com/aws-elastic-load-balancing-elb/]
-(        aws load balancer at least two subnets must be specified - Google Search)[https://www.google.com/search?q=aws+load+balancer+at+least+two+subnets+must+be+specified&rlz=1C1GCEA_enUS849US849&sxsrf=ALeKk013VbZVOsEubtmnLFhdCnBmJq9JwQ%3A1617547560737&ei=KNFpYLKwLNuttQbGxICgCQ&oq=+aws+load+balancer+sub&gs_lcp=Cgdnd3Mtd2l6EAMYBzICCAAyAggAMgIIADICCAAyAggAMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgQIIxAnOgQIABBDOgUIABCRAjoICAAQsQMQgwE6BQgAELEDOgcIABCxAxBDOgcIABCHAhAUOgQIABANOgYIABAHEB46CAghEBYQHRAeOgUIIRCgAVCyP1icggNggbsDaABwAngAgAF6iAGFFpIBBDI4LjSYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=gws-wiz]
-(            Predefined SSL security policies for Classic Load Balancers - Elastic Load Balancing)[https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/elb-security-policy-table.html]
-(        Network Load Balancers - Elastic Load Balancing)[https://docs.aws.amazon.com/elasticloadbalancing/latest/network/network-load-balancers.html]
-(        Elastic Load Balancing Documentation)[https://docs.aws.amazon.com/elasticloadbalancing/?id=docs_gateway]
-(    Compute -2 ECS
-(        sam-patterns-cli - npm)[https://www.npmjs.com/package/sam-patterns-cli]
-(            bgp - Google Search)[https://www.google.com/search?q=bgp&rlz=1C1GCEA_enUS849US849&oq=bgp+&aqs=chrome..69i57.3186j0j7&sourceid=chrome&ie=UTF-8]
-(                What is Transport Layer Security? | TLS protocol | Cloudflare)[https://www.cloudflare.com/learning/ssl/transport-layer-security-tls/]
-(        Kay Gosho - DEV Community)[https://dev.to/acro5piano]
-(        docker - How to change the owner of VOLUME directory in Dockerfile? - DevOps Stack Exchange)[https://devops.stackexchange.com/questions/4540/how-to-change-the-owner-of-volume-directory-in-dockerfile]
-(        Develop with Docker | Docker Documentation)[https://docs.docker.com/develop/]
-(        Docker Context | Docker Documentation)[https://docs.docker.com/engine/context/working-with-contexts/]
-(        redis)[https://registry.hub.docker.com/_/redis/]
-(        Docker-compose set user and group on mounted volume - Stack Overflow)[https://stackoverflow.com/questions/40462189/docker-compose-set-user-and-group-on-mounted-volume]
-(        aws cloudmap - Google Search)[https://www.google.com/search?q=aws+cloudmap&rlz=1C1GCEA_enUS849US849&oq=aws+cloudmap&aqs=chrome..69i57j69i65.4911j0j7&sourceid=chrome&ie=UTF-8]
-(            AWS Documentation)[https://docs.aws.amazon.com/]
-(                aws cloud map - Google Search)[https://www.google.com/search?q=aws+cloud+map&rlz=1C1GCEA_enUS849US849&sxsrf=ALeKk00H4Ejqn8M-82dF0VOUJ93UsQYDQw:1618585874156&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj1ysSghoPwAhU0ElkFHZo3BWsQ_AUoA3oECAEQBQ&biw=1854&bih=920#imgrc=kw9Chh4_iUJH9M]
-(                    Cloud Map Service Discovery :: Amazon App Mesh Workshop)[https://www.appmeshworkshop.com/servicediscovery/]
-(                    Handling Amazon ECS Service Discovery in Java - Pattern Match)[https://pattern-match.com/blog/ecs-service-discovery-in-java/]
-(        Docker-compose set user and group on mounted volume - Stack Overflow)[https://stackoverflow.com/questions/40462189/docker-compose-set-user-and-group-on-mounted-volume]
-(            Kay Gosho - DEV Community)[https://dev.to/acro5piano]
-(            docker - How to change the owner of VOLUME directory in Dockerfile? - DevOps Stack Exchange)[https://devops.stackexchange.com/questions/4540/how-to-change-the-owner-of-volume-directory-in-dockerfile]
-(                Develop with Docker | Docker Documentation)[https://docs.docker.com/develop/]
-(                    Docker Context | Docker Documentation)[https://docs.docker.com/engine/context/working-with-contexts/]
-(                        redis)[https://registry.hub.docker.com/_/redis/]
-(    James Beswick | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/author/jbeswick/page/3/]
-(        Serverless patterns | Serverless Land)[https://serverlessland.com/patterns]
-(        Alex DeBrie - Serverless & AWS)[https://www.alexdebrie.com/]
-(        serverless-vpc-examples/nat-gateway at master · alexdebrie/serverless-vpc-examples)[https://github.com/alexdebrie/serverless-vpc-examples/tree/master/nat-gateway]
-(        Amazon S3 Features | Object Lambda | AWS)[https://aws.amazon.com/s3/features/object-lambda/]
-(        Jump-starting your serverless development environment | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/jump-starting-your-serverless-development-environment/?sc_channel=sm&sc_campaign=Serverless,DB_Blog&sc_publisher=TWITTER&sc_country=DynamoDB&sc_geo=GLOBAL&sc_outcome=awareness&trk=ddbjumpstartingserverlessdevenv_031721_TWITTER&sc_category=Amazon+DynamoDB&linkId=109519014]
-(        Implementing Canary Deployments of AWS Lambda Functions with Alias Traffic Shifting | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/implementing-canary-deployments-of-aws-lambda-functions-with-alias-traffic-shifting/]
-(        Building well-architected serverless applications: Controlling serverless API access – part 1 | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/building-well-architected-serverless-applications-controlling-serverless-api-access-part-1/]
-(        Building well-architected serverless applications: Controlling serverless API access – part 2 | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/building-well-architected-serverless-applications-controlling-serverless-api-access-part-2/]
-(        Building well-architected serverless applications: Controlling serverless API access – part 3 | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/building-well-architected-serverless-applications-controlling-serverless-api-access-part-3/]
-(        Operating Lambda: Building a solid security foundation – Part 1 | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/operating-lambda-building-a-solid-security-foundation-part-1/]
-(        Operating Lambda: Building a solid security foundation – Part 2 | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/operating-lambda-building-a-solid-security-foundation-part-2/]
-(        Understanding the level of abstraction - AWS Lambda)[https://docs.aws.amazon.com/lambda/latest/operatorguide/level-abstraction.html]
-(        Operating Lambda: Application design and Service Quotas – Part 1 | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/operating-lambda-application-design-and-service-quotas-part-1/]
-(            Artillery.io | Load & Smoke Testing)[https://artillery.io/]
-(            Nordstrom/serverless-artillery: Combine serverless with artillery and you get serverless-artillery for instant, cheap, and easy performance testing at scale.)[https://github.com/Nordstrom/serverless-artillery]
-(            Gatling Open-Source Load Testing – For DevOps and CI/CD)[https://gatling.io/]
-(        Operating Lambda: Understanding event-driven architecture – Part 1 | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/operating-lambda-understanding-event-driven-architecture-part-1/]
-(        Operating Lambda: Design principles in event-driven architectures – Part 2 | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/operating-lambda-design-principles-in-event-driven-architectures-part-2/]
-(            Operating Lambda: Design principles in event-driven architectures – Part 2 | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/operating-lambda-design-principles-in-event-driven-architectures-part-2/]
-(            Operating Lambda: Application design – Scaling and concurrency: Part 2 | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/operating-lambda-application-design-scaling-and-concurrency-part-2/]
-(                Managing AWS Lambda Function Concurrency | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/managing-aws-lambda-function-concurrency/]
-(                Managing concurrency for a Lambda function - AWS Lambda)[https://docs.aws.amazon.com/lambda/latest/dg/configuration-concurrency.html]
-(        Operating Lambda: Anti-patterns in event-driven architectures – Part 3 | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/operating-lambda-anti-patterns-in-event-driven-architectures-part-3/]
-(            Operating Lambda: Application design – Part 3 | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/operating-lambda-application-design-part-3/]
-(                Invoking AWS Lambda functions - AWS Lambda)[https://docs.aws.amazon.com/lambda/latest/dg/lambda-invocation.html]
-(                    Asynchronous invocation - AWS Lambda)[https://docs.aws.amazon.com/lambda/latest/dg/invocation-async.html]
-(                Announcing improved VPC networking for AWS Lambda functions | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/announcing-improved-vpc-networking-for-aws-lambda-functions/]
-(                Introducing AWS Lambda Destinations | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/introducing-aws-lambda-destinations/]
-(        Three ways to use AWS services from a Lambda in a VPC)[https://www.alexdebrie.com/posts/aws-lambda-vpc/]
-(        Optimizing serverless development with samconfig | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/optimizing-serverless-development-with-samconfig/]
-(    Application integration patterns for microservices: Orchestration and coordination | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/application-integration-patterns-for-microservices-orchestration-and-coordination/]
-(        aws-samples/asynchronous-messaging-workshop: The Asynchronous Messaging Workshop is a collection of individual labs covering different aspects and patterns of asynchronous messaging.)[https://github.com/aws-samples/asynchronous-messaging-workshop]
-(        Decoupled Microservices :: Wild Rydes Asynchronous Messaging Workshop)[https://async-messaging.workshop.aws/]
-(        Enterprise Integration Patterns - Pipes and Filters)[https://www.enterpriseintegrationpatterns.com/patterns/messaging/PipesAndFilters.html]
-(        Understanding asynchronous messaging for microservices | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/understanding-asynchronous-messaging-for-microservices/]
-(            Implementing enterprise integration patterns with AWS messaging services: point-to-point channels | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/implementing-enterprise-integration-patterns-with-aws-messaging-services-point-to-point-channels/]
-(            Implementing enterprise integration patterns with AWS messaging services: publish-subscribe channels | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/implementing-enterprise-integration-patterns-with-aws-messaging-services-publish-subscribe-channels/]
-(                Home - Enterprise Integration Patterns)[https://www.enterpriseintegrationpatterns.com/]
-(            Building Scalable Applications and Microservices: Adding Messaging to Your Toolbox | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/building-scalable-applications-and-microservices-adding-messaging-to-your-toolbox/]
-(        Application integration patterns for microservices: Fan-out strategies | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/application-integration-patterns-for-microservices-fan-out-strategies/]
-(        Application integration patterns for microservices: Running distributed RFQs | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/application-integration-patterns-running-distributed-rfqs/]
-(        Using Amazon SQS dead-letter queues to replay messages | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/using-amazon-sqs-dead-letter-queues-to-replay-messages/]
-(        Building event-driven architectures with Amazon SNS FIFO | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/building-event-driven-architectures-with-amazon-sns-fifo/]
-(        Building resilient serverless patterns by combining messaging services | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/building-resilient-no-code-serverless-patterns-by-combining-messaging-services/]
-(        How to Use Amazon EventBridge to Build Decoupled, Event-Driven Architectures | AWS Learning Path)[https://pages.awscloud.com/AWS-Learning-Path-How-to-Use-Amazon-EventBridge-to-Build-Decoupled-Event-Driven-Architectures_2020_LP_0001-SRV.html]
-(            Event-Driven Architecture)[https://aws.amazon.com/event-driven-architecture/]
-(        Introducing Amazon API Gateway service integration for AWS Step Functions | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/introducing-amazon-api-gateway-service-integration-for-aws-step-functions/]
-(            AWS Compute Blog)[https://aws.amazon.com/blogs/compute/]
-(                Configuring private integrations with Amazon API Gateway HTTP APIs | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/configuring-private-integrations-with-amazon-api-gateway-http-apis/]
-(                    Amazon API Gateway concepts - Amazon API Gateway)[https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-basic-concept.html]
-(        Best practices for organizing larger serverless applications | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/best-practices-for-organizing-larger-serverless-applications/]
-(        Introducing cross-Region event routing with Amazon EventBridge | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/introducing-cross-region-event-routing-with-amazon-eventbridge/]
-(    aws cloudfront multiple origins - Google Search)[https://www.google.com/search?q=aws+cloudfront+multiple+origins&rlz=1C1GCEA_enUS849US849&sxsrf=ALeKk00OeAfvDh78VrNJsVxOGL66ORQvxw%3A1617721333278&ei=9XdsYNXHEJe7tQbv_K3QAg&oq=aws+cloudfront+origins&gs_lcp=Cgdnd3Mtd2l6EAMYADIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwA1AAWABg8iloAXACeACAAXGIAXGSAQMwLjGYAQCqAQdnd3Mtd2l6yAEIwAEB&sclient=gws-wiz]
-(        Using Amazon S3 Origins, MediaPackage Channels, and Custom Origins for Web Distributions - Amazon CloudFront)[https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/DownloadDistS3AndCustomOrigins.html#concept_origin_groups]
-(            Optimizing high availability with CloudFront origin failover - Amazon CloudFront)[https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/high_availability_origin_failover.html]
-(                Optimizing high availability with CloudFront origin failover - Amazon CloudFront)[https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/high_availability_origin_failover.html#concept_origin_groups.creating]
-(        server name indentification - Google Search)[https://www.google.com/search?q=server+name+indentification&rlz=1C1GCEA_enUS849US849&oq=server+name+indentification&aqs=chrome..69i57.7523j0j7&sourceid=chrome&ie=UTF-8]
-(            What Is SNI? How TLS Server Name Indication Works | Cloudflare)[https://www.cloudflare.com/learning/ssl/what-is-sni/]
-(    App Integration - API GW, SQS, SNS MQ
-(        A Detailed Overview of AWS API Gateway)[https://www.alexdebrie.com/posts/api-gateway-elements/#key-takeaways-from-step-0-authorization]
-(        Things to Consider When You Build REST APIs with Amazon API Gateway | AWS Architecture Blog)[https://aws.amazon.com/blogs/architecture/things-to-consider-when-you-build-rest-apis-with-amazon-api-gateway/]
-(        The Missing Guide to AWS API Gateway Access Logs)[https://www.alexdebrie.com/posts/api-gateway-access-logs/]
-(        How to Architect APIs for Scale and Security | AWS Architecture Blog)[https://aws.amazon.com/blogs/architecture/how-to-architect-apis-for-scale-and-security/]
-(        How to Design Your Serverless Apps for Massive Scale | AWS Architecture Blog)[https://aws.amazon.com/blogs/architecture/how-to-design-your-serverless-apps-for-massive-scale/]
-(        aws appsync vs apigateway - Google Search)[https://www.google.com/search?q=aws+appsync+vs+apigateway&rlz=1C1GCEA_enUS849US849&oq=aws+appsync+vs+apigateway&aqs=chrome..69i57.10412j0j7&sourceid=chrome&ie=UTF-8]
-(        Real-Time Data - AWS AppSync)[https://docs.aws.amazon.com/appsync/latest/devguide/aws-appsync-real-time-data.html]
-(    Deployment and Patching - Infras, App
-(        Quick start)[https://terragrunt.gruntwork.io/docs/getting-started/quick-start/#keep-your-backend-configuration-dry]
-(        Enhancing the Terraform Experience: Why we use Terragrunt)[https://transcend.io/blog/why-we-use-terragrunt]
-(        Terraform dynamic block creates 5 resources for one input : Terraform)[https://www.reddit.com/r/Terraform/comments/m3n0qv/terraform_dynamic_block_creates_5_resources_for/]
-(        aws-cdk-examples/app.py at master · aws-samples/aws-cdk-examples)[https://github.com/aws-samples/aws-cdk-examples/blob/master/python/ec2/instance/app.py]
-(        Building an image searching solution with the AWS CDK | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/building-an-image-searching-solution-with-the-aws-cdk/]
-(        aws cdk - How to add a tag to an AWS-CDK construct - Stack Overflow)[https://stackoverflow.com/questions/54990414/how-to-add-a-tag-to-an-aws-cdk-construct]
-(        class Instance)[construct] · AWS CDK)[https://docs.aws.amazon.com/cdk/api/latest/docs/@aws-cdk_aws-ec2.Instance.html#instancetype]
-(        API reference - AWS Cloud Development Kit)[AWS CDK])[https://docs.aws.amazon.com/cdk/latest/guide/reference.html]
-(        cdk.py - aws-samples/aws-cdk-examples - GitHub1s)[https://github1s.com/aws-samples/aws-cdk-examples/blob/master/python/image-content-search/stack/cdk.py]
-(        How and Why to Use CloudFormation Macros)[https://www.alexdebrie.com/posts/cloudformation-macros/]
-(        AWS::Serverless transform - AWS CloudFormation)[https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/transform-aws-serverless.html]
-(        aws-cloudformation/awesome-cloudformation: A curated list of resources and projects for working with AWS CloudFormation.)[https://github.com/aws-cloudformation/awesome-cloudformation]
-(            aws-cloudformation/awesome-cloudformation: A curated list of resources and projects for working with AWS CloudFormation.)[https://github.com/aws-cloudformation/awesome-cloudformation#3rd-parties]
-(                aws-cloudformation-samples/modules/VpcWizard at main · aws-cloudformation/aws-cloudformation-samples)[https://github.com/aws-cloudformation/aws-cloudformation-samples/tree/main/modules/VpcWizard]
-(                    Introducing AWS CloudFormation modules | AWS Management & Governance Blog)[https://aws.amazon.com/blogs/mt/introducing-aws-cloudformation-modules/]
-(                        cloudformation stack vs module - Google Search)[https://www.google.com/search?q=cloudformation+stack+vs+module&rlz=1C1GCEA_enUS849US849&oq=cloudformation+stack+vs+module&aqs=chrome..69i57.6308j0j7&sourceid=chrome&ie=UTF-8]
-(                            The Definitive Guide to Terraform vs. CloudFormation | Toptal)[https://www.toptal.com/terraform/terraform-vs-cloudformation]
-(                            AWS CloudFormation vs. Terraform: Which One Should You Choose?)[https://www.missioncloud.com/blog/aws-cloudformation-vs-terraform-which-one-should-you-choose]
-(            aws-cloudformation/aws-cfn-lint-visual-studio-code: CloudFormation Linter IDE integration, autocompletion, and documentation)[https://github.com/aws-cloudformation/aws-cfn-lint-visual-studio-code]
-(            AWS CloudFormation resource specification - AWS CloudFormation)[https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-resource-specification.html]
-(            jeshan/scale-your-cloudformation: Success tactics for getting more out of Infrastructure as Code on AWS)[https://github.com/jeshan/scale-your-cloudformation]
-(                CloudFormation’s shortcomings)[and how to deal with them])[https://scaleyourcloudformation.com/#/shortcomings]
-(                    Custom resource request objects - AWS CloudFormation)[https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/crpg-ref-requests.html]
-(            aws-cloudformation/awesome-cloudformation: A curated list of resources and projects for working with AWS CloudFormation.)[https://github.com/aws-cloudformation/awesome-cloudformation#reference-guides]
-(            aws-cloudformation-templates/VPC_EC2_Instance_With_Multiple_Static_IPAddresses.yaml at master · awslabs/aws-cloudformation-templates)[https://github.com/awslabs/aws-cloudformation-templates/blob/master/aws/services/VPC/VPC_EC2_Instance_With_Multiple_Static_IPAddresses.yaml]
-(    AWS CloudTrail - Tutorials Dojo)[https://tutorialsdojo.com/aws-cloudtrail/]
-(    Introducing AWS CloudShell)[https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-cloudshell/]
-(        Limits and restrictions for AWS CloudShell - AWS CloudShell)[https://docs.aws.amazon.com/cloudshell/latest/userguide/limits.html]
-(        Understanding DevOps SRE SysAdministrators - Tagalong.Page)[https://tagalong.page/post/understanding-devops-sre-sysadministrators/]
-(    Using self-hosted Apache Kafka as an event source for AWS Lambda | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/using-self-hosted-apache-kafka-as-an-event-source-for-aws-lambda/]
-(    2021/Feb
-(        aws cost analysis using athena - Google Search)[https://www.google.com/search?q=aws+cost+analysis+using+athena&rlz=1C1GCEA_enUS849US849&oq=aws+cost+analysis+using+athena&aqs=chrome..69i57.8672j0j7&sourceid=chrome&ie=UTF-8]
-(            Amazon Athena | AWS Cost Management)[https://aws.amazon.com/blogs/aws-cost-management/category/analytics/amazon-athena/]
-(                Cost Allocation Blog Series #1: Cost Allocation Basics That You Need to Know | AWS Cost Management)[https://aws.amazon.com/blogs/aws-cost-management/cost-allocation-basics-that-you-need-to-know/]
-(                    Cost Allocation Blog Series #2: AWS-Generated vs. User-Defined Cost Allocation Tag | AWS Cost Management)[https://aws.amazon.com/blogs/aws-cost-management/cost-allocation-blog-series-2-aws-generated-vs-user-defined-cost-allocation-tag/]
-(                    Cost Allocation Blog Series #3: Enforce and Validate AWS Resource Tags | AWS Cost Management)[https://aws.amazon.com/blogs/aws-cost-management/cost-allocation-blog-series-3-enforce-and-validate-aws-resource-tags/]
-(                    Cost Allocation Blog Series #4: Visualize Data Transfer Costs with Cost and Usage Reports, Athena, and QuickSight | AWS Cost Management)[https://aws.amazon.com/blogs/aws-cost-management/cost-allocation-blog-series-4-visualize-data-transfer-costs-with-cost-and-usage-reports-athena-and-quicksight/]
-(                        AWS CloudFormation | AWS Cost Management)[https://aws.amazon.com/blogs/aws-cost-management/category/management-tools/aws-cloudformation/]
-(                            Cost Control Blog Series #2: Automate Cost Control using AWS Service Catalog and AWS Budgets | AWS Cost Management)[https://aws.amazon.com/blogs/aws-cost-management/cost-control-blog-series-2-automate-cost-control-using-aws-service-catalog-aws-budgets/]
-(                                Using service-linked roles - AWS Identity and Access Management)[https://docs.aws.amazon.com/IAM/latest/UserGuide/using-service-linked-roles.html]
-(                                Cost Control Blog Series #1: Good intentions don’t work, but cost control mechanisms do! | AWS Cost Management)[https://aws.amazon.com/blogs/aws-cost-management/good-intentions-dont-work-but-cost-control-mechanisms-do/]
-(                                    horizontal line - Google Search)[https://www.google.com/search?q=horizontal+line&rlz=1C1GCEA_enUS849US849&oq=horizontal+line&aqs=chrome..69i57j69i60l2j69i61.6211j0j7&sourceid=chrome&ie=UTF-8]
-(            Querying your AWS Cost and Usage Report using Amazon Athena | AWS Cost Management)[https://aws.amazon.com/blogs/aws-cost-management/querying-your-aws-cost-and-usage-report-using-amazon-athena/]
-(       )[AMER] Learn and be curious: On-demand library - AWS Sales Kick-Off 2021)[https://sko21.virtual.awsevents.com/media/t/1_2bzrxaae]
-(            2021_SKO_Internal_Agenda.jpg)[4000×2250])[https://share.amazon.com/sites/VKO21CFT/SiteAssets/2021_SKO_Internal_Agenda.jpg?nc2=sko21_m_b_ag]
-(            General
-(                20+ tools you didn't realize exist - AWS Sales Kick-Off 2021)[https://sko21.virtual.awsevents.com/media/t/1_wbz9lpz0/194249123]
-(            App Architecture
-(                App Design
-(                    Orchestration tips and tricks using AWS Step Functions - AWS Sales Kick-Off 2021)[https://sko21.virtual.awsevents.com/media/t/1_pmej1j0t/194249123]
-(                    Amazon EventBridge multi-account design patterns - AWS Sales Kick-Off 2021)[https://sko21.virtual.awsevents.com/media/t/1_pxbcvud3/194249123]
-(                Serverless
-(                    State of the nation: Serverless - AWS Sales Kick-Off 2021)[https://sko21.virtual.awsevents.com/media/t/1_3e1wm2v3/194249123]
-(                    Top best practices and tips for building serverless applications - AWS Sales Kick-Off 2021)[https://sko21.virtual.awsevents.com/media/t/1_5ncwhdmc/194249123]
-(                    Choosing your Serverless framework and deployment toolchain - AWS Sales Kick-Off 2021)[https://sko21.virtual.awsevents.com/media/t/1_ouu0zkpe/194249123]
-(                Containers
-(                    State of the nation: Containers - AWS Sales Kick-Off 2021)[https://sko21.virtual.awsevents.com/media/t/1_hp7cgrma/194249123]
-(            Infra Architecture
-(                AWS Control Tower based landing zones - AWS Sales Kick-Off 2021)[https://sko21.virtual.awsevents.com/media/t/1_fj4ngq46/194249123]
-(                AWS Perspective - Visualize your AWS workloads - AWS Sales Kick-Off 2021)[https://sko21.virtual.awsevents.com/media/t/1_4clnvgaj/194249123]
-(        2021/Feb/15 - Reinvent 2021 Level Up Assessment
-(            Feb/14
-(                Learn and Be Curious!)[https://amazonwebservices.mindtickle.com/?_branch_match_id=748228367006007679#/update/1297965894861548202?series=1242568502164233107]
-(                    Amazon Neptune ML - Google Search)[https://www.google.com/search?q=Amazon+Neptune+ML&rlz=1C1GCEA_enUS849US849&oq=Amazon+Neptune+ML&aqs=chrome..69i57j69i64&sourceid=chrome&ie=UTF-8]
-(                        aws nepture predications - Google Search)[https://www.google.com/search?q=aws+nepture+predications&rlz=1C1GCEA_enUS849US849&oq=aws+nepture+predications&aqs=chrome..69i57.5361j0j4&sourceid=chrome&ie=UTF-8]
-(                            amazon neptune ML type of predictions - Google Search)[https://www.google.com/search?q=amazon+neptune+ML+type+of+predictions&rlz=1C1GCEA_enUS849US849&oq=amazon+neptune+ML+type+of+predictions&aqs=chrome..69i57j69i64.6091j0j4&sourceid=chrome&ie=UTF-8]
-(                                Using Amazon Neptune ML for machine learning on graphs - Amazon Neptune)[https://docs.aws.amazon.com/neptune/latest/userguide/machine-learning.html]
-(                    Multi-Destination Replication - Google Search)[https://www.google.com/search?q=Multi-Destination+Replication&rlz=1C1GCEA_enUS849US849&oq=Multi-Destination+Replication&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8]
-(                        Amazon S3 Replication adds support for multiple destinations in the same, or different AWS Regions)[https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-s3-replication-adds-support-for-multiple-destinations-in-the-same-or-different-aws-regions/]
-(                    amplify admin ui data model - Google Search)[https://www.google.com/search?rlz=1C1GCEA_enUS849US849&sxsrf=ALeKk01raPKebMmSUB5n1nqz0WkhTMu_gg%3A1613365434771&ei=ugAqYO7CLsWp5NoPp_C76AM&q=amplify+admin+ui+data+model&oq=Amplify+Admin+UI+da&gs_lcp=Cgdnd3Mtd2l6EAMYADICCAAyAggAOgcIIxCwAxAnOgcIABBHELADUKETWPsWYMkhaAFwAngAgAGHAogB1gWSAQUxLjEuMpgBAKABAaoBB2d3cy13aXrIAQnAAQE&sclient=gws-wiz]
-(                        AWS Amplify announces new Admin UI)[https://aws.amazon.com/about-aws/whats-new/2020/12/aws-amplify-announces-new-admin-ui/]
-(                    Amplify Admin UI - Google Search)[https://www.google.com/search?q=Amplify+Admin+UI&rlz=1C1GCEA_enUS849US849&oq=Amplify+Admin+UI&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8]
-(                        Getting started - Amplify Docs)[https://docs.amplify.aws/start]
-(                    TechnicalMessagingDoc.pdf)[file:///C:/Users/shakkat/Downloads/TechnicalMessagingDoc.pdf]
-(                    aws iot greengrass 2.0 edge logic - Google Search)[https://www.google.com/search?rlz=1C1GCEA_enUS849US849&biw=1623&bih=840&sxsrf=ALeKk013bmdel7BDRgqMU3ONZe4OctfgLw%3A1613363214253&ei=DvgpYLHyDoWo5NoPxKy72Ak&q=aws+iot+greengrass+2.0+edge+logic&oq=AWS+IoT+Greengrass+2.0&gs_lcp=Cgdnd3Mtd2l6EAMYATICCAAyBwgAEIcCEBQyAggAMgcIABCHAhAUMgIIADICCAAyAggAMgUIABCGA1DV8wRY1fMEYNK8BWgAcAJ4AIABkQKIAfgDkgEDMi0ymAEAoAECoAEBqgEHZ3dzLXdpesABAQ&sclient=gws-wiz]
-(                        Announcing AWS IoT Greengrass 2.0 – With an Open Source Edge Runtime and New Developer Capabilities | AWS News Blog)[https://aws.amazon.com/blogs/aws/announcing-aws-iot-greengrass-2-0-with-an-open-source-edge-runtime-and-new-developer-capabilities/]
-(                        Amazon SageMaker Edge Manager – Model Management for Edge Devices - Amazon Web Services)[https://aws.amazon.com/sagemaker/edge-manager/]
-(                        AWS Announces Amazon SageMaker Edge Manager)[https://www.infoq.com/news/2020/12/amazon-sagemaker-edge-manager/]
-(                        site aws.amazon.com devops guru data sources - Google Search)[https://www.google.com/search?rlz=1C1GCEA_enUS849US849&sxsrf=ALeKk00sn7AcLBKCONxDpthzHu8nIaRlXQ%3A1613362462192&ei=HvUpYOGLC9er5NoPue2koA4&q=site+aws.amazon.com+devops+guru+data+sources&oq=site+aws.amazon.com+devops+guru+data+sources&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKsCMgUIIRCrAjoECCMQJzoECAAQQzoFCAAQkQI6CwguELEDEMcBEKMCOggILhCxAxCDAToFCAAQsQM6AgguOgcIABCHAhAUOgQILhBDOgcIABDJAxBDOgIIADoKCAAQhwIQsQMQFDoGCAAQFhAeOggIIRAWEB0QHjoFCCEQoAE6BwghEAoQoAFQqCFY1JMBYMCVAWgAcAJ4AYABigKIAecbkgEHMTMuMTYuMpgBAKABAaABAqoBB2d3cy13aXrAAQE&sclient=gws-wiz&ved=0ahUKEwjhks_Dg-vuAhXXFVkFHbk2CeQQ4dUDCA0&uact=5]
-(                            High level DevOps Guru workflow - Amazon DevOps Guru)[https://docs.aws.amazon.com/devops-guru/latest/userguide/high-level-workflow.html]
-(                            Internet of Things | AWS News Blog)[https://aws.amazon.com/blogs/aws/category/internet-of-things/]
-(                            How VPC Reachability Analyzer works - Amazon Virtual Private Cloud)[https://docs.aws.amazon.com/vpc/latest/reachability/how-reachability-analyzer-works.html]
-(                            Introducing AWS Systems Manager Change Manager)[https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-systems-manager-change-manager/]
-(                            Amazon Monitron FAQs - Amazon Web Services)[https://aws.amazon.com/monitron/faqs/]
-(                            Object Storage Classes – Amazon S3)[https://aws.amazon.com/s3/storage-classes/]
-(                            Using Amazon S3 storage classes - Amazon Simple Storage Service)[https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html]
-(                            Introducing Amazon EC2 M5zn instances, with high frequency processors and 100 Gbps networking)[https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-m5zn-instances/]
-(        2021/Feb/16 - James Beswick - Started from Twitter 
-(            Use tags to manage and secure access to additional types of IAM resources | AWS Security Blog)[https://aws.amazon.com/blogs/security/use-tags-to-manage-and-secure-access-to-additional-types-of-iam-resources/?sc_channel=sm&sc_campaign=AWSSecurity_Misc&sc_publisher=TWITTER&sc_country=Security&sc_geo=GLOBAL&sc_outcome=awareness&trk=AWSSecurity_Blog_TWITTER&linkId=111280818]
-(    2021/Mar
-(        Windows 10 - release information | Microsoft Docs)[https://docs.microsoft.com/en-us/windows/release-health/release-information]
-(        Mar18-Tech
-(            Actions, resources, and condition keys for AWS Billing - Service Authorization Reference)[https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsbilling.html]
-(        Mar/21/Tech
-(            Window Manager)[chrome-extension://aadahadfdmiibmdhfmpbeeebejmjnkef/manager.html]
-(            Introducing Amazon QuickSight Q: ask questions about your data and get answers in seconds)[https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-quicksight-q/]
-(            Introducing Amazon Comprehend Medical: A natural language processing service for medical text)[https://aws.amazon.com/about-aws/whats-new/2018/11/introducing-amazon-comprehend-medical/]
-(            Amazon Lookout for Equipment - Amazon Web Services)[https://aws.amazon.com/lookout-for-equipment/]
-(            Amazon Redshift | Redshift ML - Amazon Web Services)[https://aws.amazon.com/redshift/features/redshift-ml/]
-(            Amazon Monitron FAQs - Amazon Web Services)[https://aws.amazon.com/monitron/faqs/]
-(            Harness the power of your data with AWS Analytics | AWS Big Data Blog)[https://aws.amazon.com/blogs/big-data/harness-the-power-of-your-data-with-aws-analytics/]
-(            Amazon Lookout for Metrics FAQ - Amazon Web Services)[https://aws.amazon.com/lookout-for-metrics/faqs/]
-(    Tech Fundas & Reference List
-(        vinta/awesome-python: A curated list of awesome Python frameworks, libraries, software and resources)[https://github.com/vinta/awesome-python#serverless-frameworks]
-(        Get started using VS Code with WSL | Microsoft Docs)[https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-vscode]
-(        How to run multiple shells on Emacs - Stack Overflow)[https://stackoverflow.com/questions/6532998/how-to-run-multiple-shells-on-emacs]
-(       )[1] AWS IP Address Lookup - Enter an IP address to see the region information : aws)[https://www.reddit.com/r/aws/comments/e0zz8n/aws_ip_address_lookup_enter_an_ip_address_to_see/]
-(        tcp 3 way handshake - Google Search)[https://www.google.com/search?q=tcp+3+way+handshake&rlz=1C1GCEA_enUS849US849&oq=tcp+3+way+handshake&aqs=chrome..69i57.6107j0j7&sourceid=chrome&ie=UTF-8]
-(        The TCP/IP Guide - TCP Connection Establishment Process: The "Three-Way Handshake")[http://www.tcpipguide.com/free/t_TCPConnectionEstablishmentProcessTheThreeWayHandsh-3.htm]
-(        TCP 3-Way Handshake Process - GeeksforGeeks)[https://www.geeksforgeeks.org/tcp-3-way-handshake-process/]
-(            tls negotiation - Google Search)[https://www.google.com/search?q=tls+negotiation&rlz=1C1GCEA_enUS849US849&oq=tls+negotiation&aqs=chrome..69i57.6886j0j7&sourceid=chrome&ie=UTF-8]
-(                What is an SSL certificate? | How to get a free SSL certificate | Cloudflare)[https://www.cloudflare.com/learning/ssl/what-is-an-ssl-certificate/]
-(        Tutorials)[https://www.javacodegeeks.com/tutorials]
-(        Spring Dependency Injection - Field vs Setter vs Constructor Injection | amitph)[https://www.amitph.com/spring-field-setter-constructor-injection/]
-(        Spring Tutorials | amitph)[https://www.amitph.com/spring/]
-(        Spring @Autowired Guide | amitph)[https://www.amitph.com/spring-autowired-guide/]
-(    Installing, updating, and uninstalling the AWS CLI version 2 on Windows - AWS Command Line Interface)[https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-windows.html#cliv2-windows-install]
-(        aws-cli/CHANGELOG.rst at v2 · aws/aws-cli)[https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst]
-(    New in IAM: Quickly Identify When an Access Key Was Last Used | AWS Security Blog)[https://aws.amazon.com/blogs/security/new-in-iam-quickly-identify-when-an-access-key-was-last-used/?sc_channel=sm&sc_campaign=AWSSecurity_Identity&sc_publisher=TWITTER&sc_country=Identity&sc_geo=GLOBAL&sc_outcome=awareness&trk=AWSSecurity_Identity_TWITTER&sc_category=AWS+Identity+and+Access+Management,AWS+Identity+and+Access+Management+(IAM]&linkId=117776085]
-(        Understanding and getting your AWS credentials - AWS General Reference)[https://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html]
-(    cap theorem - Google Search)[https://www.google.com/search?q=cap+theorem&rlz=1C1GCEA_enUS849US849&sxsrf=ALeKk0026nWnBRRrSl-3Iu4Swo01WnP-bQ:1620706007840&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjFmoev4MDwAhWIPM0KHd1vAOkQ_AUoAnoECAEQBA&biw=1845&bih=977#imgrc=qb7i5PjCMI-CFM]
-(        consistency - NoSQL: What does it mean for MongoDB or BigTable to not always be "Available" - Stack Overflow)[https://stackoverflow.com/questions/7339374/nosql-what-does-it-mean-for-mongodb-or-bigtable-to-not-always-be-available]
-(            what is virutal function in c++ - Google Search)[https://www.google.com/search?q=what+is+virutal+function+in+c%2B%2B&rlz=1C1GCEA_enUS849US849&oq=what+is+virutal+function+in+c%2B%2B&aqs=chrome..69i57.5456j0j7&sourceid=chrome&ie=UTF-8]
-(    Getting started with serverless for developers: Part 1 | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/getting-started-with-serverless-for-developers-part-1/]
-(        Getting started with serverless for developers: Part 2 – The business logic | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/getting-started-with-serverless-for-developers-part-2-the-business-logic/]
-(        Getting started with serverless for developers: Part 3 – The front door | AWS Compute Blog)[https://aws.amazon.com/blogs/compute/getting-started-with-serverless-for-developers-part-3-the-front-door/?nc1=b_rp]
-(        Managing Asynchronous Workflows with a REST API | AWS Architecture Blog)[https://aws.amazon.com/blogs/architecture/managing-asynchronous-workflows-with-a-rest-api/?nc1=b_rp]
-(    ### 
-(    ### 
-(
+AWS/Arch
+- General Architecture 
+   - [Decomposing the Monolith with Event Storming | by Andrew Bonham | Capital One Tech | Medium](https://medium.com/capital-one-tech/event-storming-decomposing-the-monolith-to-kick-start-your-microservice-architecture-acb8695a6e61)
+-[12 Factor Design Methodology and Cloud-Native Applications - Cuelogic Technologies Pvt. Ltd.](https://www.cuelogic.com/blog/12-factor-design-methodology-and-cloud-native-applications)
+- [example aws route53 private zone records - Google Search](https://www.google.com/search?q=example+aws+route53+private+zone+records&rlz=1C1GCEA_enUS849US849&oq=example+aws+route53+private+zone+records&aqs=chrome..69i57.16751j0j7&sourceid=chrome&ie=UTF-8)
+- [example aws route53 private zone records - Google Search](https://www.google.com/search?q=example+aws+route53+private+zone+records&rlz=1C1GCEA_enUS849US849&oq=example+aws+route53+private+zone+records&aqs=chrome..69i57.16751j0j7&sourceid=chrome&ie=UTF-8)
+- [How to setup Service Discovery in Amazon Elastic Container Service | by Nathan Peck | Containers on AWS | Medium](https://medium.com/containers-on-aws/how-to-setup-service-discovery-in-elastic-container-service-3d18479959e6)
+- [consul server vs aws cloudmap - Google Search](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1062%2F1*SfoJmeVqqp1xMGEN4iwItg.png&imgrefurl=https%3A%2F%2Fmedium.com%2Fcontainers-on-aws%2Fhow-to-setup-service-discovery-in-elastic-container-service-3d18479959e6&tbnid=IGUq0ByI-xDsLM&vet=12ahUKEwiX4qaTn4PwAhXQG98KHdb0DNQQMygTegUIARDLAQ..i&docid=BnHoNqKV6-WmNM&w=1062&h=560&q=consul%20server%20vs%20aws%20cloudmap&ved=2ahUKEwiX4qaTn4PwAhXQG98KHdb0DNQQMygTegUIARDLAQ)
+- [AWS Workshops](https://workshops.aws/card/route%2053)
+- [Awesome AWS Workshops - Build On! - Awesome AWS Workshops](https://awesome-aws-workshops.com/#network)
+- [aws workshop - Google Search](https://www.google.com/search?q=aws+workshop&rlz=1C1GCEA_enUS849US849&sxsrf=ALeKk01tPo_fV-fSqWej_z9e0M9edgE_QQ:1618595431299&ei=Z855YKm_EdWi5NoPzLeH0AQ&start=0&sa=N&ved=2ahUKEwjpjt7tqYPwAhVVEVkFHczbAUo4FBDy0wN6BAgBEDk&biw=1854&bih=920)
+- [aws workshop - Google Search](https://www.google.com/search?q=aws+workshop&rlz=1C1GCEA_enUS849US849&sxsrf=ALeKk02youqQC5UXscKY9qnCcfD6u6FTiA:1618595978348&ei=itB5YKbMFP-i5NoPzMqO4Ac&start=10&sa=N&ved=2ahUKEwimucvyq4PwAhV_EVkFHUylA3wQ8tMDegQIAhA6&biw=1854&bih=920)
+- [aws workshop - Google Search](https://www.google.com/search?q=aws+workshop&rlz=1C1GCEA_enUS849US849&sxsrf=ALeKk000nTHGy-1YtT-XptG23NYWF89A4Q:1618595995252&ei=m9B5YKjLDt6j5NoPh6uuEA&start=20&sa=N&ved=2ahUKEwjohNP6q4PwAhXeEVkFHYeVCwI4ChDy0wN6BAgBEDw&biw=1854&bih=920)
+- [consul server vs aws cloudmap - Google Search](https://www.google.com/search?q=consul+server+vs+aws+cloudmap&tbm=isch&ved=2ahUKEwibu5eonoPwAhWRNd8KHdvbCa4Q2-cCegQIABAA&oq=consul+server+vs+aws+cloudmap&gs_lcp=CgNpbWcQAzoECAAQQzoICAAQsQMQgwE6BQgAELEDOgIIADoHCAAQsQMQQzoGCAAQCBAeOgQIABAeOgYIABAFEB46BAgAEBhQgYgNWLfGDWDlyA1oBXAAeAGAAZAHiAHYK5IBCjIzLjcuMS42LTOYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=TMJ5YJvlJpHr_Abbt6fwCg&bih=920&biw=1854&rlz=1C1GCEA_enUS849US849#imgrc=xX4pyUPzcEneDM)
+- [AWS Identity and Access Management](IAM] | AWS Security Blog](https://aws.amazon.com/blogs/security/category/security-identity-compliance/aws-identity-and-access-management-iam/page/4/)
+- [what is inside ssl certificate? - Google Search](https://www.google.com/search?q=what+is+inside+ssl+certificate%3F&rlz=1C1GCEA_enUS849US849&oq=what+is+inside+ssl+certificate%3F&aqs=chrome..69i57.7399j0j7&sourceid=chrome&ie=UTF-8)
+- [Types of SSL Certificates | Choose the Right SSL Certificate Type Now!](https://sectigostore.com/page/ssl-types/)
+- [Public key certificate - Wikipedia](https://en.wikipedia.org/wiki/Public_key_certificate)
+- [Understand IAM PassRole to Secure your AWS Infrastructure - CloudKatha](https://cloudkatha.com/understand-iam-passrole-to-secure-your-aws-infrastructure/)
+- [Use new account assignment APIs for AWS SSO to automate multi-account access | AWS Security Blog](https://aws.amazon.com/blogs/security/use-new-account-assignment-apis-for-aws-sso-to-automate-multi-account-access/)
+- [AWS Single Sign-On FAQs – Amazon Web Services](AWS]](https://aws.amazon.com/single-sign-on/faqs/)
+- [Approaches for authenticating external applications in a machine-to-machine scenario | AWS Security Blog](https://aws.amazon.com/blogs/security/approaches-for-authenticating-external-applications-in-a-machine-to-machine-scenario/)
+- [Examples of the complete Signature Version 4 signing process](Python] - AWS General Reference](https://docs.aws.amazon.com/general/latest/gr/sigv4-signed-request-examples.html)
+- [Application compatibility policy for AD Connector - AWS Directory Service](https://docs.aws.amazon.com/directoryservice/latest/admin-guide/ad_connector_app_compatibility.html)
+- [Application compatibility policy for AWS Managed Microsoft AD - AWS Directory Service](https://docs.aws.amazon.com/directoryservice/latest/admin-guide/ms_ad_app_compatibility.html)
+- [Robert Broeckelmann – Medium](https://medium.com/@robert.broeckelmann)
+- [How to delegate management of identity in AWS Single Sign-On | AWS Security Blog](https://aws.amazon.com/blogs/security/how-to-delegate-management-of-identity-in-aws-single-sign-on/)
+- [OAuth 2.0](https://swagger.io/docs/specification/authentication/oauth2/)
+- [oauth flow between mobile client and server - Google Search](https://www.google.com/search?q=oauth+flow+between+mobile+client+and+server&rlz=1C1GCEA_enUS849US849&sxsrf=ALeKk00_hqa8JrLorcBBPEdE0_PRjYnPiQ:1612544602497&ei=WnodYIHuHeSP9PwP4ZulCA&start=10&sa=N&ved=2ahUKEwiBg93hnNPuAhXkB50JHeFNCQEQ8tMDegQIDxA3&biw=1687&bih=836)
+- [OAuth 2 Simplified • Aaron Parecki](https://aaronparecki.com/oauth-2-simplified/)
+- [Microsoft identity platform authentication flows & app scenarios | Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/develop/authentication-flows-app-scenarios#scenarios-and-supported-authentication-flows)
+- [Microsoft identity platform and OAuth 2.0 authorization code flow - Microsoft identity platform | Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-auth-code-flow)
+- [Microsoft identity platform and OpenID Connect protocol - Microsoft identity platform | Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-protocols-oidc#protocol-diagram-access-token-acquisition)
+- [RFC 6749 - The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749#page-8)
+- [Security tokens - Microsoft identity platform | Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/develop/security-tokens)
+- [JSON Web Token Introduction - jwt.io](https://jwt.io/introduction)
+- [Overview: Kong’s OpenID Connect API Gateway Plugin - KongHQ](https://konghq.com/blog/openid-connect-api-gateway?utm_source=twitter&utm_medium=social&utm_campaign=community)
+- [Overview | Okta Developer](https://developer.okta.com/docs/guides/refresh-tokens/overview/)
+- [Field Notes: Working with Route Tables in AWS Transit Gateway | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/field-notes-working-with-route-tables-in-aws-transit-gateway/)
+- [A DevOps Guide to AWS Transit Gateway](https://mechanicalrock.github.io/2020/02/24/transit-gateway.html)
+- [How transit gateways work - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/tgw/how-transit-gateways-work.html)
+- [site:aws.amazon.com vpc route53 dns resolver - Google Search](https://www.google.com/search?q=site%3Aaws.amazon.com+vpc+route53+dns+resolver&rlz=1C1GCEA_enUS849US849&sxsrf=ALeKk02TduaE6JAVxDCds7EXEbL8lLF4-g%3A1617465815550&ei=15FoYNyPIZu3tAaBv4yoDw&oq=site%3Aaws.amazon.com+vpc+route53+dns+resolver&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsAM6BwgjEOoCECc6BAgjECc6BQgAEJECOgUIABCxAzoICAAQsQMQgwE6CwguELEDEMcBEKMCOgoILhCxAxCDARBDOgQIABBDOgoIABCxAxCDARBDOgQILhBDOgsILhCxAxDHARCvAToICC4QxwEQrwE6BQguELEDOgcIABCxAxBDOgIILjoCCAA6CAguELEDEIMBOg4ILhCxAxCDARDHARCjAlDi5A9YqqIRYJGjEWgOcAJ4AIABfYgBtBOSAQQzNi4ymAEAoAEBqgEHZ3dzLXdperABCsgBCMABAQ&sclient=gws-wiz&ved=0ahUKEwic1_zaueLvAhWbG80KHYEfA_UQ4dUDCA0&uact=5)
+- [AWS Networking](https://www.bogotobogo.com/DevOps/AWS/aws-Networking.php)
+- [AWS Amazon Route 53 - DNS](Domain Name Server] setup - 2020](https://www.bogotobogo.com/DevOps/AWS/aws-Route53-DNS-Domain-Name-Server-Setup.php)
+- [A Quick Overview of the Top Seven DNS Record Types](https://www.farsightsecurity.com/blog/txt-record/dnsrecords-20171201/)
+- [amazon .com root name servers - Google Search](https://www.google.com/search?q=amazon+.com+root+name+servers&rlz=1C1GCEA_enUS849US849&oq=amazon+.com+root+name+servers&aqs=chrome..69i57j69i64l2.9575j0j7&sourceid=chrome&ie=UTF-8)
+- [.com dns name servers - Google Search](https://www.google.com/search?q=.com+dns+name+servers&rlz=1C1GCEA_enUS849US849&oq=.com+dns+name+servers&aqs=chrome..69i57.6350j0j4&sourceid=chrome&ie=UTF-8)
+- [How Does DNS Work, What Are Name Servers, and What DNS Types Do You Need to Know for Your Website? | Bluehost Resource Center](https://www.bluehost.com/resources/how-does-dns-work-what-are-name-servers-and-what-dns-types-do-you-need-to-know-for-your-website/)
+- [Root name server - Wikipedia](https://en.wikipedia.org/wiki/Root_name_server#Root_zone_file)
+- [How domain registration works - Amazon Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/welcome-domain-registration.html)
+- [How internet traffic is routed to your website or web application - Amazon Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/welcome-dns-service.html)
+- [Choosing between alias and non-alias records - Amazon Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/resource-record-sets-choosing-alias-non-alias.html)
+- [Using DNS with your VPC - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-dns.html)
+- [DHCP options sets - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_DHCP_Options.html)
+- [aws vpc resolver route 53 resolver - Google Search](https://www.google.com/search?q=aws+vpc+resolver+route+53+resolver&rlz=1C1GCEA_enUS849US849&oq=aws+vpc+resolver+route+53+resolver&aqs=chrome..69i57j69i60.12047j0j7&sourceid=chrome&ie=UTF-8)
+- [Amazon Route 53 Resolver Now Supports VPC DNS Query Logging](https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-route-53-resolver-supports-vpc-dns-query-logging/)
+- [aws dns outbound endpoint - Google Search](https://www.google.com/search?q=aws+dns+outbound+endpoint&rlz=1C1GCEA_enUS849US849&oq=aws+dns+outbound+endpoint&aqs=chrome..69i57.17376j0j7&sourceid=chrome&ie=UTF-8)
+- [Resolving DNS queries between VPCs and your network - Amazon Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/resolver.html)
+- [site:docs.microsoft.com dns resolution - Google Search](https://www.google.com/search?q=site:docs.microsoft.com+dns+resolution&rlz=1C1GCEA_enUS849US849&sxsrf=ALeKk03noPp5v-oWWte00YscgoFcRhXcGA:1619018021984&tbm=isch&source=iu&ictx=1&fir=Rv60zpMInk_-dM%252CeDzLy2z2wQgfCM%252C_&vet=1&usg=AI4_-kRo8H2WCj8314-bOBlufBoDeJv_9g&sa=X&ved=2ahUKEwiI4taQ0I_wAhWOKs0KHRK1DFcQ9QF6BAgKEAE&biw=1854&bih=977#imgrc=cBB_nw5pU-pTDM)
+- [DNS Zones and Records overview - Azure DNS | Microsoft Docs](https://docs.microsoft.com/en-us/azure/dns/dns-zones-records)
+- [AWS Elastic Load Balancing](ELB] - Tutorials Dojo](https://tutorialsdojo.com/aws-elastic-load-balancing-elb/)
+- [AWS Certified Solutions Architect Professional Practice Exam | Udemy](https://www.udemy.com/course/aws-solutions-architect-professional-practice-exams-amazon/learn/quiz/4473246/result/485972098#overview)
+- [AWS Elastic Load Balancing](ELB] - Tutorials Dojo](https://tutorialsdojo.com/aws-elastic-load-balancing-elb/)
+- [aws load balancer at least two subnets must be specified - Google Search](https://www.google.com/search?q=aws+load+balancer+at+least+two+subnets+must+be+specified&rlz=1C1GCEA_enUS849US849&sxsrf=ALeKk013VbZVOsEubtmnLFhdCnBmJq9JwQ%3A1617547560737&ei=KNFpYLKwLNuttQbGxICgCQ&oq=+aws+load+balancer+sub&gs_lcp=Cgdnd3Mtd2l6EAMYBzICCAAyAggAMgIIADICCAAyAggAMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgQIIxAnOgQIABBDOgUIABCRAjoICAAQsQMQgwE6BQgAELEDOgcIABCxAxBDOgcIABCHAhAUOgQIABANOgYIABAHEB46CAghEBYQHRAeOgUIIRCgAVCyP1icggNggbsDaABwAngAgAF6iAGFFpIBBDI4LjSYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=gws-wiz)
+- [Predefined SSL security policies for Classic Load Balancers - Elastic Load Balancing](https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/elb-security-policy-table.html)
+- [Network Load Balancers - Elastic Load Balancing](https://docs.aws.amazon.com/elasticloadbalancing/latest/network/network-load-balancers.html)
+- [Elastic Load Balancing Documentation](https://docs.aws.amazon.com/elasticloadbalancing/?id=docs_gateway)
+- [Compute -2 ECS
+- [sam-patterns-cli - npm](https://www.npmjs.com/package/sam-patterns-cli)
+- [bgp - Google Search](https://www.google.com/search?q=bgp&rlz=1C1GCEA_enUS849US849&oq=bgp+&aqs=chrome..69i57.3186j0j7&sourceid=chrome&ie=UTF-8)
+- [What is Transport Layer Security? | TLS protocol | Cloudflare](https://www.cloudflare.com/learning/ssl/transport-layer-security-tls/)
+- [Kay Gosho - DEV Community](https://dev.to/acro5piano)
+- [docker - How to change the owner of VOLUME directory in Dockerfile? - DevOps Stack Exchange](https://devops.stackexchange.com/questions/4540/how-to-change-the-owner-of-volume-directory-in-dockerfile)
+- [Develop with Docker | Docker Documentation](https://docs.docker.com/develop/)
+- [Docker Context | Docker Documentation](https://docs.docker.com/engine/context/working-with-contexts/)
+- [redis](https://registry.hub.docker.com/_/redis/)
+- [Docker-compose set user and group on mounted volume - Stack Overflow](https://stackoverflow.com/questions/40462189/docker-compose-set-user-and-group-on-mounted-volume)
+- [aws cloudmap - Google Search](https://www.google.com/search?q=aws+cloudmap&rlz=1C1GCEA_enUS849US849&oq=aws+cloudmap&aqs=chrome..69i57j69i65.4911j0j7&sourceid=chrome&ie=UTF-8)
+- [AWS Documentation](https://docs.aws.amazon.com/)
+- [aws cloud map - Google Search](https://www.google.com/search?q=aws+cloud+map&rlz=1C1GCEA_enUS849US849&sxsrf=ALeKk00H4Ejqn8M-82dF0VOUJ93UsQYDQw:1618585874156&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj1ysSghoPwAhU0ElkFHZo3BWsQ_AUoA3oECAEQBQ&biw=1854&bih=920#imgrc=kw9Chh4_iUJH9M)
+- [Cloud Map Service Discovery :: Amazon App Mesh Workshop](https://www.appmeshworkshop.com/servicediscovery/)
+- [Handling Amazon ECS Service Discovery in Java - Pattern Match](https://pattern-match.com/blog/ecs-service-discovery-in-java/)
+- [Docker-compose set user and group on mounted volume - Stack Overflow](https://stackoverflow.com/questions/40462189/docker-compose-set-user-and-group-on-mounted-volume)
+- [Kay Gosho - DEV Community](https://dev.to/acro5piano)
+- [docker - How to change the owner of VOLUME directory in Dockerfile? - DevOps Stack Exchange](https://devops.stackexchange.com/questions/4540/how-to-change-the-owner-of-volume-directory-in-dockerfile)
+- [Develop with Docker | Docker Documentation](https://docs.docker.com/develop/)
+- [Docker Context | Docker Documentation](https://docs.docker.com/engine/context/working-with-contexts/)
+- [redis](https://registry.hub.docker.com/_/redis/)
+- [James Beswick | AWS Compute Blog](https://aws.amazon.com/blogs/compute/author/jbeswick/page/3/)
+- [Serverless patterns | Serverless Land](https://serverlessland.com/patterns)
+- [Alex DeBrie - Serverless & AWS](https://www.alexdebrie.com/)
+- [serverless-vpc-examples/nat-gateway at master · alexdebrie/serverless-vpc-examples](https://github.com/alexdebrie/serverless-vpc-examples/tree/master/nat-gateway)
+- [Amazon S3 Features | Object Lambda | AWS](https://aws.amazon.com/s3/features/object-lambda/)
+- [Jump-starting your serverless development environment | AWS Compute Blog](https://aws.amazon.com/blogs/compute/jump-starting-your-serverless-development-environment/?sc_channel=sm&sc_campaign=Serverless,DB_Blog&sc_publisher=TWITTER&sc_country=DynamoDB&sc_geo=GLOBAL&sc_outcome=awareness&trk=ddbjumpstartingserverlessdevenv_031721_TWITTER&sc_category=Amazon+DynamoDB&linkId=109519014)
+- [Implementing Canary Deployments of AWS Lambda Functions with Alias Traffic Shifting | AWS Compute Blog](https://aws.amazon.com/blogs/compute/implementing-canary-deployments-of-aws-lambda-functions-with-alias-traffic-shifting/)
+- [Building well-architected serverless applications: Controlling serverless API access – part 1 | AWS Compute Blog](https://aws.amazon.com/blogs/compute/building-well-architected-serverless-applications-controlling-serverless-api-access-part-1/)
+- [Building well-architected serverless applications: Controlling serverless API access – part 2 | AWS Compute Blog](https://aws.amazon.com/blogs/compute/building-well-architected-serverless-applications-controlling-serverless-api-access-part-2/)
+- [Building well-architected serverless applications: Controlling serverless API access – part 3 | AWS Compute Blog](https://aws.amazon.com/blogs/compute/building-well-architected-serverless-applications-controlling-serverless-api-access-part-3/)
+- [Operating Lambda: Building a solid security foundation – Part 1 | AWS Compute Blog](https://aws.amazon.com/blogs/compute/operating-lambda-building-a-solid-security-foundation-part-1/)
+- [Operating Lambda: Building a solid security foundation – Part 2 | AWS Compute Blog](https://aws.amazon.com/blogs/compute/operating-lambda-building-a-solid-security-foundation-part-2/)
+- [Understanding the level of abstraction - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/operatorguide/level-abstraction.html)
+- [Operating Lambda: Application design and Service Quotas – Part 1 | AWS Compute Blog](https://aws.amazon.com/blogs/compute/operating-lambda-application-design-and-service-quotas-part-1/)
+- [Artillery.io | Load & Smoke Testing](https://artillery.io/)
+- [Nordstrom/serverless-artillery: Combine serverless with artillery and you get serverless-artillery for instant, cheap, and easy performance testing at scale.](https://github.com/Nordstrom/serverless-artillery)
+- [Gatling Open-Source Load Testing – For DevOps and CI/CD](https://gatling.io/)
+- [Operating Lambda: Understanding event-driven architecture – Part 1 | AWS Compute Blog](https://aws.amazon.com/blogs/compute/operating-lambda-understanding-event-driven-architecture-part-1/)
+- [Operating Lambda: Design principles in event-driven architectures – Part 2 | AWS Compute Blog](https://aws.amazon.com/blogs/compute/operating-lambda-design-principles-in-event-driven-architectures-part-2/)
+- [Operating Lambda: Design principles in event-driven architectures – Part 2 | AWS Compute Blog](https://aws.amazon.com/blogs/compute/operating-lambda-design-principles-in-event-driven-architectures-part-2/)
+- [Operating Lambda: Application design – Scaling and concurrency: Part 2 | AWS Compute Blog](https://aws.amazon.com/blogs/compute/operating-lambda-application-design-scaling-and-concurrency-part-2/)
+- [Managing AWS Lambda Function Concurrency | AWS Compute Blog](https://aws.amazon.com/blogs/compute/managing-aws-lambda-function-concurrency/)
+- [Managing concurrency for a Lambda function - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/configuration-concurrency.html)
+- [Operating Lambda: Anti-patterns in event-driven architectures – Part 3 | AWS Compute Blog](https://aws.amazon.com/blogs/compute/operating-lambda-anti-patterns-in-event-driven-architectures-part-3/)
+- [Operating Lambda: Application design – Part 3 | AWS Compute Blog](https://aws.amazon.com/blogs/compute/operating-lambda-application-design-part-3/)
+- [Invoking AWS Lambda functions - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/lambda-invocation.html)
+- [Asynchronous invocation - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/invocation-async.html)
+- [Announcing improved VPC networking for AWS Lambda functions | AWS Compute Blog](https://aws.amazon.com/blogs/compute/announcing-improved-vpc-networking-for-aws-lambda-functions/)
+- [Introducing AWS Lambda Destinations | AWS Compute Blog](https://aws.amazon.com/blogs/compute/introducing-aws-lambda-destinations/)
+- [Three ways to use AWS services from a Lambda in a VPC](https://www.alexdebrie.com/posts/aws-lambda-vpc/)
+- [Optimizing serverless development with samconfig | AWS Compute Blog](https://aws.amazon.com/blogs/compute/optimizing-serverless-development-with-samconfig/)
+- [Application integration patterns for microservices: Orchestration and coordination | AWS Compute Blog](https://aws.amazon.com/blogs/compute/application-integration-patterns-for-microservices-orchestration-and-coordination/)
+- [aws-samples/asynchronous-messaging-workshop: The Asynchronous Messaging Workshop is a collection of individual labs covering different aspects and patterns of asynchronous messaging.](https://github.com/aws-samples/asynchronous-messaging-workshop)
+- [Decoupled Microservices :: Wild Rydes Asynchronous Messaging Workshop](https://async-messaging.workshop.aws/)
+- [Enterprise Integration Patterns - Pipes and Filters](https://www.enterpriseintegrationpatterns.com/patterns/messaging/PipesAndFilters.html)
+- [Understanding asynchronous messaging for microservices | AWS Compute Blog](https://aws.amazon.com/blogs/compute/understanding-asynchronous-messaging-for-microservices/)
+- [Implementing enterprise integration patterns with AWS messaging services: point-to-point channels | AWS Compute Blog](https://aws.amazon.com/blogs/compute/implementing-enterprise-integration-patterns-with-aws-messaging-services-point-to-point-channels/)
+- [Implementing enterprise integration patterns with AWS messaging services: publish-subscribe channels | AWS Compute Blog](https://aws.amazon.com/blogs/compute/implementing-enterprise-integration-patterns-with-aws-messaging-services-publish-subscribe-channels/)
+- [Home - Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/)
+- [Building Scalable Applications and Microservices: Adding Messaging to Your Toolbox | AWS Compute Blog](https://aws.amazon.com/blogs/compute/building-scalable-applications-and-microservices-adding-messaging-to-your-toolbox/)
+- [Application integration patterns for microservices: Fan-out strategies | AWS Compute Blog](https://aws.amazon.com/blogs/compute/application-integration-patterns-for-microservices-fan-out-strategies/)
+- [Application integration patterns for microservices: Running distributed RFQs | AWS Compute Blog](https://aws.amazon.com/blogs/compute/application-integration-patterns-running-distributed-rfqs/)
+- [Using Amazon SQS dead-letter queues to replay messages | AWS Compute Blog](https://aws.amazon.com/blogs/compute/using-amazon-sqs-dead-letter-queues-to-replay-messages/)
+- [Building event-driven architectures with Amazon SNS FIFO | AWS Compute Blog](https://aws.amazon.com/blogs/compute/building-event-driven-architectures-with-amazon-sns-fifo/)
+- [Building resilient serverless patterns by combining messaging services | AWS Compute Blog](https://aws.amazon.com/blogs/compute/building-resilient-no-code-serverless-patterns-by-combining-messaging-services/)
+- [How to Use Amazon EventBridge to Build Decoupled, Event-Driven Architectures | AWS Learning Path](https://pages.awscloud.com/AWS-Learning-Path-How-to-Use-Amazon-EventBridge-to-Build-Decoupled-Event-Driven-Architectures_2020_LP_0001-SRV.html)
+- [Event-Driven Architecture](https://aws.amazon.com/event-driven-architecture/)
+- [Introducing Amazon API Gateway service integration for AWS Step Functions | AWS Compute Blog](https://aws.amazon.com/blogs/compute/introducing-amazon-api-gateway-service-integration-for-aws-step-functions/)
+- [AWS Compute Blog](https://aws.amazon.com/blogs/compute/)
+- [Configuring private integrations with Amazon API Gateway HTTP APIs | AWS Compute Blog](https://aws.amazon.com/blogs/compute/configuring-private-integrations-with-amazon-api-gateway-http-apis/)
+- [Amazon API Gateway concepts - Amazon API Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-basic-concept.html)
+- [Best practices for organizing larger serverless applications | AWS Compute Blog](https://aws.amazon.com/blogs/compute/best-practices-for-organizing-larger-serverless-applications/)
+- [Introducing cross-Region event routing with Amazon EventBridge | AWS Compute Blog](https://aws.amazon.com/blogs/compute/introducing-cross-region-event-routing-with-amazon-eventbridge/)
+- [aws cloudfront multiple origins - Google Search](https://www.google.com/search?q=aws+cloudfront+multiple+origins&rlz=1C1GCEA_enUS849US849&sxsrf=ALeKk00OeAfvDh78VrNJsVxOGL66ORQvxw%3A1617721333278&ei=9XdsYNXHEJe7tQbv_K3QAg&oq=aws+cloudfront+origins&gs_lcp=Cgdnd3Mtd2l6EAMYADIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwA1AAWABg8iloAXACeACAAXGIAXGSAQMwLjGYAQCqAQdnd3Mtd2l6yAEIwAEB&sclient=gws-wiz)
+- [Using Amazon S3 Origins, MediaPackage Channels, and Custom Origins for Web Distributions - Amazon CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/DownloadDistS3AndCustomOrigins.html#concept_origin_groups)
+- [Optimizing high availability with CloudFront origin failover - Amazon CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/high_availability_origin_failover.html)
+- [Optimizing high availability with CloudFront origin failover - Amazon CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/high_availability_origin_failover.html#concept_origin_groups.creating)
+- [server name indentification - Google Search](https://www.google.com/search?q=server+name+indentification&rlz=1C1GCEA_enUS849US849&oq=server+name+indentification&aqs=chrome..69i57.7523j0j7&sourceid=chrome&ie=UTF-8)
+- [What Is SNI? How TLS Server Name Indication Works | Cloudflare](https://www.cloudflare.com/learning/ssl/what-is-sni/)
+- [App Integration - API GW, SQS, SNS MQ
+- [A Detailed Overview of AWS API Gateway](https://www.alexdebrie.com/posts/api-gateway-elements/#key-takeaways-from-step-0-authorization)
+- [Things to Consider When You Build REST APIs with Amazon API Gateway | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/things-to-consider-when-you-build-rest-apis-with-amazon-api-gateway/)
+- [The Missing Guide to AWS API Gateway Access Logs](https://www.alexdebrie.com/posts/api-gateway-access-logs/)
+- [How to Architect APIs for Scale and Security | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/how-to-architect-apis-for-scale-and-security/)
+- [How to Design Your Serverless Apps for Massive Scale | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/how-to-design-your-serverless-apps-for-massive-scale/)
+- [aws appsync vs apigateway - Google Search](https://www.google.com/search?q=aws+appsync+vs+apigateway&rlz=1C1GCEA_enUS849US849&oq=aws+appsync+vs+apigateway&aqs=chrome..69i57.10412j0j7&sourceid=chrome&ie=UTF-8)
+- [Real-Time Data - AWS AppSync](https://docs.aws.amazon.com/appsync/latest/devguide/aws-appsync-real-time-data.html)
+- [Deployment and Patching - Infras, App
+- [Quick start](https://terragrunt.gruntwork.io/docs/getting-started/quick-start/#keep-your-backend-configuration-dry)
+- [Enhancing the Terraform Experience: Why we use Terragrunt](https://transcend.io/blog/why-we-use-terragrunt)
+- [Terraform dynamic block creates 5 resources for one input : Terraform](https://www.reddit.com/r/Terraform/comments/m3n0qv/terraform_dynamic_block_creates_5_resources_for/)
+- [aws-cdk-examples/app.py at master · aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples/blob/master/python/ec2/instance/app.py)
+- [Building an image searching solution with the AWS CDK | AWS Compute Blog](https://aws.amazon.com/blogs/compute/building-an-image-searching-solution-with-the-aws-cdk/)
+- [aws cdk - How to add a tag to an AWS-CDK construct - Stack Overflow](https://stackoverflow.com/questions/54990414/how-to-add-a-tag-to-an-aws-cdk-construct)
+- [class Instance](construct] · AWS CDK](https://docs.aws.amazon.com/cdk/api/latest/docs/@aws-cdk_aws-ec2.Instance.html#instancetype)
+- [API reference - AWS Cloud Development Kit](AWS CDK]](https://docs.aws.amazon.com/cdk/latest/guide/reference.html)
+- [cdk.py - aws-samples/aws-cdk-examples - GitHub1s](https://github1s.com/aws-samples/aws-cdk-examples/blob/master/python/image-content-search/stack/cdk.py)
+- [How and Why to Use CloudFormation Macros](https://www.alexdebrie.com/posts/cloudformation-macros/)
+- [AWS::Serverless transform - AWS CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/transform-aws-serverless.html)
+- [aws-cloudformation/awesome-cloudformation: A curated list of resources and projects for working with AWS CloudFormation.](https://github.com/aws-cloudformation/awesome-cloudformation)
+- [aws-cloudformation/awesome-cloudformation: A curated list of resources and projects for working with AWS CloudFormation.](https://github.com/aws-cloudformation/awesome-cloudformation#3rd-parties)
+- [aws-cloudformation-samples/modules/VpcWizard at main · aws-cloudformation/aws-cloudformation-samples](https://github.com/aws-cloudformation/aws-cloudformation-samples/tree/main/modules/VpcWizard)
+- [Introducing AWS CloudFormation modules | AWS Management & Governance Blog](https://aws.amazon.com/blogs/mt/introducing-aws-cloudformation-modules/)
+- [cloudformation stack vs module - Google Search](https://www.google.com/search?q=cloudformation+stack+vs+module&rlz=1C1GCEA_enUS849US849&oq=cloudformation+stack+vs+module&aqs=chrome..69i57.6308j0j7&sourceid=chrome&ie=UTF-8)
+- [The Definitive Guide to Terraform vs. CloudFormation | Toptal](https://www.toptal.com/terraform/terraform-vs-cloudformation)
+- [AWS CloudFormation vs. Terraform: Which One Should You Choose?](https://www.missioncloud.com/blog/aws-cloudformation-vs-terraform-which-one-should-you-choose)
+- [aws-cloudformation/aws-cfn-lint-visual-studio-code: CloudFormation Linter IDE integration, autocompletion, and documentation](https://github.com/aws-cloudformation/aws-cfn-lint-visual-studio-code)
+- [AWS CloudFormation resource specification - AWS CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-resource-specification.html)
+- [jeshan/scale-your-cloudformation: Success tactics for getting more out of Infrastructure as Code on AWS](https://github.com/jeshan/scale-your-cloudformation)
+- [CloudFormation’s shortcomings](and how to deal with them]](https://scaleyourcloudformation.com/#/shortcomings)
+- [Custom resource request objects - AWS CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/crpg-ref-requests.html)
+- [aws-cloudformation/awesome-cloudformation: A curated list of resources and projects for working with AWS CloudFormation.](https://github.com/aws-cloudformation/awesome-cloudformation#reference-guides)
+- [aws-cloudformation-templates/VPC_EC2_Instance_With_Multiple_Static_IPAddresses.yaml at master · awslabs/aws-cloudformation-templates](https://github.com/awslabs/aws-cloudformation-templates/blob/master/aws/services/VPC/VPC_EC2_Instance_With_Multiple_Static_IPAddresses.yaml)
+- [AWS CloudTrail - Tutorials Dojo](https://tutorialsdojo.com/aws-cloudtrail/)
+- [Introducing AWS CloudShell](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-cloudshell/)
+- [Limits and restrictions for AWS CloudShell - AWS CloudShell](https://docs.aws.amazon.com/cloudshell/latest/userguide/limits.html)
+- [Understanding DevOps SRE SysAdministrators - Tagalong.Page](https://tagalong.page/post/understanding-devops-sre-sysadministrators/)
+- [Using self-hosted Apache Kafka as an event source for AWS Lambda | AWS Compute Blog](https://aws.amazon.com/blogs/compute/using-self-hosted-apache-kafka-as-an-event-source-for-aws-lambda/)
+- [2021/Feb
+- [aws cost analysis using athena - Google Search](https://www.google.com/search?q=aws+cost+analysis+using+athena&rlz=1C1GCEA_enUS849US849&oq=aws+cost+analysis+using+athena&aqs=chrome..69i57.8672j0j7&sourceid=chrome&ie=UTF-8)
+- [Amazon Athena | AWS Cost Management](https://aws.amazon.com/blogs/aws-cost-management/category/analytics/amazon-athena/)
+- [Cost Allocation Blog Series #1: Cost Allocation Basics That You Need to Know | AWS Cost Management](https://aws.amazon.com/blogs/aws-cost-management/cost-allocation-basics-that-you-need-to-know/)
+- [Cost Allocation Blog Series #2: AWS-Generated vs. User-Defined Cost Allocation Tag | AWS Cost Management](https://aws.amazon.com/blogs/aws-cost-management/cost-allocation-blog-series-2-aws-generated-vs-user-defined-cost-allocation-tag/)
+- [Cost Allocation Blog Series #3: Enforce and Validate AWS Resource Tags | AWS Cost Management](https://aws.amazon.com/blogs/aws-cost-management/cost-allocation-blog-series-3-enforce-and-validate-aws-resource-tags/)
+- [Cost Allocation Blog Series #4: Visualize Data Transfer Costs with Cost and Usage Reports, Athena, and QuickSight | AWS Cost Management](https://aws.amazon.com/blogs/aws-cost-management/cost-allocation-blog-series-4-visualize-data-transfer-costs-with-cost-and-usage-reports-athena-and-quicksight/)
+- [AWS CloudFormation | AWS Cost Management](https://aws.amazon.com/blogs/aws-cost-management/category/management-tools/aws-cloudformation/)
+- [Cost Control Blog Series #2: Automate Cost Control using AWS Service Catalog and AWS Budgets | AWS Cost Management](https://aws.amazon.com/blogs/aws-cost-management/cost-control-blog-series-2-automate-cost-control-using-aws-service-catalog-aws-budgets/)
+- [Using service-linked roles - AWS Identity and Access Management](https://docs.aws.amazon.com/IAM/latest/UserGuide/using-service-linked-roles.html)
+- [Cost Control Blog Series #1: Good intentions don’t work, but cost control mechanisms do! | AWS Cost Management](https://aws.amazon.com/blogs/aws-cost-management/good-intentions-dont-work-but-cost-control-mechanisms-do/)
+- [horizontal line - Google Search](https://www.google.com/search?q=horizontal+line&rlz=1C1GCEA_enUS849US849&oq=horizontal+line&aqs=chrome..69i57j69i60l2j69i61.6211j0j7&sourceid=chrome&ie=UTF-8)
+- [Querying your AWS Cost and Usage Report using Amazon Athena | AWS Cost Management](https://aws.amazon.com/blogs/aws-cost-management/querying-your-aws-cost-and-usage-report-using-amazon-athena/)
+- [](AMER] Learn and be curious: On-demand library - AWS Sales Kick-Off 2021](https://sko21.virtual.awsevents.com/media/t/1_2bzrxaae)
+- [2021_SKO_Internal_Agenda.jpg](4000×2250]](https://share.amazon.com/sites/VKO21CFT/SiteAssets/2021_SKO_Internal_Agenda.jpg?nc2=sko21_m_b_ag)
+- [General
+- [20+ tools you didn't realize exist - AWS Sales Kick-Off 2021](https://sko21.virtual.awsevents.com/media/t/1_wbz9lpz0/194249123)
+- [App Architecture
+- [App Design
+- [Orchestration tips and tricks using AWS Step Functions - AWS Sales Kick-Off 2021](https://sko21.virtual.awsevents.com/media/t/1_pmej1j0t/194249123)
+- [Amazon EventBridge multi-account design patterns - AWS Sales Kick-Off 2021](https://sko21.virtual.awsevents.com/media/t/1_pxbcvud3/194249123)
+- [Serverless
+- [State of the nation: Serverless - AWS Sales Kick-Off 2021](https://sko21.virtual.awsevents.com/media/t/1_3e1wm2v3/194249123)
+- [Top best practices and tips for building serverless applications - AWS Sales Kick-Off 2021](https://sko21.virtual.awsevents.com/media/t/1_5ncwhdmc/194249123)
+- [Choosing your Serverless framework and deployment toolchain - AWS Sales Kick-Off 2021](https://sko21.virtual.awsevents.com/media/t/1_ouu0zkpe/194249123)
+- [Containers
+- [State of the nation: Containers - AWS Sales Kick-Off 2021](https://sko21.virtual.awsevents.com/media/t/1_hp7cgrma/194249123)
+- [Infra Architecture
+- [AWS Control Tower based landing zones - AWS Sales Kick-Off 2021](https://sko21.virtual.awsevents.com/media/t/1_fj4ngq46/194249123)
+- [AWS Perspective - Visualize your AWS workloads - AWS Sales Kick-Off 2021](https://sko21.virtual.awsevents.com/media/t/1_4clnvgaj/194249123)
+- [2021/Feb/15 - Reinvent 2021 Level Up Assessment
+- [Feb/14
+- [Learn and Be Curious!](https://amazonwebservices.mindtickle.com/?_branch_match_id=748228367006007679#/update/1297965894861548202?series=1242568502164233107)
+- [Amazon Neptune ML - Google Search](https://www.google.com/search?q=Amazon+Neptune+ML&rlz=1C1GCEA_enUS849US849&oq=Amazon+Neptune+ML&aqs=chrome..69i57j69i64&sourceid=chrome&ie=UTF-8)
+- [aws nepture predications - Google Search](https://www.google.com/search?q=aws+nepture+predications&rlz=1C1GCEA_enUS849US849&oq=aws+nepture+predications&aqs=chrome..69i57.5361j0j4&sourceid=chrome&ie=UTF-8)
+- [amazon neptune ML type of predictions - Google Search](https://www.google.com/search?q=amazon+neptune+ML+type+of+predictions&rlz=1C1GCEA_enUS849US849&oq=amazon+neptune+ML+type+of+predictions&aqs=chrome..69i57j69i64.6091j0j4&sourceid=chrome&ie=UTF-8)
+- [Using Amazon Neptune ML for machine learning on graphs - Amazon Neptune](https://docs.aws.amazon.com/neptune/latest/userguide/machine-learning.html)
+- [Multi-Destination Replication - Google Search](https://www.google.com/search?q=Multi-Destination+Replication&rlz=1C1GCEA_enUS849US849&oq=Multi-Destination+Replication&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+- [Amazon S3 Replication adds support for multiple destinations in the same, or different AWS Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-s3-replication-adds-support-for-multiple-destinations-in-the-same-or-different-aws-regions/)
+- [amplify admin ui data model - Google Search](https://www.google.com/search?rlz=1C1GCEA_enUS849US849&sxsrf=ALeKk01raPKebMmSUB5n1nqz0WkhTMu_gg%3A1613365434771&ei=ugAqYO7CLsWp5NoPp_C76AM&q=amplify+admin+ui+data+model&oq=Amplify+Admin+UI+da&gs_lcp=Cgdnd3Mtd2l6EAMYADICCAAyAggAOgcIIxCwAxAnOgcIABBHELADUKETWPsWYMkhaAFwAngAgAGHAogB1gWSAQUxLjEuMpgBAKABAaoBB2d3cy13aXrIAQnAAQE&sclient=gws-wiz)
+- [AWS Amplify announces new Admin UI](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-amplify-announces-new-admin-ui/)
+- [Amplify Admin UI - Google Search](https://www.google.com/search?q=Amplify+Admin+UI&rlz=1C1GCEA_enUS849US849&oq=Amplify+Admin+UI&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+- [Getting started - Amplify Docs](https://docs.amplify.aws/start)
+- [TechnicalMessagingDoc.pdf](file:///C:/Users/shakkat/Downloads/TechnicalMessagingDoc.pdf)
+- [aws iot greengrass 2.0 edge logic - Google Search](https://www.google.com/search?rlz=1C1GCEA_enUS849US849&biw=1623&bih=840&sxsrf=ALeKk013bmdel7BDRgqMU3ONZe4OctfgLw%3A1613363214253&ei=DvgpYLHyDoWo5NoPxKy72Ak&q=aws+iot+greengrass+2.0+edge+logic&oq=AWS+IoT+Greengrass+2.0&gs_lcp=Cgdnd3Mtd2l6EAMYATICCAAyBwgAEIcCEBQyAggAMgcIABCHAhAUMgIIADICCAAyAggAMgUIABCGA1DV8wRY1fMEYNK8BWgAcAJ4AIABkQKIAfgDkgEDMi0ymAEAoAECoAEBqgEHZ3dzLXdpesABAQ&sclient=gws-wiz)
+- [Announcing AWS IoT Greengrass 2.0 – With an Open Source Edge Runtime and New Developer Capabilities | AWS News Blog](https://aws.amazon.com/blogs/aws/announcing-aws-iot-greengrass-2-0-with-an-open-source-edge-runtime-and-new-developer-capabilities/)
+- [Amazon SageMaker Edge Manager – Model Management for Edge Devices - Amazon Web Services](https://aws.amazon.com/sagemaker/edge-manager/)
+- [AWS Announces Amazon SageMaker Edge Manager](https://www.infoq.com/news/2020/12/amazon-sagemaker-edge-manager/)
+- [site aws.amazon.com devops guru data sources - Google Search](https://www.google.com/search?rlz=1C1GCEA_enUS849US849&sxsrf=ALeKk00sn7AcLBKCONxDpthzHu8nIaRlXQ%3A1613362462192&ei=HvUpYOGLC9er5NoPue2koA4&q=site+aws.amazon.com+devops+guru+data+sources&oq=site+aws.amazon.com+devops+guru+data+sources&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKsCMgUIIRCrAjoECCMQJzoECAAQQzoFCAAQkQI6CwguELEDEMcBEKMCOggILhCxAxCDAToFCAAQsQM6AgguOgcIABCHAhAUOgQILhBDOgcIABDJAxBDOgIIADoKCAAQhwIQsQMQFDoGCAAQFhAeOggIIRAWEB0QHjoFCCEQoAE6BwghEAoQoAFQqCFY1JMBYMCVAWgAcAJ4AYABigKIAecbkgEHMTMuMTYuMpgBAKABAaABAqoBB2d3cy13aXrAAQE&sclient=gws-wiz&ved=0ahUKEwjhks_Dg-vuAhXXFVkFHbk2CeQQ4dUDCA0&uact=5)
+- [High level DevOps Guru workflow - Amazon DevOps Guru](https://docs.aws.amazon.com/devops-guru/latest/userguide/high-level-workflow.html)
+- [Internet of Things | AWS News Blog](https://aws.amazon.com/blogs/aws/category/internet-of-things/)
+- [How VPC Reachability Analyzer works - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/reachability/how-reachability-analyzer-works.html)
+- [Introducing AWS Systems Manager Change Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-systems-manager-change-manager/)
+- [Amazon Monitron FAQs - Amazon Web Services](https://aws.amazon.com/monitron/faqs/)
+- [Object Storage Classes – Amazon S3](https://aws.amazon.com/s3/storage-classes/)
+- [Using Amazon S3 storage classes - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html)
+- [Introducing Amazon EC2 M5zn instances, with high frequency processors and 100 Gbps networking](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-m5zn-instances/)
+- [2021/Feb/16 - James Beswick - Started from Twitter 
+- [Use tags to manage and secure access to additional types of IAM resources | AWS Security Blog](https://aws.amazon.com/blogs/security/use-tags-to-manage-and-secure-access-to-additional-types-of-iam-resources/?sc_channel=sm&sc_campaign=AWSSecurity_Misc&sc_publisher=TWITTER&sc_country=Security&sc_geo=GLOBAL&sc_outcome=awareness&trk=AWSSecurity_Blog_TWITTER&linkId=111280818)
+- [2021/Mar
+- [Windows 10 - release information | Microsoft Docs](https://docs.microsoft.com/en-us/windows/release-health/release-information)
+- [Mar18-Tech
+- [Actions, resources, and condition keys for AWS Billing - Service Authorization Reference](https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsbilling.html)
+- [Mar/21/Tech
+- [Window Manager](chrome-extension://aadahadfdmiibmdhfmpbeeebejmjnkef/manager.html)
+- [Introducing Amazon QuickSight Q: ask questions about your data and get answers in seconds](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-quicksight-q/)
+- [Introducing Amazon Comprehend Medical: A natural language processing service for medical text](https://aws.amazon.com/about-aws/whats-new/2018/11/introducing-amazon-comprehend-medical/)
+- [Amazon Lookout for Equipment - Amazon Web Services](https://aws.amazon.com/lookout-for-equipment/)
+- [Amazon Redshift | Redshift ML - Amazon Web Services](https://aws.amazon.com/redshift/features/redshift-ml/)
+- [Amazon Monitron FAQs - Amazon Web Services](https://aws.amazon.com/monitron/faqs/)
+- [Harness the power of your data with AWS Analytics | AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/harness-the-power-of-your-data-with-aws-analytics/)
+- [Amazon Lookout for Metrics FAQ - Amazon Web Services](https://aws.amazon.com/lookout-for-metrics/faqs/)
+- [Tech Fundas & Reference List
+- [vinta/awesome-python: A curated list of awesome Python frameworks, libraries, software and resources](https://github.com/vinta/awesome-python#serverless-frameworks)
+- [Get started using VS Code with WSL | Microsoft Docs](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-vscode)
+- [How to run multiple shells on Emacs - Stack Overflow](https://stackoverflow.com/questions/6532998/how-to-run-multiple-shells-on-emacs)
+- [](1] AWS IP Address Lookup - Enter an IP address to see the region information : aws](https://www.reddit.com/r/aws/comments/e0zz8n/aws_ip_address_lookup_enter_an_ip_address_to_see/)
+- [tcp 3 way handshake - Google Search](https://www.google.com/search?q=tcp+3+way+handshake&rlz=1C1GCEA_enUS849US849&oq=tcp+3+way+handshake&aqs=chrome..69i57.6107j0j7&sourceid=chrome&ie=UTF-8)
+- [The TCP/IP Guide - TCP Connection Establishment Process: The "Three-Way Handshake"](http://www.tcpipguide.com/free/t_TCPConnectionEstablishmentProcessTheThreeWayHandsh-3.htm)
+- [TCP 3-Way Handshake Process - GeeksforGeeks](https://www.geeksforgeeks.org/tcp-3-way-handshake-process/)
+- [tls negotiation - Google Search](https://www.google.com/search?q=tls+negotiation&rlz=1C1GCEA_enUS849US849&oq=tls+negotiation&aqs=chrome..69i57.6886j0j7&sourceid=chrome&ie=UTF-8)
+- [What is an SSL certificate? | How to get a free SSL certificate | Cloudflare](https://www.cloudflare.com/learning/ssl/what-is-an-ssl-certificate/)
+- [Tutorials](https://www.javacodegeeks.com/tutorials)
+- [Spring Dependency Injection - Field vs Setter vs Constructor Injection | amitph](https://www.amitph.com/spring-field-setter-constructor-injection/)
+- [Spring Tutorials | amitph](https://www.amitph.com/spring/)
+- [Spring @Autowired Guide | amitph](https://www.amitph.com/spring-autowired-guide/)
+- [Installing, updating, and uninstalling the AWS CLI version 2 on Windows - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-windows.html#cliv2-windows-install)
+- [aws-cli/CHANGELOG.rst at v2 · aws/aws-cli](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst)
+- [New in IAM: Quickly Identify When an Access Key Was Last Used | AWS Security Blog](https://aws.amazon.com/blogs/security/new-in-iam-quickly-identify-when-an-access-key-was-last-used/?sc_channel=sm&sc_campaign=AWSSecurity_Identity&sc_publisher=TWITTER&sc_country=Identity&sc_geo=GLOBAL&sc_outcome=awareness&trk=AWSSecurity_Identity_TWITTER&sc_category=AWS+Identity+and+Access+Management,AWS+Identity+and+Access+Management+(IAM]&linkId=117776085)
+- [Understanding and getting your AWS credentials - AWS General Reference](https://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html)
+- [cap theorem - Google Search](https://www.google.com/search?q=cap+theorem&rlz=1C1GCEA_enUS849US849&sxsrf=ALeKk0026nWnBRRrSl-3Iu4Swo01WnP-bQ:1620706007840&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjFmoev4MDwAhWIPM0KHd1vAOkQ_AUoAnoECAEQBA&biw=1845&bih=977#imgrc=qb7i5PjCMI-CFM)
+- [consistency - NoSQL: What does it mean for MongoDB or BigTable to not always be "Available" - Stack Overflow](https://stackoverflow.com/questions/7339374/nosql-what-does-it-mean-for-mongodb-or-bigtable-to-not-always-be-available)
+- [what is virutal function in c++ - Google Search](https://www.google.com/search?q=what+is+virutal+function+in+c%2B%2B&rlz=1C1GCEA_enUS849US849&oq=what+is+virutal+function+in+c%2B%2B&aqs=chrome..69i57.5456j0j7&sourceid=chrome&ie=UTF-8)
+- [Getting started with serverless for developers: Part 1 | AWS Compute Blog](https://aws.amazon.com/blogs/compute/getting-started-with-serverless-for-developers-part-1/)
+- [Getting started with serverless for developers: Part 2 – The business logic | AWS Compute Blog](https://aws.amazon.com/blogs/compute/getting-started-with-serverless-for-developers-part-2-the-business-logic/)
+- [Getting started with serverless for developers: Part 3 – The front door | AWS Compute Blog](https://aws.amazon.com/blogs/compute/getting-started-with-serverless-for-developers-part-3-the-front-door/?nc1=b_rp)
+- [Managing Asynchronous Workflows with a REST API | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/managing-asynchronous-workflows-with-a-rest-api/?nc1=b_rp)
