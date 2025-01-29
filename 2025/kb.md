@@ -18,5 +18,13 @@
 
     1. Source Page : https://www.vellum.ai/blog/the-training-of-deepseek-r1-and-ways-to-use-it
     
+        **DeepSeek just made a breakthrough**: you can train a model to match OpenAI o1-level reasoning using pure reinforcement learning (RL) without using labeled data (DeepSeek-R1-Zero). But RL alone isn’t perfect — it can lead to challenges like poor readability. A mix of methods in a multi-stage training fixes these (DeepSeek-R1).
+
+        These **"reasoning models" introduce a chain-of-thought (CoT) thinking phase before generating an answer at inference time**, which in turn improves their reasoning performance.
+
         To better understand the backbone of DeepSeek-R1, let's cover the basics:
         1. https://www.vellum.ai/blog/the-training-of-deepseek-r1-and-ways-to-use-it#:~:text=to%20better%20understand%20the%20backbone%20of%20deepseek
+
+        ![alt text](image.png)
+
+        ![alt text](image-1.png)
