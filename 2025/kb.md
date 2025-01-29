@@ -19,4 +19,4 @@
     1. Source Page : https://www.vellum.ai/blog/the-training-of-deepseek-r1-and-ways-to-use-it
     
         To better understand the backbone of DeepSeek-R1, let's cover the basics:
-        1. https://www.vellum.ai/blog/the-training-of-deepseek-r1-and-ways-to-use-it#:~:text=to%20better%20understand%20the%20backbone%20of%20deepseek-r1
+        1. https://www.vellum.ai/blog/the-training-of-deepseek-r1-and-ways-to-use-it#:~:text=to%20better%20understand%20the%20backbone%20of%20deepseek
