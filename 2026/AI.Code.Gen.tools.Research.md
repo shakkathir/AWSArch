@@ -890,3 +890,27 @@ Is it a production autonomous agent running long tasks?
 ```
 
 > 💡 They are not competitors — they are companions. Start with LangChain, move to LangGraph as workflows grow complex, add LangSmith for observability, and use LangFlow when you need fast visual iteration or team collaboration.
+
+Prabhakar 
+## Book for work 
+## Completed : 
+1. Conversational AI  Integration for Chase MyHome HLCC (SalesForce) with external Vendor Bland 
+Business usecase -  Customer outgoing calls to help / guide the prospective home loan customer to finish the unfinshed incomplete applications. 
+1. PII data redaction  - 
+1. AWS ECS Cluster Cost Optimiation Skills Design. 
+
+## In Progess
+1. Conversational AI - Integration Chase Mortgage Servicing with external vendor Salient - Customer ougtoing calls to follow on late payments and help guide the customer 
+2. Home and Auto Lending Architecture KB 
+
+## In the pipeline. 
+1. AWS Architecture Research Kit : Agent toolkit for enterprise architects that transforms architecture governance from scattered documents into a systematic, AI-assisted workflow. Use case: Architect as green or brown field project with requirements and wants to identify AWS service needs, Match requirements to specific AWS services with configurations,  Check regional availability, Generate AWS Solution diagrams and estimate cost and optimizations.
+1. Incident Triage Assistant : Agnet designed to help IT Support and Software Developers triage, manage, and research resolution for  issues reported in the production . The agent will use either Claude Agent SDK or Copilot SDK, any RDBMS bug ticket database (internal tickets), GitHub MCP server (external tickets), RAG, searching JPMC confluence pages and StackOverflow to assist in debugging.
+
+## Personal Projects
+1. Apple M5 Max based Local LLM inference workstation setup - MLX model running LM Studio ( or Ollama)  with Claude Code running with Gemma 4 27B (dense) and Qwen3.6 31B (dense)
+1. OpenRouter based OpenAI compatible LLM APIs workstation setup - GGUFF model with with Claude Code using frontier models from Gemini, Qwen and DeepSeek. 
+
+## Upcoming Certification Exams 
+AWS ML Engineer – Associate - June 2026
+Claude Certified Architect  - ??? ( Not open to JPMC yet but study material are open ) 
